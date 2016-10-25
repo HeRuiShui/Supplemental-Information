@@ -1,0 +1,895 @@
+#SwissprotGeneID	Database_ID	E_value	Identity	Score	Annotation
+T1_Unigene_BMK.37867	sp|Q9LNE7|CML7_ARATH	1.54001e-17	40/89(44.94)	80	Calmodulin-like protein 7 OS=Arabidopsis thaliana GN=CML7 PE=2 SV=1
+T1_Unigene_BMK.38042	sp|Q9LZM4|WAKLQ_ARATH	9.08185e-30	55/93(59.14)	118	Wall-associated receptor kinase-like 20 OS=Arabidopsis thaliana GN=WAKL20 PE=2 SV=1
+T1_Unigene_BMK.38135	sp|Q0J4P2|HSP81_ORYSJ	1.09033e-71	109/113(96.46)	229	Heat shock protein 81-1 OS=Oryza sativa subsp. japonica GN=HSP81-1 PE=2 SV=2
+T1_Unigene_BMK.38515	sp|Q50EK1|C16B1_PICSI	1.30957e-72	115/260(44.23)	236	Cytochrome P450 716B1 OS=Picea sitchensis GN=CYP716B1 PE=2 SV=1
+T1_Unigene_BMK.38587	sp|Q01481|WIR1B_WHEAT	9.41854e-22	42/60(70.00)	87	Protein WIR1B OS=Triticum aestivum GN=WIR1B PE=4 SV=1
+T1_Unigene_BMK.38859	sp|P17816|GRP1_HORVU	5.22941e-24	43/60(71.67)	95	Glycine-rich cell wall structural protein OS=Hordeum vulgare GN=GRP PE=2 SV=1
+T1_Unigene_BMK.38938	sp|Q9FJW4|NDUS4_ARATH	9.20824e-66	97/141(68.79)	206	NADH dehydrogenase [ubiquinone] iron-sulfur protein 4, mitochondrial OS=Arabidopsis thaliana GN=FRO1 PE=2 SV=1
+T1_Unigene_BMK.39102	sp|Q94CS9|TIP12_ORYSJ	4.27495e-53	85/89(95.51)	168	Probable aquaporin TIP1-2 OS=Oryza sativa subsp. japonica GN=TIP1-2 PE=2 SV=1
+T1_Unigene_BMK.39103	sp|Q94CS9|TIP12_ORYSJ	3.6734e-55	87/97(89.69)	176	Probable aquaporin TIP1-2 OS=Oryza sativa subsp. japonica GN=TIP1-2 PE=2 SV=1
+T1_Unigene_BMK.39794	sp|Q9H7T3|CJ095_HUMAN	2.34774e-13	72/218(33.03)	72	Uncharacterized protein C10orf95 OS=Homo sapiens GN=C10orf95 PE=2 SV=1
+T1_Unigene_BMK.40408	sp|P17816|GRP1_HORVU	1.91067e-18	64/154(41.56)	85	Glycine-rich cell wall structural protein OS=Hordeum vulgare GN=GRP PE=2 SV=1
+T1_Unigene_BMK.40435	sp|Q41578|PORA_WHEAT	7.59024e-64	96/98(97.96)	200	Protochlorophyllide reductase A, chloroplastic OS=Triticum aestivum GN=PORA PE=3 SV=1
+T1_Unigene_BMK.40734	sp|P21260|YPRO_OWEFU	6.94853e-11	36/100(36.00)	62	Uncharacterized proline-rich protein (Fragment) OS=Owenia fusiformis PE=4 SV=1
+T1_Unigene_BMK.41773	sp|P84964|DEF12_TRIMO	6.34166e-28	42/45(93.33)	100	Defensin Tm-AMP-D1.2 OS=Triticum monococcum PE=1 SV=1
+T1_Unigene_BMK.42449	sp|P30022|VP22_BHV1C	1.16273e-06	54/176(30.68)	51	Tegument protein VP22 OS=Bovine herpesvirus 1.1 (strain Cooper) GN=UL49 PE=1 SV=2
+T1_Unigene_BMK.42450	sp|Q75JC9|Y8484_DICDI	4.38375e-21	95/306(31.05)	100	Uncharacterized protein DDB_G0271670 OS=Dictyostelium discoideum GN=DDB_G0271670 PE=4 SV=1
+T1_Unigene_BMK.42802	sp|Q52KI8|SRRM1_MOUSE	9.87233e-10	47/120(39.17)	61	Serine/arginine repetitive matrix protein 1 OS=Mus musculus GN=Srrm1 PE=1 SV=2
+T1_Unigene_BMK.42863	sp|Q84TB6|ADF3_ORYSJ	1.13375e-49	77/103(74.76)	157	Actin-depolymerizing factor 3 OS=Oryza sativa subsp. japonica GN=ADF3 PE=1 SV=1
+T1_Unigene_BMK.43107	sp|P01053|ICI2_HORVU	5.51454e-17	38/73(52.05)	75	Subtilisin-chymotrypsin inhibitor-2A OS=Hordeum vulgare PE=1 SV=2
+T1_Unigene_BMK.43200	sp|Q9SS31|CML36_ARATH	5.35457e-07	31/92(33.70)	51	Probable calcium-binding protein CML36 OS=Arabidopsis thaliana GN=CML36 PE=2 SV=1
+T1_Unigene_BMK.43216	sp|P35792|PR12_HORVU	1.94158e-69	99/156(63.46)	215	Pathogenesis-related protein PRB1-2 OS=Hordeum vulgare PE=2 SV=1
+T1_Unigene_BMK.43444	sp|Q0D3N0|PER2_ORYSJ	1.87511e-104	153/200(76.50)	306	Peroxidase 2 OS=Oryza sativa subsp. japonica GN=PRX112 PE=2 SV=1
+T1_Unigene_BMK.44235	sp|Q9MAX6|COPE1_ORYSJ	5.50672e-58	93/101(92.08)	184	Coatomer subunit epsilon-1 OS=Oryza sativa subsp. japonica GN=COPE1 PE=2 SV=1
+T1_Unigene_BMK.44493	sp|P35134|UBC11_ARATH	1.0133e-43	75/146(51.37)	149	Ubiquitin-conjugating enzyme E2 11 OS=Arabidopsis thaliana GN=UBC11 PE=2 SV=2
+T1_Unigene_BMK.44712	sp|Q01851|PO4F1_HUMAN	1.49559e-06	40/114(35.09)	51	POU domain, class 4, transcription factor 1 OS=Homo sapiens GN=POU4F1 PE=2 SV=4
+T1_Unigene_BMK.44746	sp|Q9ZVN4|Y1500_ARATH	1.16487e-58	73/106(68.87)	162	Probable tyrosine-protein phosphatase At1g05000 OS=Arabidopsis thaliana GN=At1g05000 PE=1 SV=1
+T1_Unigene_BMK.44946	sp|Q9SJL7|RAX2_ARATH	4.5486e-62	87/122(71.31)	201	Transcription factor RAX2 OS=Arabidopsis thaliana GN=RAX2 PE=1 SV=1
+T1_Unigene_BMK.45292	sp|Q9FFW5|PERK8_ARATH	3.7855e-09	30/70(42.86)	60	Proline-rich receptor-like protein kinase PERK8 OS=Arabidopsis thaliana GN=PERK8 PE=1 SV=1
+T1_Unigene_BMK.45587	sp|Q5ZMJ9|SRRM1_CHICK	8.55529e-12	58/182(31.87)	67	Serine/arginine repetitive matrix protein 1 OS=Gallus gallus GN=SRRM1 PE=2 SV=1
+T1_Unigene_BMK.45729	sp|B5X3B2|APMAP_SALSA	2.24619e-45	129/423(30.50)	167	Adipocyte plasma membrane-associated protein OS=Salmo salar GN=apmap PE=2 SV=1
+T1_Unigene_BMK.46085	sp|Q17RH7|TPRXL_HUMAN	3.2564e-06	46/178(25.84)	50	Putative protein TPRXL OS=Homo sapiens GN=TPRXL PE=5 SV=2
+T1_Unigene_BMK.46240	sp|P21260|YPRO_OWEFU	7.77666e-09	22/36(61.11)	55	Uncharacterized proline-rich protein (Fragment) OS=Owenia fusiformis PE=4 SV=1
+T1_Unigene_BMK.46264	sp|Q4R1I9|ANGLT_ROSHC	8.59551e-103	183/476(38.45)	322	Anthocyanidin 5,3-O-glucosyltransferase OS=Rosa hybrid cultivar GN=RhGT1 PE=2 SV=1
+T1_Unigene_BMK.46664	sp|Q8T4N5|TSEP_GLOPP	7.55723e-50	63/140(45.00)	178	Protein TsetseEP OS=Glossina palpalis palpalis PE=4 SV=1
+T1_Unigene_BMK.46893	sp|Q17RH7|TPRXL_HUMAN	2.23772e-19	78/202(38.61)	90	Putative protein TPRXL OS=Homo sapiens GN=TPRXL PE=5 SV=2
+T1_Unigene_BMK.46922	sp|Q7XUJ5|HOX22_ORYSJ	3.63716e-79	122/162(75.31)	245	Homeobox-leucine zipper protein HOX22 OS=Oryza sativa subsp. japonica GN=HOX22 PE=2 SV=2
+T1_Unigene_BMK.47039	sp|Q9T076|ENL2_ARATH	1.1768e-41	103/308(33.44)	152	Early nodulin-like protein 2 OS=Arabidopsis thaliana GN=At4g27520 PE=1 SV=1
+T1_Unigene_BMK.47154	sp|Q01417|PM1_SOYBN	1.4762e-20	64/173(36.99)	88	18 kDa seed maturation protein OS=Glycine max GN=GMPM1 PE=2 SV=1
+T1_Unigene_BMK.47384	sp|Q10M18|TRL12_ORYSJ	5.15698e-79	128/168(76.19)	240	Thioredoxin-like 1-2, chloroplastic OS=Oryza sativa subsp. japonica GN=Os03g0326500 PE=2 SV=1
+T1_Unigene_BMK.47487	sp|Q94AR6|DOF31_ARATH	1.00493e-26	48/97(49.48)	110	Dof zinc finger protein DOF3.1 OS=Arabidopsis thaliana GN=DOF3.1 PE=2 SV=2
+T1_Unigene_BMK.47711	sp|Q03293|PER_DROAN	2.41737e-06	29/85(34.12)	48	Period circadian protein (Fragment) OS=Drosophila ananassae GN=per PE=3 SV=1
+T1_Unigene_BMK.47786	sp|Q9FR99|ACCO_MUSAC	3.78101e-63	93/140(66.43)	198	1-aminocyclopropane-1-carboxylate oxidase OS=Musa acuminata GN=MAO1B PE=3 SV=1
+T1_Unigene_BMK.47832	sp|P09444|LEA34_GOSHI	3.59893e-72	127/220(57.73)	229	Late embryogenesis abundant protein D-34 OS=Gossypium hirsutum PE=4 SV=1
+T1_Unigene_BMK.47843	sp|Q9SWI6|RK29_MAIZE	3.18018e-76	126/162(77.78)	232	50S ribosomal protein L29, chloroplastic OS=Zea mays GN=RPL29 PE=2 SV=1
+T1_Unigene_BMK.47950	sp|P42211|ASPRX_ORYSJ	1.02596e-84	133/167(79.64)	263	Aspartic proteinase OS=Oryza sativa subsp. japonica GN=RAP PE=2 SV=2
+T1_Unigene_BMK.47964	sp|Q9SJG2|Y2296_ARATH	6.83607e-44	106/322(32.92)	166	Probable receptor-like protein kinase At2g42960 OS=Arabidopsis thaliana GN=At2g42960 PE=3 SV=1
+T1_Unigene_BMK.48006	sp|Q0RDS4|IF2_FRAAA	3.18437e-10	59/170(34.71)	63	Translation initiation factor IF-2 OS=Frankia alni (strain ACN14a) GN=infB PE=3 SV=1
+T1_Unigene_BMK.48036	sp|Q84N29|NLTP3_WHEAT	3.36989e-79	120/122(98.36)	237	Probable non-specific lipid-transfer protein 3 OS=Triticum aestivum GN=LTP3 PE=2 SV=1
+T1_Unigene_BMK.48089	sp|P17816|GRP1_HORVU	4.00482e-21	44/81(54.32)	90	Glycine-rich cell wall structural protein OS=Hordeum vulgare GN=GRP PE=2 SV=1
+T1_Unigene_BMK.48139	sp|P22217|TRX1_YEAST	8.56917e-08	34/91(37.36)	51	Thioredoxin-1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=TRX1 PE=1 SV=3
+T1_Unigene_BMK.48228	sp|B6TYV8|CNR2_MAIZE	7.42773e-104	143/188(76.06)	307	Cell number regulator 2 OS=Zea mays GN=CNR2 PE=2 SV=1
+T1_Unigene_BMK.48233	sp|P05790|FIBH_BOMMO	4.83314e-83	136/252(53.97)	279	Fibroin heavy chain OS=Bombyx mori GN=FIBH PE=1 SV=4
+T1_Unigene_BMK.48264	sp|Q6ZQP7|YV021_HUMAN	4.43447e-21	93/259(35.91)	95	Uncharacterized protein LOC284861 OS=Homo sapiens PE=2 SV=1
+T1_Unigene_BMK.48267	sp|Q9SZN7|HIP26_ARATH	5.84401e-46	81/155(52.26)	157	Heavy metal-associated isoprenylated plant protein 26 OS=Arabidopsis thaliana GN=HIPP26 PE=1 SV=1
+T1_Unigene_BMK.48507	sp|O26373|Y273_METTH	2.5769e-35	71/148(47.97)	126	UPF0098 protein MTH_273 OS=Methanothermobacter thermautotrophicus (strain ATCC 29096 / DSM 1053 / JCM 10044 / NBRC 100330 / Delta H) GN=MTH_273 PE=3 SV=1
+T1_Unigene_BMK.48510	sp|Q52KI8|SRRM1_MOUSE	1.09895e-16	72/219(32.88)	83	Serine/arginine repetitive matrix protein 1 OS=Mus musculus GN=Srrm1 PE=1 SV=2
+T1_Unigene_BMK.48531	sp|Q06398|GSTU6_ORYSJ	2.1466e-68	120/240(50.00)	219	Probable glutathione S-transferase GSTU6 OS=Oryza sativa subsp. japonica GN=GSTU6 PE=2 SV=2
+T1_Unigene_BMK.48722	sp|Q8TFG9|YL61_SCHPO	2.04749e-07	97/390(24.87)	57	Putative GPI-anchored protein PB15E9.01c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=SPAPB15E9.01c PE=2 SV=3
+T1_Unigene_BMK.48933	sp|Q57951|Y531_METJA	3.4174e-09	37/118(31.36)	58	Universal stress protein MJ0531 OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) GN=MJ0531 PE=3 SV=1
+T1_Unigene_BMK.48944	sp|Q9FK81|Y5258_ARATH	7.1529e-26	48/103(46.60)	100	Uncharacterized protein At5g22580 OS=Arabidopsis thaliana GN=At5g22580 PE=1 SV=1
+T1_Unigene_BMK.49256	sp|P20186|YT35_STRFR	9.45769e-07	42/126(33.33)	51	Uncharacterized 35.5 kDa protein in transposon Tn4556 OS=Streptomyces fradiae PE=4 SV=1
+T1_Unigene_BMK.49269	sp|P30188|CML35_ARATH	8.44382e-26	73/196(37.24)	105	Probable calcium-binding protein CML35 OS=Arabidopsis thaliana GN=CML35 PE=1 SV=2
+T1_Unigene_BMK.49301	sp|Q17RH7|TPRXL_HUMAN	1.38571e-15	63/177(35.59)	78	Putative protein TPRXL OS=Homo sapiens GN=TPRXL PE=5 SV=2
+T1_Unigene_BMK.49337	sp|Q9SLP4|CHIT1_TULBA	5.99633e-89	145/289(50.17)	275	Chitinase 1 OS=Tulipa bakeri PE=1 SV=1
+T1_Unigene_BMK.49423	sp|P23137|GRP1_TOBAC	1.57375e-12	38/93(40.86)	65	Glycine-rich protein OS=Nicotiana tabacum GN=GRP PE=2 SV=1
+T1_Unigene_BMK.49515	sp|O64495|SDD1_ARATH	1.4774e-82	212/623(34.03)	279	Subtilisin-like protease SDD1 OS=Arabidopsis thaliana GN=SDD1 PE=2 SV=1
+T1_Unigene_BMK.49535	sp|Q9XI29|Y1540_ARATH	7.75801e-12	42/132(31.82)	64	Uncharacterized protein At1g15400 OS=Arabidopsis thaliana GN=At1g15400 PE=1 SV=2
+T1_Unigene_BMK.49580	sp|Q39134|AAP3_ARATH	4.28937e-90	134/189(70.90)	274	Amino acid permease 3 OS=Arabidopsis thaliana GN=AAP3 PE=1 SV=2
+T1_Unigene_BMK.49726	sp|Q93Z27|CML45_ARATH	1.59518e-20	47/120(39.17)	91	Probable calcium-binding protein CML45 OS=Arabidopsis thaliana GN=CML45 PE=1 SV=1
+T1_Unigene_BMK.49755	sp|Q8LGG8|USPAL_ARATH	4.18432e-09	25/65(38.46)	58	Universal stress protein A-like protein OS=Arabidopsis thaliana GN=At3g01520 PE=1 SV=2
+T1_Unigene_BMK.49828	sp|P10495|GRP1_PHAVU	5.84955e-79	122/200(61.00)	243	Glycine-rich cell wall structural protein 1.0 OS=Phaseolus vulgaris PE=2 SV=1
+T1_Unigene_BMK.49937	sp|Q8BTI8|SRRM2_MOUSE	1.3246e-10	76/213(35.68)	67	Serine/arginine repetitive matrix protein 2 OS=Mus musculus GN=Srrm2 PE=1 SV=3
+T1_Unigene_BMK.50479	sp|Q9ATM6|PIP24_MAIZE	1.94797e-70	111/152(73.03)	221	Aquaporin PIP2-4 OS=Zea mays GN=PIP2-4 PE=1 SV=1
+T1_Unigene_BMK.50483	sp|Q00742|DHR15_WHEAT	5.99646e-71	108/149(72.48)	219	Dehydrin Rab15 OS=Triticum aestivum GN=RAB15 PE=2 SV=1
+T1_Unigene_BMK.50536	sp|Q8W3M4|Y4744_ARATH	4.33692e-113	178/344(51.74)	342	Uncharacterized protein At4g06744 OS=Arabidopsis thaliana GN=At4g06744 PE=2 SV=1
+T1_Unigene_BMK.50621	sp|Q6YZZ6|GL84_ORYSJ	6.15434e-127	182/226(80.53)	366	Germin-like protein 8-4 OS=Oryza sativa subsp. japonica GN=GER1 PE=2 SV=1
+T1_Unigene_BMK.50651	sp|P21997|SSGP_VOLCA	3.95339e-18	50/92(54.35)	90	Sulfated surface glycoprotein 185 OS=Volvox carteri PE=1 SV=1
+T1_Unigene_BMK.50845	sp|Q58629|Y1232_METJA	4.44919e-14	43/145(29.66)	75	Uncharacterized protein MJ1232 OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) GN=MJ1232 PE=4 SV=1
+T1_Unigene_BMK.50879	sp|Q9FLQ7|FH20_ARATH	4.75388e-08	40/111(36.04)	56	Formin-like protein 20 OS=Arabidopsis thaliana GN=FH20 PE=2 SV=3
+T1_Unigene_BMK.51005	sp|Q42551|SCE1_ARATH	6.02197e-107	141/159(88.68)	312	SUMO-conjugating enzyme SCE1 OS=Arabidopsis thaliana GN=SCE1 PE=1 SV=1
+T1_Unigene_BMK.51031	sp|Q42342|CYB5A_ARATH	3.7588e-30	38/53(71.70)	86	Cytochrome b5 isoform A OS=Arabidopsis thaliana GN=CYTB5-A PE=1 SV=2
+T1_Unigene_BMK.51156	sp|Q6S6W0|GP2_EHV1V	2.61352e-08	50/152(32.89)	59	Glycoprotein gp2 OS=Equine herpesvirus 1 (strain V592) GN=71 PE=3 SV=1
+T1_Unigene_BMK.51176	sp|A3AB67|FH16_ORYSJ	8.58765e-06	51/193(26.42)	50	Formin-like protein 16 OS=Oryza sativa subsp. japonica GN=FH16 PE=2 SV=1
+T1_Unigene_BMK.51235	sp|Q99070|GRP2_SORBI	1.7718e-11	35/82(42.68)	65	Glycine-rich RNA-binding protein 2 OS=Sorghum bicolor GN=GRP2 PE=2 SV=1
+T1_Unigene_BMK.51294	sp|Q9FH04|ADHL7_ARATH	1.6483e-122	178/308(57.79)	366	Alcohol dehydrogenase-like 7 OS=Arabidopsis thaliana GN=At5g42250 PE=2 SV=1
+T1_Unigene_BMK.51376	sp|C9XXI1|ENTH_CROTZ	4.62084e-13	40/122(32.79)	68	Proofreading thioesterase EntH OS=Cronobacter turicensis (strain DSM 18703 / LMG 23827 / z3032) GN=entH PE=3 SV=1
+T1_Unigene_BMK.51543	sp|Q9T0K5|LRX3_ARATH	2.38829e-19	56/124(45.16)	94	Leucine-rich repeat extensin-like protein 3 OS=Arabidopsis thaliana GN=LRX3 PE=1 SV=1
+T1_Unigene_BMK.51585	sp|P14009|14KD_DAUCA	7.59094e-37	69/120(57.50)	130	14 kDa proline-rich protein DC2.15 OS=Daucus carota PE=2 SV=1
+T1_Unigene_BMK.51622	sp|Q9LX66|HERK_ARATH	4.51047e-36	74/157(47.13)	137	Receptor-like protein kinase HERK 1 OS=Arabidopsis thaliana GN=HERK1 PE=1 SV=1
+T1_Unigene_BMK.51798	sp|Q9CXS4|CENPV_MOUSE	3.62075e-33	57/117(48.72)	126	Centromere protein V OS=Mus musculus GN=Cenpv PE=2 SV=2
+T1_Unigene_BMK.51806	sp|Q10E50|PLA23_ORYSJ	1.02692e-75	119/166(71.69)	238	Phospholipase A2 homolog 3 OS=Oryza sativa subsp. japonica GN=PLA2-III PE=1 SV=1
+T1_Unigene_BMK.51853	sp|O65351|SUBL_ARATH	0	368/751(49.00)	652	Subtilisin-like protease OS=Arabidopsis thaliana GN=ARA12 PE=1 SV=1
+T1_Unigene_BMK.51951	sp|Q687E1|NPP_HORVU	6.76768e-66	96/164(58.54)	213	Nucleotide pyrophosphatase/phosphodiesterase (Fragments) OS=Hordeum vulgare GN=npp PE=1 SV=2
+T1_Unigene_BMK.51956	sp|Q02817|MUC2_HUMAN	1.8562e-15	64/203(31.53)	82	Mucin-2 OS=Homo sapiens GN=MUC2 PE=1 SV=2
+T1_Unigene_BMK.52023	sp|Q7F8S5|PR2E2_ORYSJ	4.66392e-122	189/224(84.38)	349	Peroxiredoxin-2E-2, chloroplastic OS=Oryza sativa subsp. japonica GN=PRXIIE-2 PE=1 SV=1
+T1_Unigene_BMK.52088	sp|P42761|GSTFA_ARATH	4.57023e-27	63/184(34.24)	107	Glutathione S-transferase F10 OS=Arabidopsis thaliana GN=GSTF10 PE=1 SV=3
+T1_Unigene_BMK.52198	sp|Q9C757|INT2_ARATH	0	415/574(72.30)	851	Probable inositol transporter 2 OS=Arabidopsis thaliana GN=INT2 PE=1 SV=1
+T1_Unigene_BMK.52307	sp|Q06398|GSTU6_ORYSJ	7.57234e-77	124/233(53.22)	237	Probable glutathione S-transferase GSTU6 OS=Oryza sativa subsp. japonica GN=GSTU6 PE=2 SV=2
+T1_Unigene_BMK.52326	sp|P59910|DJB13_HUMAN	4.54076e-46	76/158(48.10)	160	DnaJ homolog subfamily B member 13 OS=Homo sapiens GN=DNAJB13 PE=2 SV=1
+T1_Unigene_BMK.52453	sp|Q8VWQ5|WRK50_ARATH	8.86264e-38	60/93(64.52)	137	Probable WRKY transcription factor 50 OS=Arabidopsis thaliana GN=WRKY50 PE=2 SV=1
+T1_Unigene_BMK.52532	sp|O49453|Y4844_ARATH	5.21518e-58	91/136(66.91)	186	Uncharacterized protein At4g28440 OS=Arabidopsis thaliana GN=At4g28440 PE=1 SV=1
+T1_Unigene_BMK.52617	sp|B1B5D5|NNJA3_WHEAT	0	306/310(98.71)	611	Ninja-family protein 3 OS=Triticum aestivum GN=AFP-D1 PE=3 SV=1
+T1_Unigene_BMK.52747	sp|C0LGP4|Y3475_ARATH	0	230/578(39.79)	386	Probable LRR receptor-like serine/threonine-protein kinase At3g47570 OS=Arabidopsis thaliana GN=At3g47570 PE=1 SV=1
+T1_Unigene_BMK.52792	sp|Q05349|12KD_FRAAN	7.6918e-40	69/115(60.00)	137	Auxin-repressed 12.5 kDa protein OS=Fragaria ananassa PE=2 SV=1
+T1_Unigene_BMK.52893	sp|Q6ERE5|VIT12_ORYSJ	1.18562e-146	215/246(87.40)	419	Vacuolar iron transporter 1.2 OS=Oryza sativa subsp. japonica GN=VIT1.2 PE=3 SV=2
+T1_Unigene_BMK.52928	sp|P29250|LOX2_ORYSJ	7.39094e-66	101/137(73.72)	217	Linoleate 9S-lipoxygenase 2 OS=Oryza sativa subsp. japonica GN=LOX1.1 PE=2 SV=2
+T1_Unigene_BMK.53015	sp|Q75K78|CKX9_ORYSJ	0	357/414(86.23)	733	Cytokinin dehydrogenase 9 OS=Oryza sativa subsp. japonica GN=CKX9 PE=2 SV=1
+T1_Unigene_BMK.53020	sp|P84516|PER1_SORBI	1.97496e-140	208/340(61.18)	407	Cationic peroxidase SPC4 OS=Sorghum bicolor GN=SORBIDRAFT_03g046810 PE=1 SV=2
+T1_Unigene_BMK.53030	sp|Q7XCL0|EXLA2_ORYSJ	1.03789e-22	38/45(84.44)	91	Expansin-like A2 OS=Oryza sativa subsp. japonica GN=EXLA2 PE=2 SV=1
+T1_Unigene_BMK.53061	sp|Q9SXS2|SUT33_ARATH	0	322/459(70.15)	659	Probable sulfate transporter 3.3 OS=Arabidopsis thaliana GN=SULTR3;3 PE=2 SV=2
+T1_Unigene_BMK.53070	sp|P0CP00|MYO1_CRYNJ	1.47393e-06	63/237(26.58)	54	Myosin-1 OS=Cryptococcus neoformans var. neoformans serotype D (strain JEC21 / ATCC MYA-565) GN=MYO1 PE=3 SV=1
+T1_Unigene_BMK.53079	sp|Q6H849|NRL4_ORYSJ	0	271/345(78.55)	558	Bifunctional nitrilase/nitrile hydratase NIT4 OS=Oryza sativa subsp. japonica GN=NIT4 PE=2 SV=1
+T1_Unigene_BMK.53145	sp|Q06398|GSTU6_ORYSJ	8.48183e-135	192/236(81.36)	387	Probable glutathione S-transferase GSTU6 OS=Oryza sativa subsp. japonica GN=GSTU6 PE=2 SV=2
+T1_Unigene_BMK.53152	sp|Q5SMY5|GRXS2_ORYSJ	6.48824e-57	99/123(80.49)	183	Monothiol glutaredoxin-S2 OS=Oryza sativa subsp. japonica GN=GRXS2 PE=2 SV=1
+T1_Unigene_BMK.53155	sp|Q9ZUH5|SDR2B_ARATH	4.16884e-71	134/300(44.67)	229	Short-chain dehydrogenase/reductase 2b OS=Arabidopsis thaliana GN=SDR2b PE=2 SV=1
+T1_Unigene_BMK.53296	sp|Q8T4N5|TSEP_GLOPP	1.38211e-44	75/142(52.82)	156	Protein TsetseEP OS=Glossina palpalis palpalis PE=4 SV=1
+T1_Unigene_BMK.53300	sp|Q9FPQ6|GP1_CHLRE	9.49979e-34	95/261(36.40)	134	Vegetative cell wall protein gp1 OS=Chlamydomonas reinhardtii GN=GP1 PE=2 SV=1
+T1_Unigene_BMK.53358	sp|Q0PHV7|DACT3_MOUSE	3.89529e-10	57/142(40.14)	63	Dapper homolog 3 OS=Mus musculus GN=Dact3 PE=1 SV=1
+T1_Unigene_BMK.53450	sp|Q9ZQ89|UPS2_ARATH	4.92891e-180	255/365(69.86)	513	Ureide permease 2 OS=Arabidopsis thaliana GN=UPS2 PE=2 SV=2
+T1_Unigene_BMK.53476	sp|Q6L4D4|CML15_ORYSJ	3.80279e-13	59/159(37.11)	70	Probable calcium-binding protein CML15 OS=Oryza sativa subsp. japonica GN=CML15 PE=2 SV=1
+T1_Unigene_BMK.53682	sp|Q17RH7|TPRXL_HUMAN	2.68993e-13	67/260(25.77)	73	Putative protein TPRXL OS=Homo sapiens GN=TPRXL PE=5 SV=2
+T1_Unigene_BMK.53685	sp|Q8VYE5|E1312_ARATH	9.74021e-108	187/478(39.12)	335	Glucan endo-1,3-beta-glucosidase 12 OS=Arabidopsis thaliana GN=At4g29360 PE=1 SV=1
+T1_Unigene_BMK.53691	sp|O13737|YDR2_SCHPO	4.36027e-27	67/156(42.95)	110	Uncharacterized endoplasmic reticulum membrane protein C16E8.02 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=SPAC16E8.02 PE=4 SV=2
+T1_Unigene_BMK.53747	sp|P29675|SF3_HELAN	4.44951e-94	127/194(65.46)	282	Pollen-specific protein SF3 OS=Helianthus annuus GN=SF3 PE=2 SV=1
+T1_Unigene_BMK.53847	sp|Q0JPA6|SRS1_ORYSJ	1.7272e-104	173/210(82.38)	308	Salt stress root protein RS1 OS=Oryza sativa subsp. japonica GN=Os01g0233000 PE=2 SV=1
+T1_Unigene_BMK.54028	sp|Q9ZVQ3|GSTZ1_ARATH	5.03861e-91	130/209(62.20)	275	Glutathione S-transferase Z1 OS=Arabidopsis thaliana GN=GSTZ1 PE=1 SV=1
+T1_Unigene_BMK.54106	sp|Q6H5X0|RIP2_ORYSJ	3.69879e-92	121/154(78.57)	276	Putative ripening-related protein 2 OS=Oryza sativa subsp. japonica GN=Os02g0637000 PE=2 SV=1
+T1_Unigene_BMK.54160	sp|Q9MAH3|DJ1B_ARATH	1.47984e-128	196/400(49.00)	385	Protein DJ-1 homolog B OS=Arabidopsis thaliana GN=DJ1B PE=2 SV=1
+T1_Unigene_BMK.54222	sp|Q9UF83|YM012_HUMAN	1.30933e-20	104/324(32.10)	99	Uncharacterized protein DKFZp434B061 OS=Homo sapiens PE=2 SV=2
+T1_Unigene_BMK.54378	sp|Q7XDB8|LOGLA_ORYSJ	2.56707e-135	194/208(93.27)	389	Probable cytokinin riboside 5&apos;-monophosphate phosphoribohydrolase LOGL10 OS=Oryza sativa subsp. japonica GN=LOGL10 PE=2 SV=1
+T1_Unigene_BMK.54510	sp|Q8VYE4|PTR12_ARATH	1.94049e-135	211/550(38.36)	413	Probable peptide/nitrate transporter At1g27040 OS=Arabidopsis thaliana GN=At1g27040 PE=2 SV=1
+T1_Unigene_BMK.54532	sp|Q9FJ45|GDL83_ARATH	6.73253e-34	61/129(47.29)	127	GDSL esterase/lipase At5g45910 OS=Arabidopsis thaliana GN=At5g45910 PE=2 SV=1
+T1_Unigene_BMK.54533	sp|Q9FPE4|GDL12_ARATH	1.26635e-19	41/70(58.57)	88	GDSL esterase/lipase At1g28660 OS=Arabidopsis thaliana GN=At1g28660 PE=2 SV=1
+T1_Unigene_BMK.54534	sp|Q9LZB2|GDL74_ARATH	1.4518e-32	58/132(43.94)	120	GDSL esterase/lipase At5g03980 OS=Arabidopsis thaliana GN=At5g03980 PE=2 SV=1
+T1_Unigene_BMK.54577	sp|Q9LMX4|PPA1_ARATH	0	249/395(63.04)	537	Probable inactive purple acid phosphatase 1 OS=Arabidopsis thaliana GN=PAP1 PE=2 SV=1
+T1_Unigene_BMK.54753	sp|Q84JH5|GMPP1_ORYSJ	0	341/361(94.46)	688	Probable mannose-1-phosphate guanylyltransferase 1 OS=Oryza sativa subsp. japonica GN=Os03g0268400 PE=2 SV=1
+T1_Unigene_BMK.54800	sp|Q84KJ7|AMT21_ORYSJ	0	433/481(90.02)	884	Ammonium transporter 2 member 1 OS=Oryza sativa subsp. japonica GN=AMT2-1 PE=2 SV=1
+T1_Unigene_BMK.54803	sp|Q05047|C72A1_CATRO	7.41449e-156	244/556(43.88)	463	Secologanin synthase OS=Catharanthus roseus GN=CYP72A1 PE=2 SV=1
+T1_Unigene_BMK.54863	sp|Q651X6|CSLE6_ORYSJ	0	563/725(77.66)	1195	Cellulose synthase-like protein E6 OS=Oryza sativa subsp. japonica GN=CSLE6 PE=2 SV=1
+T1_Unigene_BMK.54897	sp|Q9ZUY3|AROD3_ARATH	3.56696e-79	149/351(42.45)	259	Arogenate dehydratase 3, chloroplastic OS=Arabidopsis thaliana GN=ADT3 PE=1 SV=1
+T1_Unigene_BMK.54948	sp|C5X2M4|THI42_SORBI	0	306/353(86.69)	588	Thiamine thiazole synthase 2, chloroplastic OS=Sorghum bicolor GN=THI1-2 PE=3 SV=1
+T1_Unigene_BMK.55096	sp|Q5VRH4|HGD_ORYSJ	3.48836e-35	65/81(80.25)	139	Homogentisate 1,2-dioxygenase OS=Oryza sativa subsp. japonica GN=HGO PE=2 SV=1
+T1_Unigene_BMK.55165	sp|A8QW51|OMT2_SORBI	2.23703e-148	216/366(59.02)	431	Probable O-methyltransferase 2 OS=Sorghum bicolor GN=OMT2 PE=2 SV=1
+T1_Unigene_BMK.55174	sp|Q9M8L2|FBK30_ARATH	1.05883e-74	149/388(38.40)	240	F-box/kelch-repeat protein At1g80440 OS=Arabidopsis thaliana GN=At1g80440 PE=2 SV=1
+T1_Unigene_BMK.55242	sp|Q9SX78|CXE2_ARATH	1.69309e-74	129/313(41.21)	249	Probable carboxylesterase 2 OS=Arabidopsis thaliana GN=CXE2 PE=2 SV=1
+T1_Unigene_BMK.55275	sp|Q0E4A8|HS189_ORYSJ	1.37609e-78	129/186(69.35)	239	18.9 kDa heat shock protein OS=Oryza sativa subsp. japonica GN=HSP18.9 PE=2 SV=1
+T1_Unigene_BMK.55276	sp|Q0JGI1|SPL2_ORYSJ	1.07618e-163	280/443(63.21)	487	Squamosa promoter-binding-like protein 2 OS=Oryza sativa subsp. japonica GN=SPL2 PE=2 SV=2
+T1_Unigene_BMK.55337	sp|B9X287|C7346_ORYSJ	2.10302e-14	40/91(43.96)	75	Cytochrome P450 734A6 OS=Oryza sativa subsp. japonica GN=CYP734A6 PE=2 SV=1
+T1_Unigene_BMK.55538	sp|Q5ZMJ9|SRRM1_CHICK	8.9329e-14	68/231(29.44)	77	Serine/arginine repetitive matrix protein 1 OS=Gallus gallus GN=SRRM1 PE=2 SV=1
+T1_Unigene_BMK.55562	sp|Q9ZVI6|LOR8_ARATH	9.03635e-32	78/198(39.39)	121	Protein LURP-one-related 8 OS=Arabidopsis thaliana GN=At2g38640 PE=2 SV=1
+T1_Unigene_BMK.55868	sp|Q9LEX0|P2A13_ARATH	3.97312e-104	159/296(53.72)	318	F-box protein PP2-A13 OS=Arabidopsis thaliana GN=PP2A13 PE=1 SV=1
+T1_Unigene_BMK.55951	sp|Q9LY84|GDL76_ARATH	1.0211e-30	57/102(55.88)	117	GDSL esterase/lipase At5g14450 OS=Arabidopsis thaliana GN=At5g14450 PE=2 SV=1
+T1_Unigene_BMK.55952	sp|Q9LIN2|GDL53_ARATH	1.24892e-96	152/285(53.33)	292	GDSL esterase/lipase At3g26430 OS=Arabidopsis thaliana GN=At3g26430 PE=2 SV=1
+T1_Unigene_BMK.55990	sp|Q8W2B7|BX8_MAIZE	7.44409e-135	227/447(50.78)	405	DIMBOA UDP-glucosyltransferase BX8 OS=Zea mays GN=Bx8 PE=1 SV=1
+T1_Unigene_BMK.56016	sp|A2X7U1|HOX24_ORYSI	6.06305e-90	162/263(61.60)	280	Homeobox-leucine zipper protein HOX24 OS=Oryza sativa subsp. indica GN=HOX24 PE=2 SV=2
+T1_Unigene_BMK.56152	sp|Q9LY00|WRK70_ARATH	1.57301e-25	67/175(38.29)	109	Probable WRKY transcription factor 70 OS=Arabidopsis thaliana GN=WRKY70 PE=2 SV=1
+T1_Unigene_BMK.56232	sp|P0C5E2|Y1839_ARATH	1.02588e-26	61/128(47.66)	108	Probable serine/threonine-protein kinase At1g18390 OS=Arabidopsis thaliana GN=At1g18390 PE=1 SV=2
+T1_Unigene_BMK.56257	sp|B3SGL0|BCH_GENLU	2.83787e-110	181/339(53.39)	332	Beta-carotene 3-hydroxylase, chloroplastic OS=Gentiana lutea GN=BHY PE=2 SV=1
+T1_Unigene_BMK.56286	sp|Q5W6R4|DRE2B_ORYSJ	7.42773e-101	188/362(51.93)	313	Dehydration-responsive element-binding protein 2B OS=Oryza sativa subsp. japonica GN=DREB2B PE=2 SV=2
+T1_Unigene_BMK.56383	sp|Q95JC9|PRP_PIG	5.11589e-16	89/285(31.23)	84	Basic proline-rich protein OS=Sus scrofa PE=1 SV=2
+T1_Unigene_BMK.56408	sp|Q8H8U5|IN21B_ORYSJ	2.35666e-144	199/243(81.89)	412	Protein IN2-1 homolog B OS=Oryza sativa subsp. japonica GN=GSTZ5 PE=2 SV=1
+T1_Unigene_BMK.56418	sp|Q6ZQP7|YV021_HUMAN	1.59256e-16	89/243(36.63)	83	Uncharacterized protein LOC284861 OS=Homo sapiens PE=2 SV=1
+T1_Unigene_BMK.56524	sp|Q9FRV1|CHIA_SECCE	0	253/322(78.57)	552	Basic endochitinase A OS=Secale cereale GN=rsca PE=1 SV=1
+T1_Unigene_BMK.56528	sp|Q9LMN8|WAK3_ARATH	2.03105e-13	42/94(44.68)	70	Wall-associated receptor kinase 3 OS=Arabidopsis thaliana GN=WAK3 PE=2 SV=2
+T1_Unigene_BMK.56576	sp|Q4JL76|MYBA2_ORYSJ	1.46039e-41	87/205(42.44)	152	Myb-related protein MYBAS2 OS=Oryza sativa subsp. japonica GN=MYBAS2 PE=2 SV=1
+T1_Unigene_BMK.56587	sp|P0C291|GRXS9_ORYSJ	1.01959e-56	105/145(72.41)	182	Monothiol glutaredoxin-S9 OS=Oryza sativa subsp. japonica GN=GRXS9 PE=2 SV=1
+T1_Unigene_BMK.56591	sp|P42737|CAH2_ARATH	9.79813e-58	96/205(46.83)	196	Carbonic anhydrase 2, chloroplastic OS=Arabidopsis thaliana GN=CA2 PE=1 SV=2
+T1_Unigene_BMK.56618	sp|O23082|Y4960_ARATH	2.87245e-37	95/283(33.57)	147	Putative receptor-like protein kinase At4g00960 OS=Arabidopsis thaliana GN=At4g00960 PE=2 SV=2
+T1_Unigene_BMK.56665	sp|Q8GSM7|HST_TOBAC	2.95491e-101	175/447(39.15)	317	Shikimate O-hydroxycinnamoyltransferase OS=Nicotiana tabacum GN=HST PE=1 SV=1
+T1_Unigene_BMK.56696	sp|Q2V9B0|MY1R1_SOLTU	5.66105e-35	76/159(47.80)	134	Transcription factor MYB1R1 OS=Solanum tuberosum PE=2 SV=1
+T1_Unigene_BMK.56749	sp|Q95JC9|PRP_PIG	2.53707e-19	75/224(33.48)	93	Basic proline-rich protein OS=Sus scrofa PE=1 SV=2
+T1_Unigene_BMK.56815	sp|Q9UQ35|SRRM2_HUMAN	1.42876e-17	95/261(36.40)	88	Serine/arginine repetitive matrix protein 2 OS=Homo sapiens GN=SRRM2 PE=1 SV=2
+T1_Unigene_BMK.57141	sp|Q17RH7|TPRXL_HUMAN	2.02209e-14	60/187(32.09)	75	Putative protein TPRXL OS=Homo sapiens GN=TPRXL PE=5 SV=2
+T1_Unigene_BMK.57176	sp|P0C5E2|Y1839_ARATH	7.17033e-30	65/136(47.79)	120	Probable serine/threonine-protein kinase At1g18390 OS=Arabidopsis thaliana GN=At1g18390 PE=1 SV=2
+T1_Unigene_BMK.57198	sp|Q6H849|NRL4_ORYSJ	0	280/302(92.72)	579	Bifunctional nitrilase/nitrile hydratase NIT4 OS=Oryza sativa subsp. japonica GN=NIT4 PE=2 SV=1
+T1_Unigene_BMK.57244	sp|Q9FKS8|LHT1_ARATH	0	347/444(78.15)	722	Lysine histidine transporter 1 OS=Arabidopsis thaliana GN=LHT1 PE=1 SV=1
+T1_Unigene_BMK.57321	sp|Q7XJE6|MCA1_ARATH	6.95196e-87	156/362(43.09)	278	Metacaspase-1 OS=Arabidopsis thaliana GN=AMC1 PE=1 SV=1
+T1_Unigene_BMK.57408	sp|B7E7M8|LOGL9_ORYSJ	1.2738e-104	158/205(77.07)	312	Probable cytokinin riboside 5&apos;-monophosphate phosphoribohydrolase LOGL9 OS=Oryza sativa subsp. japonica GN=LOGL9 PE=2 SV=1
+T1_Unigene_BMK.57499	sp|P08640|MUC1_YEAST	4.35792e-38	159/541(29.39)	156	Flocculation protein FLO11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=MUC1 PE=1 SV=2
+T1_Unigene_BMK.57508	sp|Q75LJ3|ETFA_ORYSJ	0	314/358(87.71)	594	Electron transfer flavoprotein subunit alpha, mitochondrial OS=Oryza sativa subsp. japonica GN=ETFA PE=2 SV=1
+T1_Unigene_BMK.57547	sp|Q96518|PER16_ARATH	1.73576e-115	174/321(54.21)	346	Peroxidase 16 OS=Arabidopsis thaliana GN=PER16 PE=1 SV=2
+T1_Unigene_BMK.57692	sp|O23264|SEBP1_ARATH	0	360/492(73.17)	787	Selenium-binding protein 1 OS=Arabidopsis thaliana GN=SBP1 PE=1 SV=1
+T1_Unigene_BMK.57823	sp|P43156|CYSP_HEMSP	4.12777e-163	231/343(67.35)	466	Thiol protease SEN102 OS=Hemerocallis sp. GN=SEN102 PE=2 SV=1
+T1_Unigene_BMK.57835	sp|Q8H8C7|CEBIP_ORYSJ	4.97688e-147	229/360(63.61)	428	Chitin elicitor-binding protein OS=Oryza sativa subsp. japonica GN=CEBIP PE=1 SV=1
+T1_Unigene_BMK.57857	sp|Q6L5H6|P2C50_ORYSJ	0	303/386(78.50)	601	Probable protein phosphatase 2C 50 OS=Oryza sativa subsp. japonica GN=Os05g0537400 PE=2 SV=1
+T1_Unigene_BMK.58024	sp|Q8ZNL7|PREA_SALTY	5.20117e-75	137/327(41.90)	245	NAD-dependent dihydropyrimidine dehydrogenase subunit PreA OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) GN=preA PE=3 SV=1
+T1_Unigene_BMK.58363	sp|O35678|MGLL_MOUSE	1.0104e-15	41/104(39.42)	80	Monoglyceride lipase OS=Mus musculus GN=Mgll PE=1 SV=1
+T1_Unigene_BMK.58393	sp|Q6YZF3|SWT11_ORYSJ	1.81807e-116	186/268(69.40)	345	Bidirectional sugar transporter SWEET11 OS=Oryza sativa subsp. japonica GN=SWEET11 PE=1 SV=1
+T1_Unigene_BMK.58481	sp|Q9XI37|PV42A_ARATH	2.20426e-24	68/189(35.98)	104	SNF1-related protein kinase regulatory subunit gamma-like PV42a OS=Arabidopsis thaliana GN=PV42A PE=2 SV=1
+T1_Unigene_BMK.58562	sp|Q9M401|BCAT3_ARATH	2.08245e-165	228/334(68.26)	481	Branched-chain-amino-acid aminotransferase 3, chloroplastic OS=Arabidopsis thaliana GN=BCAT3 PE=1 SV=1
+T1_Unigene_BMK.58633	sp|P05621|H2B2_WHEAT	2.3154e-97	146/148(98.65)	285	Histone H2B.2 OS=Triticum aestivum PE=1 SV=2
+T1_Unigene_BMK.58666	sp|Q688R3|C3H33_ORYSJ	8.93184e-116	181/236(76.69)	348	Zinc finger CCCH domain-containing protein 33 OS=Oryza sativa subsp. japonica GN=Os05g0128200 PE=2 SV=1
+T1_Unigene_BMK.58688	sp|Q9CAB8|PXG5_ARATH	9.49456e-51	89/172(51.74)	171	Probable peroxygenase 5 OS=Arabidopsis thaliana GN=PXG5 PE=2 SV=1
+T1_Unigene_BMK.58796	sp|Q4R1I9|ANGLT_ROSHC	8.41707e-101	188/482(39.00)	318	Anthocyanidin 5,3-O-glucosyltransferase OS=Rosa hybrid cultivar GN=RhGT1 PE=2 SV=1
+T1_Unigene_BMK.58805	sp|Q0JIL1|NRX2_ORYSJ	0	313/391(80.05)	644	Probable nucleoredoxin 2 OS=Oryza sativa subsp. japonica GN=Os01g0794400 PE=2 SV=1
+T1_Unigene_BMK.58968	sp|P98088|MUC5A_HUMAN	9.18949e-19	131/493(26.57)	94	Mucin-5AC (Fragments) OS=Homo sapiens GN=MUC5AC PE=1 SV=3
+T1_Unigene_BMK.59034	sp|Q9C5S9|CRK6_ARATH	3.91953e-31	64/149(42.95)	124	Cysteine-rich receptor-like protein kinase 6 OS=Arabidopsis thaliana GN=CRK6 PE=1 SV=1
+T1_Unigene_BMK.59046	sp|Q8GYA4|CRK10_ARATH	1.1804e-180	306/692(44.22)	537	Cysteine-rich receptor-like protein kinase 10 OS=Arabidopsis thaliana GN=CRK10 PE=1 SV=3
+T1_Unigene_BMK.59137	sp|Q9CA63|FBK29_ARATH	3.43717e-164	249/459(54.25)	483	F-box/kelch-repeat protein At1g74510 OS=Arabidopsis thaliana GN=At1g74510 PE=2 SV=1
+T1_Unigene_BMK.59144	sp|Q9LHE3|ASPG2_ARATH	4.63426e-31	84/229(36.68)	124	Protein ASPARTIC PROTEASE IN GUARD CELL 2 OS=Arabidopsis thaliana GN=ASPG2 PE=2 SV=1
+T1_Unigene_BMK.59145	sp|Q9UQ35|SRRM2_HUMAN	3.54533e-20	145/506(28.66)	100	Serine/arginine repetitive matrix protein 2 OS=Homo sapiens GN=SRRM2 PE=1 SV=2
+T1_Unigene_BMK.59189	sp|Q9LTJ8|MBD13_ARATH	3.26451e-09	56/231(24.24)	62	Methyl-CpG-binding domain-containing protein 13 OS=Arabidopsis thaliana GN=MBD13 PE=2 SV=1
+T1_Unigene_BMK.59278	sp|Q9LW86|SUT34_ARATH	0	280/423(66.19)	556	Probable sulfate transporter 3.4 OS=Arabidopsis thaliana GN=SULTR3;4 PE=2 SV=1
+T1_Unigene_BMK.59320	sp|P32839|BCS1_YEAST	4.16186e-23	68/187(36.36)	102	Mitochondrial chaperone BCS1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=BCS1 PE=1 SV=2
+T1_Unigene_BMK.59408	sp|Q8H0Y8|WRK41_ARATH	2.97574e-32	89/212(41.98)	128	Probable WRKY transcription factor 41 OS=Arabidopsis thaliana GN=WRKY41 PE=2 SV=2
+T1_Unigene_BMK.59434	sp|Q84TF0|AKRCA_ARATH	5.42564e-159	214/307(69.71)	455	Aldo-keto reductase family 4 member C10 OS=Arabidopsis thaliana GN=AKR4C10 PE=1 SV=1
+T1_Unigene_BMK.59533	sp|Q6ZQP7|YV021_HUMAN	3.85265e-09	66/204(32.35)	60	Uncharacterized protein LOC284861 OS=Homo sapiens PE=2 SV=1
+T1_Unigene_BMK.59554	sp|Q9SPK4|PPCK1_ARATH	2.11678e-83	133/282(47.16)	260	Phosphoenolpyruvate carboxylase kinase 1 OS=Arabidopsis thaliana GN=PPCK1 PE=1 SV=1
+T1_Unigene_BMK.59578	sp|Q09893|YAI5_SCHPO	3.21391e-16	69/223(30.94)	80	Uncharacterized protein C24B11.05 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=SPAC24B11.05 PE=3 SV=1
+T1_Unigene_BMK.59605	sp|Q06942|FL3H_MALDO	1.65453e-59	122/333(36.64)	207	Naringenin,2-oxoglutarate 3-dioxygenase OS=Malus domestica PE=2 SV=1
+T1_Unigene_BMK.59713	sp|Q02921|NO93_SOYBN	7.1587e-33	60/85(70.59)	118	Early nodulin-93 OS=Glycine max PE=2 SV=1
+T1_Unigene_BMK.59732	sp|Q84ZL0|FH5_ORYSJ	1.96398e-13	43/132(32.58)	49	Formin-like protein 5 OS=Oryza sativa subsp. japonica GN=FH5 PE=2 SV=2
+T1_Unigene_BMK.59766	sp|P13729|SGS3_DROSI	3.57909e-06	42/131(32.06)	50	Salivary glue protein Sgs-3 OS=Drosophila simulans GN=Sgs3 PE=2 SV=2
+T1_Unigene_BMK.59787	sp|Q9FIK7|THIC2_ARATH	0	310/409(75.79)	620	Probable acetyl-CoA acetyltransferase, cytosolic 2 OS=Arabidopsis thaliana GN=At5g47720 PE=2 SV=1
+T1_Unigene_BMK.59895	sp|Q942D4|BURP3_ORYSJ	0	336/431(77.96)	665	BURP domain-containing protein 3 OS=Oryza sativa subsp. japonica GN=BURP3 PE=2 SV=1
+T1_Unigene_BMK.59933	sp|Q949V6|ARI1_ARATH	1.79176e-128	209/490(42.65)	396	Probable E3 ubiquitin-protein ligase ARI1 OS=Arabidopsis thaliana GN=ARI1 PE=2 SV=1
+T1_Unigene_BMK.59952	sp|Q0DKW8|LTI6B_ORYSJ	1.87242e-31	51/53(96.23)	113	Hydrophobic protein LTI6B OS=Oryza sativa subsp. japonica GN=LTI6B PE=2 SV=1
+T1_Unigene_BMK.59958	sp|Q9SUP6|WRK53_ARATH	1.1608e-23	61/138(44.20)	104	Probable WRKY transcription factor 53 OS=Arabidopsis thaliana GN=WRKY53 PE=1 SV=1
+T1_Unigene_BMK.60008	sp|Q942D6|HFC1B_ORYSJ	8.00033e-130	198/251(78.88)	374	Heat stress transcription factor C-1b OS=Oryza sativa subsp. japonica GN=HSFC1B PE=2 SV=1
+T1_Unigene_BMK.60066	sp|Q6KAE5|XB32_ORYSJ	0	428/504(84.92)	859	Probable E3 ubiquitin-protein ligase XBOS32 OS=Oryza sativa subsp. japonica GN=XBOS32 PE=2 SV=2
+T1_Unigene_BMK.60072	sp|Q56ZZ7|PLST4_ARATH	1.65838e-30	61/71(85.92)	122	Plastidic glucose transporter 4 OS=Arabidopsis thaliana GN=At5g16150 PE=1 SV=2
+T1_Unigene_BMK.60091	sp|Q41578|PORA_WHEAT	0	370/388(95.36)	734	Protochlorophyllide reductase A, chloroplastic OS=Triticum aestivum GN=PORA PE=3 SV=1
+T1_Unigene_BMK.60120	sp|Q01548|PER2_HORVU	1.43011e-93	139/158(87.97)	283	Peroxidase 2 (Fragment) OS=Hordeum vulgare PE=2 SV=1
+T1_Unigene_BMK.60121	sp|A5H8G4|PER1_MAIZE	9.09777e-137	211/347(60.81)	403	Peroxidase 1 OS=Zea mays GN=PER1 PE=1 SV=1
+T1_Unigene_BMK.60130	sp|P34742|E13A_HORVU	6.50046e-160	224/240(93.33)	452	Glucan endo-1,3-beta-glucosidase GI OS=Hordeum vulgare PE=1 SV=2
+T1_Unigene_BMK.60225	sp|Q95JC9|PRP_PIG	1.50459e-17	80/212(37.74)	87	Basic proline-rich protein OS=Sus scrofa PE=1 SV=2
+T1_Unigene_BMK.60305	sp|Q29Q28|UTR2_ARATH	0	266/341(78.01)	536	UDP-galactose/UDP-glucose transporter 2 OS=Arabidopsis thaliana GN=UTR2 PE=2 SV=1
+T1_Unigene_BMK.60334	sp|Q9ZPR7|UPS1_ARATH	4.97245e-175	254/413(61.50)	503	Ureide permease 1 OS=Arabidopsis thaliana GN=UPS1 PE=1 SV=1
+T1_Unigene_BMK.60393	sp|Q42942|UMPS_TOBAC	0	283/458(61.79)	574	Uridine 5&apos;-monophosphate synthase (Fragment) OS=Nicotiana tabacum GN=PYR5-6 PE=2 SV=1
+T1_Unigene_BMK.60591	sp|Q8VYI3|ECH2_ARATH	1.2177e-132	191/301(63.46)	388	Enoyl-CoA hydratase 2, peroxisomal OS=Arabidopsis thaliana GN=ECH2 PE=1 SV=1
+T1_Unigene_BMK.60594	sp|Q75JC9|Y8484_DICDI	6.99048e-33	102/300(34.00)	134	Uncharacterized protein DDB_G0271670 OS=Dictyostelium discoideum GN=DDB_G0271670 PE=4 SV=1
+T1_Unigene_BMK.60623	sp|Q9FH37|ILR3_ARATH	2.08232e-53	102/192(53.12)	181	Transcription factor ILR3 OS=Arabidopsis thaliana GN=ILR3 PE=1 SV=1
+T1_Unigene_BMK.60644	sp|Q9LP24|Y1571_ARATH	6.19085e-39	86/168(51.19)	160	Probable leucine-rich repeat receptor-like protein kinase At1g35710 OS=Arabidopsis thaliana GN=At1g35710 PE=2 SV=1
+T1_Unigene_BMK.60650	sp|Q9UF83|YM012_HUMAN	2.8994e-16	101/312(32.37)	85	Uncharacterized protein DKFZp434B061 OS=Homo sapiens PE=2 SV=2
+T1_Unigene_BMK.61009	sp|Q9XEF0|BH051_ARATH	2.71759e-20	61/162(37.65)	93	Transcription factor bHLH51 OS=Arabidopsis thaliana GN=BHLH51 PE=2 SV=1
+T1_Unigene_BMK.61023	sp|P13730|SGS3_DROER	1.78077e-11	47/154(30.52)	67	Salivary glue protein Sgs-3 OS=Drosophila erecta GN=Sgs3 PE=2 SV=3
+T1_Unigene_BMK.61048	sp|Q9S9M5|WAKLA_ARATH	5.76088e-18	45/113(39.82)	85	Wall-associated receptor kinase-like 1 OS=Arabidopsis thaliana GN=WAKL1 PE=1 SV=1
+T1_Unigene_BMK.61111	sp|Q8S8M0|CYT1A_ARATH	1.64543e-09	24/35(68.57)	56	CYSTM1 family protein A OS=Arabidopsis thaliana GN=At2g41420 PE=3 SV=1
+T1_Unigene_BMK.61123	sp|P24465|C71A1_PERAE	1.40042e-80	103/272(37.87)	171	Cytochrome P450 71A1 OS=Persea americana GN=CYP71A1 PE=1 SV=2
+T1_Unigene_BMK.61238	sp|P08640|MUC1_YEAST	4.31247e-20	126/413(30.51)	97	Flocculation protein FLO11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=MUC1 PE=1 SV=2
+T1_Unigene_BMK.61239	sp|Q17RH7|TPRXL_HUMAN	6.72251e-10	49/152(32.24)	61	Putative protein TPRXL OS=Homo sapiens GN=TPRXL PE=5 SV=2
+T1_Unigene_BMK.61253	sp|Q00834|CYSK_SPIOL	1.86443e-113	176/365(48.22)	341	Cysteine synthase OS=Spinacia oleracea PE=1 SV=1
+T1_Unigene_BMK.61292	sp|C0LGP4|Y3475_ARATH	0	350/847(41.32)	620	Probable LRR receptor-like serine/threonine-protein kinase At3g47570 OS=Arabidopsis thaliana GN=At3g47570 PE=1 SV=1
+T1_Unigene_BMK.61640	sp|Q8L493|BCAL3_ARATH	2.28266e-123	176/297(59.26)	366	Branched-chain-amino-acid aminotransferase-like protein 3, chloroplastic OS=Arabidopsis thaliana GN=At5g57850 PE=2 SV=1
+T1_Unigene_BMK.61680	sp|Q9FDW1|MYB44_ARATH	5.82811e-79	150/307(48.86)	253	Transcription factor MYB44 OS=Arabidopsis thaliana GN=MYB44 PE=2 SV=1
+T1_Unigene_BMK.61705	sp|Q9LV60|CRR55_ARATH	6.67057e-61	107/259(41.31)	197	Cysteine-rich repeat secretory protein 55 OS=Arabidopsis thaliana GN=CRRSP55 PE=2 SV=1
+T1_Unigene_BMK.61796	sp|P46526|CS66_WHEAT	1.22525e-71	109/139(78.42)	230	Cold shock protein CS66 OS=Triticum aestivum GN=CS66 PE=2 SV=1
+T1_Unigene_BMK.62039	sp|Q9SRS9|CHIP_ARATH	4.9997e-94	141/241(58.51)	295	E3 ubiquitin-protein ligase CHIP OS=Arabidopsis thaliana GN=CHIP PE=1 SV=1
+T1_Unigene_BMK.62059	sp|Q75JC9|Y8484_DICDI	9.99455e-16	85/332(25.60)	82	Uncharacterized protein DDB_G0271670 OS=Dictyostelium discoideum GN=DDB_G0271670 PE=4 SV=1
+T1_Unigene_BMK.62118	sp|C5WNV2|PURA2_SORBI	1.77925e-57	112/143(78.32)	197	Adenylosuccinate synthetase 2, chloroplastic OS=Sorghum bicolor GN=PURA2 PE=3 SV=1
+T1_Unigene_BMK.62267	sp|Q9MAH3|DJ1B_ARATH	4.16777e-154	235/411(57.18)	453	Protein DJ-1 homolog B OS=Arabidopsis thaliana GN=DJ1B PE=2 SV=1
+T1_Unigene_BMK.62295	sp|Q8H4H5|NRAM5_ORYSJ	0	458/540(84.81)	878	Metal transporter Nramp5 OS=Oryza sativa subsp. japonica GN=NRAMP5 PE=2 SV=1
+T1_Unigene_BMK.62324	sp|Q6ZQP7|YV021_HUMAN	4.90058e-12	74/248(29.84)	70	Uncharacterized protein LOC284861 OS=Homo sapiens PE=2 SV=1
+T1_Unigene_BMK.62412	sp|Q8S528|AL2B7_ARATH	0	304/421(72.21)	612	Aldehyde dehydrogenase family 2 member B7, mitochondrial OS=Arabidopsis thaliana GN=ALDH2B7 PE=2 SV=2
+T1_Unigene_BMK.62440	sp|Q2V9B0|MY1R1_SOLTU	1.2429e-31	73/172(42.44)	125	Transcription factor MYB1R1 OS=Solanum tuberosum PE=2 SV=1
+T1_Unigene_BMK.62457	sp|Q7G1L2|RAP26_ARATH	7.09574e-31	67/129(51.94)	123	Ethylene-responsive transcription factor RAP2-6 OS=Arabidopsis thaliana GN=RAP2-6 PE=2 SV=2
+T1_Unigene_BMK.62563	sp|Q9LTS4|BH041_ARATH	1.3763e-27	82/302(27.15)	119	Putative transcription factor bHLH041 OS=Arabidopsis thaliana GN=BHLH41 PE=4 SV=1
+T1_Unigene_BMK.62670	sp|Q9C9H7|RLP12_ARATH	1.3182e-101	252/742(33.96)	344	Receptor-like protein 12 OS=Arabidopsis thaliana GN=RLP12 PE=2 SV=2
+T1_Unigene_BMK.62688	sp|Q42806|KPYC_SOYBN	3.78313e-172	243/301(80.73)	495	Pyruvate kinase, cytosolic isozyme OS=Glycine max PE=1 SV=1
+T1_Unigene_BMK.62888	sp|O48958|C71E1_SORBI	0	342/527(64.90)	665	4-hydroxyphenylacetaldehyde oxime monooxygenase OS=Sorghum bicolor GN=CYP71E1 PE=2 SV=1
+T1_Unigene_BMK.63185	sp|Q94IW5|C90D2_ORYSJ	0	396/495(80.00)	767	Cytochrome P450 90D2 OS=Oryza sativa subsp. japonica GN=CYP90D2 PE=1 SV=1
+T1_Unigene_BMK.63278	sp|Q43681|NLTP_VIGUN	3.59689e-22	44/97(45.36)	92	Probable non-specific lipid-transfer protein AKCS9 OS=Vigna unguiculata PE=2 SV=1
+T1_Unigene_BMK.63301	sp|O04130|SERA_ARATH	0	414/543(76.24)	824	D-3-phosphoglycerate dehydrogenase, chloroplastic OS=Arabidopsis thaliana GN=At1g17745 PE=1 SV=2
+T1_Unigene_BMK.63347	sp|Q8GYA4|CRK10_ARATH	4.16215e-174	299/687(43.52)	520	Cysteine-rich receptor-like protein kinase 10 OS=Arabidopsis thaliana GN=CRK10 PE=1 SV=3
+T1_Unigene_BMK.63374	sp|Q56232|AAT_THET8	5.5063e-39	122/397(30.73)	151	Aspartate aminotransferase OS=Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579) GN=aspC PE=1 SV=1
+T1_Unigene_BMK.63451	sp|A2VEI2|MICU1_DROME	1.32266e-36	66/212(31.13)	98	Calcium uptake protein 1 homolog, mitochondrial OS=Drosophila melanogaster GN=CG4495 PE=2 SV=1
+T1_Unigene_BMK.63464	sp|Q10G56|OAT_ORYSJ	0	417/473(88.16)	836	Ornithine aminotransferase, mitochondrial OS=Oryza sativa subsp. japonica GN=OAT PE=2 SV=1
+T1_Unigene_BMK.63565	sp|Q8LEJ6|FLA11_ARATH	1.84703e-54	109/222(49.10)	186	Fasciclin-like arabinogalactan protein 11 OS=Arabidopsis thaliana GN=FLA11 PE=2 SV=2
+T1_Unigene_BMK.63605	sp|P13868|CALM1_SOLTU	9.41147e-07	30/73(41.10)	50	Calmodulin-1 OS=Solanum tuberosum GN=PCM1 PE=1 SV=2
+T1_Unigene_BMK.63638	sp|Q9LMN8|WAK3_ARATH	1.05594e-121	264/717(36.82)	394	Wall-associated receptor kinase 3 OS=Arabidopsis thaliana GN=WAK3 PE=2 SV=2
+T1_Unigene_BMK.63682	sp|Q84TH5|AB25G_ARATH	0	342/638(53.61)	630	ABC transporter G family member 25 OS=Arabidopsis thaliana GN=ABCG25 PE=2 SV=1
+T1_Unigene_BMK.63874	sp|O65440|BAME3_ARATH	2.84928e-61	127/275(46.18)	217	Leucine-rich repeat receptor-like serine/threonine-protein kinase BAM3 OS=Arabidopsis thaliana GN=BAM3 PE=2 SV=3
+T1_Unigene_BMK.63890	sp|Q8GW61|STP14_ARATH	2.67655e-44	69/96(71.88)	156	Sugar transport protein 14 OS=Arabidopsis thaliana GN=STP14 PE=2 SV=2
+T1_Unigene_BMK.63925	sp|P81370|TLP_ACTDE	5.35013e-84	119/216(55.09)	253	Thaumatin-like protein OS=Actinidia deliciosa GN=tlp PE=1 SV=2
+T1_Unigene_BMK.64004	sp|Q39131|LAML_ARATH	2.02191e-18	41/118(34.75)	84	Lamin-like protein OS=Arabidopsis thaliana GN=At5g15350 PE=1 SV=1
+T1_Unigene_BMK.64019	sp|Q9FR37|AMI1_ARATH	2.4927e-17	45/74(60.81)	88	Amidase 1 OS=Arabidopsis thaliana GN=AMI1 PE=1 SV=1
+T1_Unigene_BMK.64023	sp|O50061|RK4_ARATH	2.58131e-108	172/288(59.72)	323	50S ribosomal protein L4, chloroplastic OS=Arabidopsis thaliana GN=RPL4 PE=1 SV=2
+T1_Unigene_BMK.64165	sp|O04437|GSTZ_WHEAT	4.22152e-46	75/75(100.00)	158	Glutathione S-transferase OS=Triticum aestivum GN=GSTZ1 PE=1 SV=1
+T1_Unigene_BMK.64168	sp|Q9LK73|U88A1_ARATH	8.92192e-60	136/441(30.84)	206	UDP-glycosyltransferase 88A1 OS=Arabidopsis thaliana GN=UGT88A1 PE=2 SV=1
+T1_Unigene_BMK.64203	sp|P42210|ASPR_HORVU	0	482/511(94.32)	963	Phytepsin OS=Hordeum vulgare PE=1 SV=1
+T1_Unigene_BMK.64213	sp|A9ZPJ7|AGCT2_HORVU	1.24665e-85	161/419(38.42)	273	Agmatine coumaroyltransferase-2 OS=Hordeum vulgare GN=ACT-2 PE=1 SV=1
+T1_Unigene_BMK.64286	sp|Q9C7A2|Y3236_ARATH	0	355/553(64.20)	689	Ankyrin repeat-containing protein At3g12360 OS=Arabidopsis thaliana GN=At3g12360 PE=2 SV=1
+T1_Unigene_BMK.64318	sp|Q6ZQP7|YV021_HUMAN	9.76897e-07	35/98(35.71)	51	Uncharacterized protein LOC284861 OS=Homo sapiens PE=2 SV=1
+T1_Unigene_BMK.64368	sp|P27497|CB29_MAIZE	8.74488e-166	227/266(85.34)	466	Chlorophyll a-b binding protein M9, chloroplastic OS=Zea mays GN=CAB-M9 PE=2 SV=1
+T1_Unigene_BMK.64522	sp|Q9FF86|DCR_ARATH	9.69921e-19	63/195(32.31)	87	BAHD acyltransferase DCR OS=Arabidopsis thaliana GN=DCR PE=2 SV=1
+T1_Unigene_BMK.64626	sp|Q9LYT3|TT12_ARATH	4.6301e-152	220/442(49.77)	454	Protein TRANSPARENT TESTA 12 OS=Arabidopsis thaliana GN=TT12 PE=2 SV=1
+T1_Unigene_BMK.64651	sp|Q10QF2|HOX12_ORYSJ	3.99233e-101	174/246(70.73)	304	Homeobox-leucine zipper protein HOX12 OS=Oryza sativa subsp. japonica GN=HOX12 PE=2 SV=1
+T1_Unigene_BMK.64664	sp|P53393|SUT3_STYHA	1.38466e-127	187/300(62.33)	387	Low affinity sulfate transporter 3 OS=Stylosanthes hamata GN=ST3 PE=2 SV=1
+T1_Unigene_BMK.64835	sp|Q8H6G8|PHT18_ORYSJ	0	428/529(80.91)	847	Probable inorganic phosphate transporter 1-8 OS=Oryza sativa subsp. japonica GN=PHT1-8 PE=2 SV=1
+T1_Unigene_BMK.64862	sp|B6SJQ0|CNR13_MAIZE	7.54327e-26	58/125(46.40)	114	Cell number regulator 13 OS=Zea mays GN=CNR13 PE=2 SV=1
+T1_Unigene_BMK.64914	sp|Q9LS40|ASPG1_ARATH	6.18235e-80	163/414(39.37)	266	Protein ASPARTIC PROTEASE IN GUARD CELL 1 OS=Arabidopsis thaliana GN=ASPG1 PE=1 SV=1
+T1_Unigene_BMK.64935	sp|Q9C519|WRKY6_ARATH	6.81116e-137	270/541(49.91)	419	WRKY transcription factor 6 OS=Arabidopsis thaliana GN=WRKY6 PE=1 SV=1
+T1_Unigene_BMK.65018	sp|Q769E5|CAX1A_ORYSJ	0	376/463(81.21)	716	Vacuolar cation/proton exchanger 1a OS=Oryza sativa subsp. japonica GN=CAX1a PE=1 SV=1
+T1_Unigene_BMK.65033	sp|P46420|GSTF4_MAIZE	6.44767e-102	150/219(68.49)	303	Glutathione S-transferase 4 OS=Zea mays GN=GST4 PE=1 SV=2
+T1_Unigene_BMK.65098	sp|Q10SC8|CIPK9_ORYSJ	0	395/444(88.96)	798	CBL-interacting protein kinase 9 OS=Oryza sativa subsp. japonica GN=CIPK9 PE=2 SV=1
+T1_Unigene_BMK.65222	sp|P43396|MT1_COFAR	5.97766e-21	38/59(64.41)	85	Metallothionein-like protein 1 OS=Coffea arabica GN=METAL1 PE=3 SV=1
+T1_Unigene_BMK.65255	sp|Q75HE6|MTHR_ORYSJ	0	539/594(90.74)	1134	Probable methylenetetrahydrofolate reductase OS=Oryza sativa subsp. japonica GN=Os03g0815200 PE=2 SV=1
+T1_Unigene_BMK.65338	sp|Q8VZR2|ASD2_ARATH	0	251/428(58.64)	529	Alpha-L-arabinofuranosidase 2 OS=Arabidopsis thaliana GN=ASD2 PE=2 SV=1
+T1_Unigene_BMK.65423	sp|O49508|FB237_ARATH	1.47842e-100	184/380(48.42)	318	F-box protein At4g18380 OS=Arabidopsis thaliana GN=At4g18380 PE=2 SV=1
+T1_Unigene_BMK.65490	sp|C0LGT1|Y5129_ARATH	0	330/618(53.40)	630	Probable LRR receptor-like serine/threonine-protein kinase At5g10290 OS=Arabidopsis thaliana GN=At5g10290 PE=1 SV=1
+T1_Unigene_BMK.65556	sp|Q67U69|FDH2_ORYSJ	0	303/378(80.16)	639	Formate dehydrogenase 2, mitochondrial OS=Oryza sativa subsp. japonica GN=Os06g0486900 PE=2 SV=1
+T1_Unigene_BMK.65680	sp|P31752|ASNS_ASPOF	0	495/591(83.76)	1037	Asparagine synthetase [glutamine-hydrolyzing] OS=Asparagus officinalis PE=2 SV=2
+T1_Unigene_BMK.65690	sp|P05336|ADH1_HORVU	0	369/379(97.36)	759	Alcohol dehydrogenase 1 OS=Hordeum vulgare GN=ADH1 PE=2 SV=1
+T1_Unigene_BMK.65710	sp|P92519|M810_ARATH	5.73519e-54	90/174(51.72)	187	Uncharacterized mitochondrial protein AtMg00810 OS=Arabidopsis thaliana GN=AtMg00810 PE=4 SV=1
+T1_Unigene_BMK.65755	sp|Q94AA4|K6PF3_ARATH	0	364/483(75.36)	730	6-phosphofructokinase 3 OS=Arabidopsis thaliana GN=PFK3 PE=1 SV=1
+T1_Unigene_BMK.65818	sp|Q9C9X3|ANXD5_ARATH	7.75026e-108	170/313(54.31)	337	Annexin D5 OS=Arabidopsis thaliana GN=ANN5 PE=2 SV=2
+T1_Unigene_BMK.65869	sp|P42211|ASPRX_ORYSJ	0	310/429(72.26)	612	Aspartic proteinase OS=Oryza sativa subsp. japonica GN=RAP PE=2 SV=2
+T1_Unigene_BMK.66004	sp|Q10Q65|NRAM2_ORYSJ	0	467/524(89.12)	928	Metal transporter Nramp2 OS=Oryza sativa subsp. japonica GN=NRAMP2 PE=2 SV=1
+T1_Unigene_BMK.66145	sp|Q6VVA6|HAK1_ORYSJ	0	615/788(78.05)	1208	Potassium transporter 1 OS=Oryza sativa subsp. japonica GN=HAK1 PE=1 SV=2
+T1_Unigene_BMK.66156	sp|Q6ASY2|NLTL1_ORYSJ	1.91258e-48	93/180(51.67)	165	Non-specific lipid transfer protein-like 1 OS=Oryza sativa subsp. japonica GN=LTPL1 PE=1 SV=1
+T1_Unigene_BMK.66296	sp|Q9LPV8|ERF1Y_ARATH	0	342/432(79.17)	699	Eukaryotic peptide chain release factor subunit 1-2 OS=Arabidopsis thaliana GN=ERF1-2 PE=2 SV=1
+T1_Unigene_BMK.66494	sp|F4I933|STR8_ARATH	4.09437e-156	223/370(60.27)	468	Rhodanese-like domain-containing protein 8, chloroplastic OS=Arabidopsis thaliana GN=STR8 PE=2 SV=1
+T1_Unigene_BMK.66552	sp|D9HP25|CNR9_MAIZE	1.5878e-25	60/148(40.54)	105	Cell number regulator 9 OS=Zea mays GN=CNR9 PE=2 SV=1
+T1_Unigene_BMK.66686	sp|O23461|ARAK_ARATH	0	744/985(75.53)	1502	L-arabinokinase OS=Arabidopsis thaliana GN=ARA1 PE=1 SV=1
+T1_Unigene_BMK.66711	sp|Q8LL69|DBNBT_TAXCA	2.28202e-38	100/292(34.25)	144	3&apos;-N-debenzoyl-2&apos;-deoxytaxol N-benzoyltransferase OS=Taxus canadensis GN=TAX10 PE=1 SV=1
+T1_Unigene_BMK.66751	sp|Q42602|C89A2_ARATH	6.91679e-63	97/144(67.36)	206	Cytochrome P450 89A2 OS=Arabidopsis thaliana GN=CYP89A2 PE=2 SV=2
+T1_Unigene_BMK.66757	sp|P93766|MLO_HORVU	0	444/496(89.52)	886	Protein MLO OS=Hordeum vulgare GN=MLO PE=1 SV=1
+T1_Unigene_BMK.66824	sp|O23482|OPT3_ARATH	0	591/742(79.65)	1258	Oligopeptide transporter 3 OS=Arabidopsis thaliana GN=OPT3 PE=2 SV=3
+T1_Unigene_BMK.66867	sp|Q680C0|GDL62_ARATH	6.2386e-46	113/351(32.19)	167	GDSL esterase/lipase At4g10955 OS=Arabidopsis thaliana GN=At4g10955 PE=2 SV=1
+T1_Unigene_BMK.66873	sp|Q39134|AAP3_ARATH	0	318/471(67.52)	650	Amino acid permease 3 OS=Arabidopsis thaliana GN=AAP3 PE=1 SV=2
+T1_Unigene_BMK.66874	sp|A6P6W1|CASL2_CANSA	5.45656e-113	181/403(44.91)	345	Cannabidiolic acid synthase-like 2 OS=Cannabis sativa GN=CBDAS3 PE=2 SV=1
+T1_Unigene_BMK.66947	sp|Q10R54|SUT1_ORYSJ	0	433/541(80.04)	900	Sucrose transport protein SUT1 OS=Oryza sativa subsp. japonica GN=SUT1 PE=1 SV=1
+T1_Unigene_BMK.66975	sp|Q10S66|CHI11_ORYSJ	7.23969e-82	100/147(68.03)	219	Chitinase 11 OS=Oryza sativa subsp. japonica GN=Cht11 PE=2 SV=1
+T1_Unigene_BMK.67205	sp|Q6Z955|CKX11_ORYSJ	3.76613e-167	258/309(83.50)	494	Cytokinin dehydrogenase 11 OS=Oryza sativa subsp. japonica GN=CKX11 PE=2 SV=1
+T1_Unigene_BMK.67318	sp|Q0J951|ARFL_ORYSJ	0	705/790(89.24)	1413	Auxin response factor 12 OS=Oryza sativa subsp. japonica GN=ARF12 PE=2 SV=1
+T1_Unigene_BMK.67319	sp|Q258Y5|ARFL_ORYSI	1.40277e-28	52/53(98.11)	116	Auxin response factor 12 OS=Oryza sativa subsp. indica GN=ARF12 PE=2 SV=1
+T1_Unigene_BMK.67368	sp|Q39214|RPM1_ARATH	6.71159e-61	203/765(26.54)	226	Disease resistance protein RPM1 OS=Arabidopsis thaliana GN=RPM1 PE=1 SV=1
+T1_Unigene_BMK.67434	sp|Q944G5|PTR44_ARATH	4.48227e-168	242/463(52.27)	501	Probable peptide/nitrate transporter At3g47960 OS=Arabidopsis thaliana GN=At3g47960 PE=1 SV=3
+T1_Unigene_BMK.67451	sp|P93147|C81E1_GLYEC	2.88547e-137	215/511(42.07)	413	Isoflavone 2&apos;-hydroxylase OS=Glycyrrhiza echinata GN=CYP81E1 PE=1 SV=2
+T1_Unigene_BMK.67548	sp|O48958|C71E1_SORBI	7.59428e-127	202/354(57.06)	400	4-hydroxyphenylacetaldehyde oxime monooxygenase OS=Sorghum bicolor GN=CYP71E1 PE=2 SV=1
+T1_Unigene_BMK.67708	sp|O22808|LYK5_ARATH	2.59458e-180	299/663(45.10)	533	Protein LYK5 OS=Arabidopsis thaliana GN=LYK5 PE=1 SV=1
+T1_Unigene_BMK.67844	sp|P36787|VE2_HPV25	3.69092e-11	75/231(32.47)	68	Regulatory protein E2 OS=Human papillomavirus type 25 GN=E2 PE=3 SV=1
+T1_Unigene_BMK.67849	sp|Q54YD8|COPB2_DICDI	8.30022e-22	67/197(34.01)	104	Coatomer subunit beta&apos; OS=Dictyostelium discoideum GN=copb2 PE=3 SV=1
+T1_Unigene_BMK.67850	sp|Q9C827|COB22_ARATH	7.62345e-12	37/127(29.13)	67	Coatomer subunit beta&apos;-2 OS=Arabidopsis thaliana GN=At1g52360 PE=2 SV=1
+T1_Unigene_BMK.68152	sp|Q9FQA3|GST23_MAIZE	5.50402e-63	96/109(88.07)	202	Glutathione transferase GST 23 OS=Zea mays PE=2 SV=1
+T1_Unigene_BMK.68169	sp|Q8VWG3|TT1_ARATH	4.65166e-88	138/286(48.25)	270	Protein TRANSPARENT TESTA 1 OS=Arabidopsis thaliana GN=TT1 PE=2 SV=1
+T1_Unigene_BMK.68427	sp|C0LGP4|Y3475_ARATH	5.0788e-93	160/367(43.60)	304	Probable LRR receptor-like serine/threonine-protein kinase At3g47570 OS=Arabidopsis thaliana GN=At3g47570 PE=1 SV=1
+T1_Unigene_BMK.68518	sp|P55308|CATA2_HORVU	0	492/494(99.60)	1049	Catalase isozyme 2 OS=Hordeum vulgare GN=CAT2 PE=2 SV=1
+T1_Unigene_BMK.68665	sp|O64393|WHW2_WHEAT	5.45998e-107	144/147(97.96)	308	Wheatwin-2 OS=Triticum aestivum GN=PR4B PE=1 SV=1
+T1_Unigene_BMK.68686	sp|Q2QYL8|WNK8_ORYSJ	0	410/661(62.03)	714	Probable serine/threonine-protein kinase WNK8 OS=Oryza sativa subsp. japonica GN=WNK8 PE=2 SV=1
+T1_Unigene_BMK.68785	sp|Q9BYJ9|YTHD1_HUMAN	4.33009e-08	30/60(50.00)	58	YTH domain family protein 1 OS=Homo sapiens GN=YTHDF1 PE=1 SV=1
+T1_Unigene_BMK.68807	sp|Q65XK7|P2C51_ORYSJ	1.21494e-166	266/376(70.74)	481	Probable protein phosphatase 2C 51 OS=Oryza sativa subsp. japonica GN=Os05g0572700 PE=2 SV=1
+T1_Unigene_BMK.68889	sp|Q6L5H6|P2C50_ORYSJ	2.89506e-122	193/274(70.44)	382	Probable protein phosphatase 2C 50 OS=Oryza sativa subsp. japonica GN=Os05g0537400 PE=2 SV=1
+T1_Unigene_BMK.69065	sp|Q6YWQ4|HAK25_ORYSJ	0	667/778(85.73)	1323	Potassium transporter 25 OS=Oryza sativa subsp. japonica GN=HAK25 PE=2 SV=1
+T1_Unigene_BMK.69094	sp|Q9SR66|DML2_ARATH	5.85641e-114	237/582(40.72)	382	DEMETER-like protein 2 OS=Arabidopsis thaliana GN=DML2 PE=3 SV=2
+T1_Unigene_BMK.69161	sp|Q42656|AGAL_COFAR	0	246/369(66.67)	521	Alpha-galactosidase OS=Coffea arabica PE=1 SV=1
+T1_Unigene_BMK.69172	sp|Q17RH7|TPRXL_HUMAN	1.48772e-07	35/130(26.92)	55	Putative protein TPRXL OS=Homo sapiens GN=TPRXL PE=5 SV=2
+T1_Unigene_BMK.69403	sp|Q8VZG8|Y4885_ARATH	0	306/672(45.54)	572	Probable LRR receptor-like serine/threonine-protein kinase At4g08850 OS=Arabidopsis thaliana GN=At4g08850 PE=1 SV=3
+T1_Unigene_BMK.69415	sp|Q0IU52|ASP1_ORYSJ	4.68575e-15	30/53(56.60)	78	Aspartic proteinase Asp1 OS=Oryza sativa subsp. japonica GN=ASP1 PE=2 SV=1
+T1_Unigene_BMK.69425	sp|Q8BTI8|SRRM2_MOUSE	2.9301e-11	76/255(29.80)	66	Serine/arginine repetitive matrix protein 2 OS=Mus musculus GN=Srrm2 PE=1 SV=3
+T1_Unigene_BMK.69719	sp|P53797|PSY_NARPS	7.78621e-152	237/379(62.53)	443	Phytoene synthase, chloroplastic OS=Narcissus pseudonarcissus GN=PSY PE=2 SV=1
+T1_Unigene_BMK.69810	sp|Q9SGZ5|BXL7_ARATH	0	449/750(59.87)	917	Probable beta-D-xylosidase 7 OS=Arabidopsis thaliana GN=BXL7 PE=2 SV=2
+T1_Unigene_BMK.69926	sp|Q9FLV4|Y5248_ARATH	1.88904e-105	258/767(33.64)	345	G-type lectin S-receptor-like serine/threonine-protein kinase At5g24080 OS=Arabidopsis thaliana GN=At5g24080 PE=2 SV=1
+T1_Unigene_BMK.70087	sp|O65351|SUBL_ARATH	0	502/761(65.97)	1010	Subtilisin-like protease OS=Arabidopsis thaliana GN=ARA12 PE=1 SV=1
+T1_Unigene_BMK.70190	sp|Q9LJM4|IKU2_ARATH	0	456/999(45.65)	764	Receptor-like protein kinase HAIKU2 OS=Arabidopsis thaliana GN=IKU2 PE=1 SV=1
+T1_Unigene_BMK.70389	sp|Q5RC94|NBR1_PONAB	4.68056e-17	101/413(24.46)	90	Next to BRCA1 gene 1 protein OS=Pongo abelii GN=NBR1 PE=2 SV=1
+T1_Unigene_BMK.70408	sp|Q9SZA7|DRL29_ARATH	0	354/655(54.05)	685	Probable disease resistance protein At4g33300 OS=Arabidopsis thaliana GN=At4g33300 PE=2 SV=3
+T1_Unigene_BMK.70457	sp|P18165|LORI_MOUSE	8.53238e-67	174/458(37.99)	237	Loricrin OS=Mus musculus GN=Lor PE=2 SV=2
+T1_Unigene_BMK.70533	sp|Q9SMZ4|AASS_ARATH	0	691/1063(65.00)	1351	Alpha-aminoadipic semialdehyde synthase OS=Arabidopsis thaliana GN=LKR/SDH PE=1 SV=1
+T1_Unigene_BMK.70635	sp|Q7G794|LOX3_ORYSJ	0	528/727(72.63)	1072	Putative linoleate 9S-lipoxygenase 3 OS=Oryza sativa subsp. japonica GN=Os03g0700400 PE=3 SV=1
+T1_Unigene_BMK.70650	sp|Q8K157|GALM_MOUSE	4.71742e-79	139/329(42.25)	253	Aldose 1-epimerase OS=Mus musculus GN=Galm PE=2 SV=1
+T1_Unigene_BMK.70925	sp|O81108|ACA2_ARATH	0	770/980(78.57)	1532	Calcium-transporting ATPase 2, plasma membrane-type OS=Arabidopsis thaliana GN=ACA2 PE=1 SV=1
+T1_Unigene_BMK.71184	sp|Q9MBG5|CML30_ARATH	5.09014e-19	44/82(53.66)	85	Probable calcium-binding protein CML30 OS=Arabidopsis thaliana GN=CML30 PE=2 SV=1
+T1_Unigene_BMK.71202	sp|Q0WUI9|TPS8_ARATH	1.17548e-144	205/318(64.47)	436	Probable alpha,alpha-trehalose-phosphate synthase [UDP-forming] 8 OS=Arabidopsis thaliana GN=TPS8 PE=2 SV=1
+T1_Unigene_BMK.71409	sp|O80933|SCL9_ARATH	3.80017e-146	236/510(46.27)	446	Scarecrow-like protein 9 OS=Arabidopsis thaliana GN=SCL9 PE=2 SV=1
+T1_Unigene_BMK.71450	sp|Q96PM5|ZN363_HUMAN	9.09719e-71	113/266(42.48)	240	RING finger and CHY zinc finger domain-containing protein 1 OS=Homo sapiens GN=RCHY1 PE=1 SV=1
+T1_Unigene_BMK.71565	sp|Q9C5U1|AHK3_ARATH	0	587/960(61.15)	1108	Histidine kinase 3 OS=Arabidopsis thaliana GN=AHK3 PE=1 SV=1
+T1_Unigene_BMK.71690	sp|Q9LZJ5|AB14C_ARATH	0	452/709(63.75)	886	ABC transporter C family member 14 OS=Arabidopsis thaliana GN=ABCC14 PE=1 SV=1
+T1_Unigene_BMK.71999	sp|Q8VHC8|MA2B1_CAVPO	0	416/1018(40.86)	696	Lysosomal alpha-mannosidase OS=Cavia porcellus GN=MAN2B1 PE=1 SV=1
+T1_Unigene_BMK.72006	sp|Q6K972|AGO1C_ORYSJ	0	836/1008(82.94)	1658	Protein argonaute 1C OS=Oryza sativa subsp. japonica GN=AGO1C PE=2 SV=1
+T1_Unigene_BMK.72084	sp|Q9LK64|AB3C_ARATH	0	944/1512(62.43)	1809	ABC transporter C family member 3 OS=Arabidopsis thaliana GN=ABCC3 PE=1 SV=1
+T1_Unigene_BMK.72192	sp|Q852M1|ALDO2_ORYSJ	0	1080/1363(79.24)	2166	Probable aldehyde oxidase 2 OS=Oryza sativa subsp. japonica GN=Os03g0790900 PE=2 SV=1
+T1_Unigene_BMK.72351	sp|A1YTM8|MT3A_ORYSJ	2.91956e-28	41/61(67.21)	104	Metallothionein-like protein 3A OS=Oryza sativa subsp. japonica GN=MT3A PE=2 SV=1
+T1_Unigene_BMK.143	sp|Q9FHG4|LRKS7_ARATH	7.48607e-69	174/527(33.02)	245	Probable L-type lectin-domain containing receptor kinase S.7 OS=Arabidopsis thaliana GN=LECRKS7 PE=2 SV=1
+T1_Unigene_BMK.14496	sp|O35615|FOG1_MOUSE	3.52022e-06	32/101(31.68)	47	Zinc finger protein ZFPM1 OS=Mus musculus GN=Zfpm1 PE=1 SV=1
+T2_Unigene_BMK.10144	sp|Q94CD8|E134_ARATH	3.05578e-35	79/227(34.80)	133	Glucan endo-1,3-beta-glucosidase 4 OS=Arabidopsis thaliana GN=At3g13560 PE=1 SV=1
+T2_Unigene_BMK.10676	sp|Q9M5X7|NLTP_MALDO	4.16205e-25	46/106(43.40)	96	Non-specific lipid-transfer protein OS=Malus domestica GN=MALD3 PE=1 SV=1
+T2_Unigene_BMK.14143	sp|Q06A98|SRSF2_PIG	4.69023e-09	46/136(33.82)	57	Serine/arginine-rich splicing factor 2 OS=Sus scrofa GN=SRSF2 PE=2 SV=1
+T1_Unigene_BMK.15283	sp|P85966|AMP_TRIKH	1.08657e-29	44/45(97.78)	108	Antimicrobial peptide 1b OS=Triticum kiharae PE=1 SV=1
+T1_Unigene_BMK.15335	sp|Q9FLQ7|FH20_ARATH	8.84712e-06	31/66(46.97)	50	Formin-like protein 20 OS=Arabidopsis thaliana GN=FH20 PE=2 SV=3
+T1_Unigene_BMK.15371	sp|P02879|RICI_RICCO	9.47756e-156	274/584(46.92)	472	Ricin OS=Ricinus communis PE=1 SV=1
+T2_Unigene_BMK.20157	sp|O49840|APK2B_ARATH	8.27099e-27	61/129(47.29)	106	Protein kinase 2B, chloroplastic OS=Arabidopsis thaliana GN=APK2B PE=1 SV=1
+T1_Unigene_BMK.15456	sp|Q01482|WIR1A_WHEAT	1.52037e-07	40/85(47.06)	51	Protein WIR1A OS=Triticum aestivum GN=WIR1A PE=4 SV=1
+T2_Unigene_BMK.24362	sp|Q17RH7|TPRXL_HUMAN	2.08736e-11	55/158(34.81)	66	Putative protein TPRXL OS=Homo sapiens GN=TPRXL PE=5 SV=2
+T2_Unigene_BMK.27607	sp|Q8GT21|BEBT_CLABR	2.85916e-149	229/419(54.65)	436	Benzyl alcohol O-benzoyltransferase OS=Clarkia breweri PE=1 SV=1
+T2_Unigene_BMK.27790	sp|Q06398|GSTU6_ORYSJ	2.6458e-11	29/52(55.77)	61	Probable glutathione S-transferase GSTU6 OS=Oryza sativa subsp. japonica GN=GSTU6 PE=2 SV=2
+T2_Unigene_BMK.2917	sp|Q9FXG8|BLH10_ARATH	2.01626e-12	32/76(42.11)	65	BEL1-like homeodomain protein 10 OS=Arabidopsis thaliana GN=BLH10 PE=1 SV=1
+T2_Unigene_BMK.29628	sp|P01053|ICI2_HORVU	1.4715e-15	33/60(55.00)	72	Subtilisin-chymotrypsin inhibitor-2A OS=Hordeum vulgare PE=1 SV=2
+T2_Unigene_BMK.29673	sp|Q9UQ35|SRRM2_HUMAN	1.45286e-08	64/174(36.78)	57	Serine/arginine repetitive matrix protein 2 OS=Homo sapiens GN=SRRM2 PE=1 SV=2
+T2_Unigene_BMK.31	sp|Q9FYB5|DNJ11_ARATH	9.08093e-18	54/154(35.06)	81	Chaperone protein dnaJ 11, chloroplastic OS=Arabidopsis thaliana GN=ATJ11 PE=1 SV=2
+T2_Unigene_BMK.31305	sp|Q9FT52|ATP5H_ARATH	7.04563e-93	130/168(77.38)	276	ATP synthase subunit d, mitochondrial OS=Arabidopsis thaliana GN=At3g52300 PE=1 SV=3
+T2_Unigene_BMK.31690	sp|P52758|UK114_HUMAN	4.8669e-41	64/122(52.46)	143	Ribonuclease UK114 OS=Homo sapiens GN=HRSP12 PE=1 SV=1
+T2_Unigene_BMK.31732	sp|Q6ZQP7|YV021_HUMAN	3.3086e-09	63/176(35.80)	57	Uncharacterized protein LOC284861 OS=Homo sapiens PE=2 SV=1
+T2_Unigene_BMK.31788	sp|P49235|BGLC_MAIZE	0	336/558(60.22)	685	Beta-glucosidase, chloroplastic OS=Zea mays GN=GLU1 PE=1 SV=1
+T2_Unigene_BMK.33372	sp|Q9SEE9|SR45_ARATH	1.13938e-09	58/172(33.72)	59	Arginine/serine-rich protein 45 OS=Arabidopsis thaliana GN=SR45 PE=1 SV=1
+T2_Unigene_BMK.33960	sp|Q687E1|NPP_HORVU	7.39478e-83	115/119(96.64)	249	Nucleotide pyrophosphatase/phosphodiesterase (Fragments) OS=Hordeum vulgare GN=npp PE=1 SV=2
+T2_Unigene_BMK.34046	sp|A3FPF2|DEF_NELNU	2.68241e-23	44/71(61.97)	93	Defensin-like protein OS=Nelumbo nucifera PE=3 SV=1
+T1_Unigene_BMK.16750	sp|O23791|BROM1_ANACO	1.22831e-71	140/379(36.94)	234	Fruit bromelain OS=Ananas comosus PE=1 SV=1
+T2_Unigene_BMK.36896	sp|Q43681|NLTP_VIGUN	3.54131e-21	39/86(45.35)	85	Probable non-specific lipid-transfer protein AKCS9 OS=Vigna unguiculata PE=2 SV=1
+T2_Unigene_BMK.37146	sp|Q7Y1Z0|CHI5_ORYSJ	8.57889e-43	62/95(65.26)	146	Chitinase 5 OS=Oryza sativa subsp. japonica GN=Cht5 PE=2 SV=1
+T2_Unigene_BMK.37800	sp|Q8LNZ3|UGE1_ORYSJ	0	317/354(89.55)	645	UDP-glucose 4-epimerase 1 OS=Oryza sativa subsp. japonica GN=UGE-1 PE=2 SV=1
+T2_Unigene_BMK.38426	sp|Q4R1I9|ANGLT_ROSHC	4.29672e-12	36/80(45.00)	67	Anthocyanidin 5,3-O-glucosyltransferase OS=Rosa hybrid cultivar GN=RhGT1 PE=2 SV=1
+T2_Unigene_BMK.38565	sp|Q6YZF3|SWT11_ORYSJ	1.93791e-77	119/165(72.12)	238	Bidirectional sugar transporter SWEET11 OS=Oryza sativa subsp. japonica GN=SWEET11 PE=1 SV=1
+T2_Unigene_BMK.38666	sp|Q0JG98|PIR7A_ORYSJ	3.61628e-71	104/143(72.73)	218	Probable esterase PIR7A OS=Oryza sativa subsp. japonica GN=PIR7A PE=2 SV=2
+T2_Unigene_BMK.38696	sp|Q9FYB5|DNJ11_ARATH	4.53316e-19	42/97(43.30)	81	Chaperone protein dnaJ 11, chloroplastic OS=Arabidopsis thaliana GN=ATJ11 PE=1 SV=2
+T2_Unigene_BMK.39084	sp|Q8IYB3|SRRM1_HUMAN	1.09136e-07	39/92(42.39)	55	Serine/arginine repetitive matrix protein 1 OS=Homo sapiens GN=SRRM1 PE=1 SV=2
+T2_Unigene_BMK.39248	sp|P29250|LOX2_ORYSJ	2.58719e-50	81/93(87.10)	172	Linoleate 9S-lipoxygenase 2 OS=Oryza sativa subsp. japonica GN=LOX1.1 PE=2 SV=2
+T2_Unigene_BMK.39291	sp|Q8H1Z0|CER3_ARATH	2.60205e-59	93/150(62.00)	196	Protein ECERIFERUM 3 OS=Arabidopsis thaliana GN=CER3 PE=1 SV=1
+T2_Unigene_BMK.39610	sp|Q54DY9|BCS1B_DICDI	6.9823e-07	28/88(31.82)	52	Probable mitochondrial chaperone BCS1-B OS=Dictyostelium discoideum GN=bcsl1b PE=3 SV=1
+T2_Unigene_BMK.39796	sp|Q75JC9|Y8484_DICDI	2.49769e-38	98/194(50.52)	141	Uncharacterized protein DDB_G0271670 OS=Dictyostelium discoideum GN=DDB_G0271670 PE=4 SV=1
+T2_Unigene_BMK.39836	sp|Q0J2L7|P2C68_ORYSJ	2.72427e-155	237/305(77.70)	442	Probable protein phosphatase 2C 68 OS=Oryza sativa subsp. japonica GN=Os09g0325700 PE=2 SV=2
+T2_Unigene_BMK.39858	sp|P01053|ICI2_HORVU	3.44115e-17	38/73(52.05)	75	Subtilisin-chymotrypsin inhibitor-2A OS=Hordeum vulgare PE=1 SV=2
+T2_Unigene_BMK.40607	sp|Q9FPQ6|GP1_CHLRE	6.79118e-11	68/263(25.86)	68	Vegetative cell wall protein gp1 OS=Chlamydomonas reinhardtii GN=GP1 PE=2 SV=1
+T2_Unigene_BMK.40691	sp|P48612|PELO_DROME	1.53398e-140	197/360(54.72)	419	Protein pelota OS=Drosophila melanogaster GN=pelo PE=2 SV=2
+T2_Unigene_BMK.40761	sp|Q9M345|LRK42_ARATH	6.89379e-114	159/240(66.25)	343	L-type lectin-domain containing receptor kinase IV.2 OS=Arabidopsis thaliana GN=LECRK42 PE=2 SV=1
+T2_Unigene_BMK.40779	sp|Q00434|PSBP_WHEAT	1.4173e-177	255/259(98.46)	497	Oxygen-evolving enhancer protein 2, chloroplastic OS=Triticum aestivum GN=PSBP PE=2 SV=1
+T2_Unigene_BMK.41011	sp|Q9FR37|AMI1_ARATH	9.52425e-18	45/74(60.81)	88	Amidase 1 OS=Arabidopsis thaliana GN=AMI1 PE=1 SV=1
+T2_Unigene_BMK.41785	sp|O23082|Y4960_ARATH	2.59568e-50	110/311(35.37)	179	Putative receptor-like protein kinase At4g00960 OS=Arabidopsis thaliana GN=At4g00960 PE=2 SV=2
+T2_Unigene_BMK.42908	sp|P13730|SGS3_DROER	4.92831e-08	39/108(36.11)	55	Salivary glue protein Sgs-3 OS=Drosophila erecta GN=Sgs3 PE=2 SV=3
+T2_Unigene_BMK.43635	sp|Q43257|C71C4_MAIZE	1.72473e-84	140/249(56.22)	265	indole-2-monooxygenase OS=Zea mays GN=CYP71C4 PE=1 SV=1
+T2_Unigene_BMK.43747	sp|Q36718|CB120_HORVU	4.89753e-132	190/215(88.37)	381	Chlorophyll a-b binding protein 1B-20, chloroplastic (Fragment) OS=Hordeum vulgare GN=LHC Ib-20 PE=1 SV=1
+T2_Unigene_BMK.45135	sp|Q17RH7|TPRXL_HUMAN	7.35683e-15	70/220(31.82)	77	Putative protein TPRXL OS=Homo sapiens GN=TPRXL PE=5 SV=2
+T2_Unigene_BMK.45356	sp|P29114|LOX1_HORVU	1.25351e-163	234/242(96.69)	477	Linoleate 9S-lipoxygenase 1 OS=Hordeum vulgare GN=LOX1.1 PE=1 SV=2
+T2_Unigene_BMK.46568	sp|Q9LYU3|EF113_ARATH	3.36684e-43	98/211(46.45)	154	Ethylene-responsive transcription factor ERF113 OS=Arabidopsis thaliana GN=ERF113 PE=2 SV=1
+T2_Unigene_BMK.46647	sp|P42736|RAP23_ARATH	3.92288e-33	75/159(47.17)	126	Ethylene-responsive transcription factor RAP2-3 OS=Arabidopsis thaliana GN=RAP2-3 PE=1 SV=2
+T2_Unigene_BMK.46759	sp|Q9LEH3|PER15_IPOBA	9.4043e-126	191/322(59.32)	370	Peroxidase 15 OS=Ipomoea batatas GN=pod PE=1 SV=1
+T2_Unigene_BMK.47072	sp|Q93WI9|HD3A_ORYSJ	1.54431e-89	139/216(64.35)	275	Protein HEADING DATE 3A OS=Oryza sativa subsp. japonica GN=HD3A PE=1 SV=1
+T2_Unigene_BMK.47104	sp|Q9XG83|G2OX_PHACN	5.47947e-80	139/251(55.38)	262	Gibberellin 2-beta-dioxygenase OS=Phaseolus coccineus GN=GA2OX1 PE=2 SV=1
+T2_Unigene_BMK.47283	sp|Q39134|AAP3_ARATH	0	326/461(70.72)	667	Amino acid permease 3 OS=Arabidopsis thaliana GN=AAP3 PE=1 SV=2
+T2_Unigene_BMK.47331	sp|Q5ZMJ9|SRRM1_CHICK	1.9449e-08	59/181(32.60)	60	Serine/arginine repetitive matrix protein 1 OS=Gallus gallus GN=SRRM1 PE=2 SV=1
+T2_Unigene_BMK.47395	sp|Q8S857|H2AV2_ORYSJ	2.01489e-87	134/139(96.40)	259	Probable histone H2A variant 2 OS=Oryza sativa subsp. japonica GN=Os10g0418000 PE=2 SV=1
+T2_Unigene_BMK.4744	sp|Q6H8D6|COB23_ORYSJ	1.84769e-34	74/180(41.11)	134	Putative coatomer subunit beta&apos;-3 OS=Oryza sativa subsp. japonica GN=Os02g0209000 PE=2 SV=2
+T2_Unigene_BMK.47737	sp|P37221|MAOM_SOLTU	0	442/534(82.77)	907	NAD-dependent malic enzyme 62 kDa isoform, mitochondrial OS=Solanum tuberosum PE=1 SV=1
+T2_Unigene_BMK.48181	sp|Q00451|PRF1_SOLLC	5.14361e-95	159/298(53.36)	295	36.4 kDa proline-rich protein OS=Solanum lycopersicum GN=TPRP-F1 PE=2 SV=1
+T2_Unigene_BMK.48408	sp|Q9SEV0|BAN_ARATH	2.92126e-63	108/257(42.02)	213	Anthocyanidin reductase OS=Arabidopsis thaliana GN=BAN PE=1 SV=2
+T2_Unigene_BMK.48456	sp|Q9LYT3|TT12_ARATH	1.61203e-39	77/170(45.29)	153	Protein TRANSPARENT TESTA 12 OS=Arabidopsis thaliana GN=TT12 PE=2 SV=1
+T2_Unigene_BMK.48466	sp|P27523|CB23_HORVU	6.29237e-159	217/218(99.54)	444	Chlorophyll a-b binding protein of LHCII type III, chloroplastic OS=Hordeum vulgare GN=LHBC PE=2 SV=1
+T2_Unigene_BMK.48570	sp|Q939N5|GSPB_STRGN	9.39969e-39	108/350(30.86)	154	Platelet binding protein GspB OS=Streptococcus gordonii GN=gspB PE=1 SV=1
+T2_Unigene_BMK.49034	sp|Q9SDZ9|PPAF2_IPOBA	0	318/462(68.83)	671	Purple acid phosphatase 2 OS=Ipomoea batatas GN=PAP2 PE=1 SV=1
+T2_Unigene_BMK.49316	sp|Q08935|ROC1_NICSY	5.72963e-90	154/279(55.20)	287	29 kDa ribonucleoprotein A, chloroplastic OS=Nicotiana sylvestris PE=2 SV=1
+T2_Unigene_BMK.49447	sp|Q9FWX2|NAC7_ARATH	5.71078e-71	110/157(70.06)	231	NAC domain-containing protein 7 OS=Arabidopsis thaliana GN=NAC007 PE=2 SV=2
+T2_Unigene_BMK.49831	sp|Q8L7Z0|CNG17_ARATH	2.86377e-103	165/240(68.75)	323	Probable cyclic nucleotide-gated ion channel 17 OS=Arabidopsis thaliana GN=CNGC17 PE=2 SV=1
+T2_Unigene_BMK.49895	sp|A8M746|IF2_SALAI	4.33373e-14	81/278(29.14)	79	Translation initiation factor IF-2 OS=Salinispora arenicola (strain CNS-205) GN=infB PE=3 SV=1
+T2_Unigene_BMK.50115	sp|O95372|LYPA2_HUMAN	1.6265e-32	80/219(36.53)	128	Acyl-protein thioesterase 2 OS=Homo sapiens GN=LYPLA2 PE=1 SV=1
+T2_Unigene_BMK.50138	sp|P27061|PPA1_SOLLC	1.31145e-63	101/229(44.10)	207	Acid phosphatase 1 OS=Solanum lycopersicum GN=APS1 PE=2 SV=1
+T2_Unigene_BMK.50237	sp|B3SGL0|BCH_GENLU	1.12486e-134	186/275(67.64)	392	Beta-carotene 3-hydroxylase, chloroplastic OS=Gentiana lutea GN=BHY PE=2 SV=1
+T2_Unigene_BMK.50416	sp|Q9SAR5|AKR2_ARATH	1.9107e-130	205/355(57.75)	386	Ankyrin repeat domain-containing protein 2 OS=Arabidopsis thaliana GN=AKR2 PE=1 SV=2
+T2_Unigene_BMK.50666	sp|Q5ZMJ9|SRRM1_CHICK	6.12164e-14	87/291(29.90)	77	Serine/arginine repetitive matrix protein 1 OS=Gallus gallus GN=SRRM1 PE=2 SV=1
+T2_Unigene_BMK.50731	sp|P31862|IBBWP_MAIZE	3.69175e-07	40/99(40.40)	50	Bowman-Birk type wound-induced proteinase inhibitor WIP1 OS=Zea mays GN=WIP1 PE=2 SV=1
+T2_Unigene_BMK.50808	sp|Q8W4M5|PFPB1_ARATH	0	448/548(81.75)	916	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit beta 1 OS=Arabidopsis thaliana GN=PFP-BETA1 PE=2 SV=1
+T2_Unigene_BMK.51005	sp|Q8BTI8|SRRM2_MOUSE	1.25134e-14	82/275(29.82)	72	Serine/arginine repetitive matrix protein 2 OS=Mus musculus GN=Srrm2 PE=1 SV=3
+T2_Unigene_BMK.51093	sp|Q7F2L3|NAC48_ORYSJ	3.89581e-61	85/93(91.40)	193	NAC domain-containing protein 48 OS=Oryza sativa subsp. japonica GN=NAC48 PE=2 SV=1
+T2_Unigene_BMK.51189	sp|Q9SX20|PTR18_ARATH	0	358/573(62.48)	720	Probable nitrite transporter At1g68570 OS=Arabidopsis thaliana GN=At1g68570 PE=2 SV=1
+T2_Unigene_BMK.52592	sp|Q38910|XTH23_ARATH	4.79698e-118	164/289(56.75)	349	Probable xyloglucan endotransglucosylase/hydrolase protein 23 OS=Arabidopsis thaliana GN=XTH23 PE=2 SV=1
+T2_Unigene_BMK.52632	sp|Q84JI0|P2C30_ORYSJ	0	304/392(77.55)	585	Probable protein phosphatase 2C 30 OS=Oryza sativa subsp. japonica GN=Os03g0268600 PE=2 SV=1
+T2_Unigene_BMK.52905	sp|Q9SIA4|MATE5_ARATH	1.13656e-136	213/469(45.42)	409	MATE efflux family protein 5 OS=Arabidopsis thaliana GN=DTXL1 PE=3 SV=1
+T2_Unigene_BMK.53370	sp|Q6Z7K5|MTP3_ORYSJ	0	331/414(79.95)	642	Metal tolerance protein 3 OS=Oryza sativa subsp. japonica GN=MTP3 PE=2 SV=1
+T2_Unigene_BMK.53387	sp|Q94AJ5|PGLR5_ARATH	2.24847e-78	111/282(39.36)	214	Probable polygalacturonase At1g80170 OS=Arabidopsis thaliana GN=At1g80170 PE=1 SV=1
+T2_Unigene_BMK.53737	sp|Q9FJ45|GDL83_ARATH	8.03632e-91	145/357(40.62)	285	GDSL esterase/lipase At5g45910 OS=Arabidopsis thaliana GN=At5g45910 PE=2 SV=1
+T2_Unigene_BMK.53864	sp|Q0V865|FAFL_ARATH	1.66331e-25	76/210(36.19)	113	Protein FAF-like, chloroplastic OS=Arabidopsis thaliana GN=At5g22090 PE=2 SV=1
+T2_Unigene_BMK.54429	sp|P27522|CB13_SOLLC	2.28054e-112	159/224(70.98)	328	Chlorophyll a-b binding protein 8, chloroplastic OS=Solanum lycopersicum GN=CAB8 PE=3 SV=1
+T2_Unigene_BMK.54483	sp|Q10MX3|ASNS1_ORYSJ	0	470/546(86.08)	960	Asparagine synthetase [glutamine-hydrolyzing] 1 OS=Oryza sativa subsp. japonica GN=Os03g0291500 PE=2 SV=1
+T2_Unigene_BMK.54562	sp|Q9S9N9|CCR1_ARATH	5.96801e-165	223/295(75.59)	467	Cinnamoyl-CoA reductase 1 OS=Arabidopsis thaliana GN=CCR1 PE=1 SV=1
+T2_Unigene_BMK.54736	sp|Q53RM0|CHLI_ORYSJ	0	381/418(91.15)	726	Magnesium-chelatase subunit ChlI, chloroplastic OS=Oryza sativa subsp. japonica GN=CHLI PE=1 SV=1
+T2_Unigene_BMK.55252	sp|Q5W6R4|DRE2B_ORYSJ	7.84744e-102	184/344(53.49)	313	Dehydration-responsive element-binding protein 2B OS=Oryza sativa subsp. japonica GN=DREB2B PE=2 SV=2
+T2_Unigene_BMK.55598	sp|Q9SHB5|WRK55_ARATH	1.53234e-15	53/169(31.36)	80	WRKY transcription factor 55 OS=Arabidopsis thaliana GN=WRKY55 PE=2 SV=1
+T2_Unigene_BMK.55671	sp|Q94AG2|SERK1_ARATH	1.79331e-65	111/180(61.67)	228	Somatic embryogenesis receptor kinase 1 OS=Arabidopsis thaliana GN=SERK1 PE=1 SV=2
+T2_Unigene_BMK.55845	sp|Q9LMP1|WAK2_ARATH	3.62508e-139	267/756(35.32)	434	Wall-associated receptor kinase 2 OS=Arabidopsis thaliana GN=WAK2 PE=1 SV=1
+T2_Unigene_BMK.56001	sp|P29036|FRI1_MAIZE	2.07725e-134	213/259(82.24)	407	Ferritin-1, chloroplastic OS=Zea mays GN=FER1 PE=1 SV=2
+T2_Unigene_BMK.56044	sp|Q9LY87|RGLG2_ARATH	7.54211e-171	263/436(60.32)	502	E3 ubiquitin-protein ligase RGLG2 OS=Arabidopsis thaliana GN=RGLG2 PE=1 SV=1
+T2_Unigene_BMK.56379	sp|Q7PC76|CSLA1_ORYSJ	0	460/515(89.32)	963	Glucomannan 4-beta-mannosyltransferase 1 OS=Oryza sativa subsp. japonica GN=CSLA1 PE=2 SV=1
+T2_Unigene_BMK.56486	sp|Q02921|NO93_SOYBN	2.22348e-12	29/42(69.05)	62	Early nodulin-93 OS=Glycine max PE=2 SV=1
+T2_Unigene_BMK.56550	sp|Q9LVX0|ARI3_ARATH	1.85708e-103	168/375(44.80)	321	Probable E3 ubiquitin-protein ligase ARI3 OS=Arabidopsis thaliana GN=ARI3 PE=2 SV=1
+T2_Unigene_BMK.56973	sp|Q2R1M8|RH52C_ORYSJ	0	530/630(84.13)	1017	DEAD-box ATP-dependent RNA helicase 52C OS=Oryza sativa subsp. japonica GN=Os11g0599500 PE=2 SV=1
+T2_Unigene_BMK.57082	sp|P32112|SAHH_WHEAT	0	470/485(96.91)	951	Adenosylhomocysteinase OS=Triticum aestivum GN=SAHH PE=2 SV=1
+T2_Unigene_BMK.57676	sp|P04784|CB21_WHEAT	0	245/266(92.11)	506	Chlorophyll a-b binding protein, chloroplastic OS=Triticum aestivum GN=WHAB1.6 PE=3 SV=1
+T2_Unigene_BMK.57944	sp|Q9SXS2|SUT33_ARATH	0	323/421(76.72)	650	Probable sulfate transporter 3.3 OS=Arabidopsis thaliana GN=SULTR3;3 PE=2 SV=2
+T2_Unigene_BMK.58444	sp|Q9XEF0|BH051_ARATH	4.53807e-31	89/252(35.32)	122	Transcription factor bHLH51 OS=Arabidopsis thaliana GN=BHLH51 PE=2 SV=1
+T2_Unigene_BMK.58467	sp|Q9SKZ2|CAF1G_ARATH	1.4587e-142	187/267(70.04)	409	Probable CCR4-associated factor 1 homolog 7 OS=Arabidopsis thaliana GN=CAF1-7 PE=2 SV=2
+T2_Unigene_BMK.58469	sp|Q0JJD4|MAN2_ORYSJ	0	341/446(76.46)	707	Mannan endo-1,4-beta-mannosidase 2 OS=Oryza sativa subsp. japonica GN=MAN2 PE=2 SV=2
+T2_Unigene_BMK.58788	sp|Q39044|VPEB_ARATH	0	333/488(68.24)	682	Vacuolar-processing enzyme beta-isozyme OS=Arabidopsis thaliana GN=At1g62710 PE=2 SV=3
+T2_Unigene_BMK.59153	sp|Q9ZV48|TPS11_ARATH	2.76951e-50	83/131(63.36)	174	Probable alpha,alpha-trehalose-phosphate synthase [UDP-forming] 11 OS=Arabidopsis thaliana GN=TPS11 PE=2 SV=1
+T2_Unigene_BMK.59418	sp|Q2QMG2|MCCA_ORYSJ	0	372/433(85.91)	756	Methylcrotonoyl-CoA carboxylase subunit alpha, mitochondrial OS=Oryza sativa subsp. japonica GN=MCCA PE=2 SV=2
+T2_Unigene_BMK.59491	sp|Q6NKN8|FB132_ARATH	3.36322e-83	135/293(46.08)	274	F-box protein At2g41170 OS=Arabidopsis thaliana GN=At2g41170 PE=2 SV=1
+T2_Unigene_BMK.59710	sp|Q9LJ64|PLRX1_ARATH	3.5705e-12	27/48(56.25)	66	Pollen-specific leucine-rich repeat extensin-like protein 1 OS=Arabidopsis thaliana GN=PEX1 PE=2 SV=1
+T2_Unigene_BMK.60450	sp|Q9FSV7|SST_FESAR	0	462/664(69.58)	925	Sucrose:sucrose 1-fructosyltransferase OS=Festuca arundinacea GN=1-SST PE=1 SV=1
+T2_Unigene_BMK.60988	sp|Q43257|C71C4_MAIZE	0	285/518(55.02)	560	indole-2-monooxygenase OS=Zea mays GN=CYP71C4 PE=1 SV=1
+T2_Unigene_BMK.61198	sp|O64495|SDD1_ARATH	3.03485e-174	314/753(41.70)	528	Subtilisin-like protease SDD1 OS=Arabidopsis thaliana GN=SDD1 PE=2 SV=1
+T2_Unigene_BMK.61457	sp|Q94AH8|TPS6_ARATH	0	579/839(69.01)	1205	Alpha,alpha-trehalose-phosphate synthase [UDP-forming] 6 OS=Arabidopsis thaliana GN=TPS6 PE=1 SV=2
+T2_Unigene_BMK.61674	sp|P12299|GLGL2_WHEAT	0	522/522(100.00)	1050	Glucose-1-phosphate adenylyltransferase large subunit, chloroplastic/amyloplastic OS=Triticum aestivum GN=AGP-L PE=2 SV=2
+T2_Unigene_BMK.61917	sp|Q9FII5|TDR_ARATH	1.91091e-28	57/99(57.58)	114	Leucine-rich repeat receptor-like protein kinase TDR OS=Arabidopsis thaliana GN=TDR PE=1 SV=1
+T2_Unigene_BMK.61918	sp|Q9FII5|TDR_ARATH	0	460/927(49.62)	837	Leucine-rich repeat receptor-like protein kinase TDR OS=Arabidopsis thaliana GN=TDR PE=1 SV=1
+T2_Unigene_BMK.63554	sp|Q6ZQP7|YV021_HUMAN	1.90188e-12	73/289(25.26)	70	Uncharacterized protein LOC284861 OS=Homo sapiens PE=2 SV=1
+T2_Unigene_BMK.7305	sp|Q39202|RLK1_ARATH	4.16897e-26	53/127(41.73)	107	G-type lectin S-receptor-like serine/threonine-protein kinase RLK1 OS=Arabidopsis thaliana GN=RLK1 PE=2 SV=2
+T2_Unigene_BMK.8827	sp|Q9LMP1|WAK2_ARATH	7.94115e-35	69/186(37.10)	132	Wall-associated receptor kinase 2 OS=Arabidopsis thaliana GN=WAK2 PE=1 SV=1
+T3_Unigene_BMK.10221	sp|Q6PDY2|AEDO_MOUSE	2.79127e-21	78/254(30.71)	96	2-aminoethanethiol dioxygenase OS=Mus musculus GN=Ado PE=1 SV=2
+T3_Unigene_BMK.10353	sp|Q39191|WAK1_ARATH	1.32331e-42	144/486(29.63)	165	Wall-associated receptor kinase 1 OS=Arabidopsis thaliana GN=WAK1 PE=1 SV=2
+T3_Unigene_BMK.10436	sp|Q9UQ35|SRRM2_HUMAN	3.47056e-09	62/189(32.80)	62	Serine/arginine repetitive matrix protein 2 OS=Homo sapiens GN=SRRM2 PE=1 SV=2
+T3_Unigene_BMK.10446	sp|A2XFI3|PDC2_ORYSI	0	562/606(92.74)	1150	Pyruvate decarboxylase isozyme 2 OS=Oryza sativa subsp. indica GN=PDC2 PE=2 SV=2
+T3_Unigene_BMK.10483	sp|Q687E1|NPP_HORVU	1.11824e-98	132/156(84.62)	296	Nucleotide pyrophosphatase/phosphodiesterase (Fragments) OS=Hordeum vulgare GN=npp PE=1 SV=2
+T3_Unigene_BMK.10528	sp|Q43191|LOX15_SOLTU	2.4059e-137	261/595(43.87)	440	Probable linoleate 9S-lipoxygenase 5 OS=Solanum tuberosum GN=LOX1.5 PE=2 SV=1
+T3_Unigene_BMK.10529	sp|P42620|YQJG_ECOLI	1.34178e-97	157/324(48.46)	298	Glutathionyl-hydroquinone reductase YqjG OS=Escherichia coli (strain K12) GN=yqjG PE=1 SV=1
+T3_Unigene_BMK.11063	sp|Q39131|LAML_ARATH	6.94376e-20	47/139(33.81)	88	Lamin-like protein OS=Arabidopsis thaliana GN=At5g15350 PE=1 SV=1
+T3_Unigene_BMK.11155	sp|Q94A08|RFS2_ARATH	0	522/781(66.84)	1107	Probable galactinol--sucrose galactosyltransferase 2 OS=Arabidopsis thaliana GN=RFS2 PE=2 SV=2
+T3_Unigene_BMK.11225	sp|Q9MAB3|NOP5B_ARATH	0	391/542(72.14)	753	Probable nucleolar protein 5-2 OS=Arabidopsis thaliana GN=NOP5-2 PE=2 SV=1
+T3_Unigene_BMK.11237	sp|Q8LL69|DBNBT_TAXCA	1.76229e-47	141/448(31.47)	175	3&apos;-N-debenzoyl-2&apos;-deoxytaxol N-benzoyltransferase OS=Taxus canadensis GN=TAX10 PE=1 SV=1
+T3_Unigene_BMK.11492	sp|Q42850|PORB_HORVU	0	390/395(98.73)	763	Protochlorophyllide reductase B, chloroplastic OS=Hordeum vulgare GN=PORB PE=2 SV=1
+T3_Unigene_BMK.1172	sp|Q05349|12KD_FRAAN	5.992e-08	28/54(51.85)	53	Auxin-repressed 12.5 kDa protein OS=Fragaria ananassa PE=2 SV=1
+T3_Unigene_BMK.1177	sp|Q0WUQ1|BAG1_ARATH	5.23655e-55	97/207(46.86)	187	BAG family molecular chaperone regulator 1 OS=Arabidopsis thaliana GN=BAG1 PE=1 SV=1
+T3_Unigene_BMK.11909	sp|Q5BL31|CF106_DANRE	7.8681e-15	43/110(39.09)	79	Uncharacterized protein C6orf106 homolog OS=Danio rerio GN=zgc:101577 PE=2 SV=1
+T3_Unigene_BMK.12031	sp|Q8LQM5|GH31_ORYSJ	0	535/613(87.28)	1086	Probable indole-3-acetic acid-amido synthetase GH3.1 OS=Oryza sativa subsp. japonica GN=GH3.1 PE=2 SV=1
+T3_Unigene_BMK.12106	sp|Q9LY61|HSPR1_ARATH	2.00731e-123	213/450(47.33)	375	Nematode resistance protein-like HSPRO1 OS=Arabidopsis thaliana GN=HSPRO1 PE=1 SV=1
+T3_Unigene_BMK.12264	sp|Q2QNG7|ACLA3_ORYSJ	0	396/423(93.62)	800	ATP-citrate synthase alpha chain protein 3 OS=Oryza sativa subsp. japonica GN=ACLA-3 PE=2 SV=1
+T3_Unigene_BMK.12341	sp|P29162|ASOL_TOBAC	0	287/540(53.15)	596	L-ascorbate oxidase homolog OS=Nicotiana tabacum PE=1 SV=1
+T3_Unigene_BMK.12386	sp|Q9M7Q4|AI5L5_ARATH	1.26526e-77	182/407(44.72)	256	ABSCISIC ACID-INSENSITIVE 5-like protein 5 OS=Arabidopsis thaliana GN=ABF2 PE=1 SV=1
+T3_Unigene_BMK.12601	sp|Q9SR86|AGT23_ARATH	0	342/481(71.10)	716	Alanine--glyoxylate aminotransferase 2 homolog 3, mitochondrial OS=Arabidopsis thaliana GN=At3g08860 PE=2 SV=1
+T3_Unigene_BMK.12691	sp|P14918|EXTN_MAIZE	3.07174e-06	30/77(38.96)	51	Extensin OS=Zea mays GN=HRGP PE=2 SV=1
+T3_Unigene_BMK.13133	sp|Q10HD0|CB23_ORYSJ	1.02261e-156	210/228(92.11)	439	Chlorophyll a-b binding protein, chloroplastic OS=Oryza sativa subsp. japonica GN=RCABP89 PE=2 SV=1
+T3_Unigene_BMK.13134	sp|P10707|CB2D_SOLLC	2.09192e-47	73/76(96.05)	155	Chlorophyll a-b binding protein 1D (Fragment) OS=Solanum lycopersicum GN=CAB1D PE=3 SV=1
+T3_Unigene_BMK.13478	sp|Q940M4|OCT7_ARATH	5.27775e-174	252/477(52.83)	509	Organic cation/carnitine transporter 7 OS=Arabidopsis thaliana GN=OCT7 PE=2 SV=1
+T3_Unigene_BMK.1349	sp|P0C7P8|LHWL1_ARATH	1.82781e-17	65/215(30.23)	89	Transcription factor EMB1444 OS=Arabidopsis thaliana GN=EMB1444 PE=2 SV=1
+T3_Unigene_BMK.13494	sp|Q7XSV4|TLP7_ORYSJ	0	369/480(76.88)	707	Tubby-like F-box protein 7 OS=Oryza sativa subsp. japonica GN=TULP7 PE=2 SV=1
+T3_Unigene_BMK.13543	sp|Q9SEV0|BAN_ARATH	1.55848e-73	80/157(50.96)	173	Anthocyanidin reductase OS=Arabidopsis thaliana GN=BAN PE=1 SV=2
+T3_Unigene_BMK.13958	sp|Q39030|KPK2_ARATH	0	311/479(64.93)	613	Serine/threonine-protein kinase AtPK2/AtPK19 OS=Arabidopsis thaliana GN=ATPK2 PE=1 SV=2
+T3_Unigene_BMK.14025	sp|Q5MAU8|PPA27_ARATH	6.36485e-80	119/171(69.59)	255	Probable inactive purple acid phosphatase 27 OS=Arabidopsis thaliana GN=PAP27 PE=2 SV=1
+T3_Unigene_BMK.14124	sp|Q9ZRA8|TBB5_WHEAT	2.63871e-179	249/249(100.00)	509	Tubulin beta-5 chain OS=Triticum aestivum GN=TUBB5 PE=2 SV=1
+T3_Unigene_BMK.14213	sp|Q338B0|HFA2C_ORYSJ	0	278/366(75.96)	543	Heat stress transcription factor A-2c OS=Oryza sativa subsp. japonica GN=HSFA2C PE=2 SV=2
+T3_Unigene_BMK.14682	sp|Q9FJ45|GDL83_ARATH	3.24167e-111	169/366(46.17)	336	GDSL esterase/lipase At5g45910 OS=Arabidopsis thaliana GN=At5g45910 PE=2 SV=1
+T3_Unigene_BMK.14694	sp|Q5Z413|SIPL5_ORYSJ	0	436/540(80.74)	876	Signal peptide peptidase-like 5 OS=Oryza sativa subsp. japonica GN=SPPL5 PE=2 SV=1
+T3_Unigene_BMK.14769	sp|Q9SWG0|IVD_ARATH	0	333/426(78.17)	673	Isovaleryl-CoA dehydrogenase, mitochondrial OS=Arabidopsis thaliana GN=IVD PE=1 SV=2
+T3_Unigene_BMK.15451	sp|P53393|SUT3_STYHA	0	286/425(67.29)	557	Low affinity sulfate transporter 3 OS=Stylosanthes hamata GN=ST3 PE=2 SV=1
+T3_Unigene_BMK.15711	sp|P24631|HSP21_MAIZE	3.48767e-92	138/162(85.19)	276	17.5 kDa class II heat shock protein OS=Zea mays PE=2 SV=1
+T3_Unigene_BMK.15783	sp|Q6AST1|HOX32_ORYSJ	0	771/859(89.76)	1530	Homeobox-leucine zipper protein HOX32 OS=Oryza sativa subsp. japonica GN=HOX32 PE=2 SV=1
+T3_Unigene_BMK.15837	sp|Q0JCZ4|ARFI_ORYSJ	0	541/731(74.01)	1032	Auxin response factor 9 OS=Oryza sativa subsp. japonica GN=ARF9 PE=2 SV=1
+T3_Unigene_BMK.15941	sp|Q96282|CLCC_ARATH	0	566/780(72.56)	1146	Chloride channel protein CLC-c OS=Arabidopsis thaliana GN=CLC-C PE=1 SV=1
+T3_Unigene_BMK.16460	sp|Q8L7V3|PMTQ_ARATH	0	518/836(61.96)	1038	Probable methyltransferase PMT26 OS=Arabidopsis thaliana GN=At5g64030 PE=1 SV=1
+T3_Unigene_BMK.16493	sp|O81905|SD18_ARATH	0	426/859(49.59)	802	Receptor-like serine/threonine-protein kinase SD1-8 OS=Arabidopsis thaliana GN=SD18 PE=1 SV=1
+T3_Unigene_BMK.16590	sp|Q9ZV48|TPS11_ARATH	0	500/829(60.31)	1022	Probable alpha,alpha-trehalose-phosphate synthase [UDP-forming] 11 OS=Arabidopsis thaliana GN=TPS11 PE=2 SV=1
+T3_Unigene_BMK.16779	sp|Q42551|SCE1_ARATH	3.04053e-105	138/157(87.90)	309	SUMO-conjugating enzyme SCE1 OS=Arabidopsis thaliana GN=SCE1 PE=1 SV=1
+T3_Unigene_BMK.17121	sp|P29114|LOX1_HORVU	3.63566e-65	103/106(97.17)	213	Linoleate 9S-lipoxygenase 1 OS=Hordeum vulgare GN=LOX1.1 PE=1 SV=2
+T3_Unigene_BMK.17504	sp|Q17RH7|TPRXL_HUMAN	3.56946e-14	49/198(24.75)	73	Putative protein TPRXL OS=Homo sapiens GN=TPRXL PE=5 SV=2
+T3_Unigene_BMK.1839	sp|P22988|LDHA_HORVU	0	349/358(97.49)	674	L-lactate dehydrogenase A OS=Hordeum vulgare PE=1 SV=1
+T3_Unigene_BMK.18537	sp|P29250|LOX2_ORYSJ	0	666/873(76.29)	1369	Linoleate 9S-lipoxygenase 2 OS=Oryza sativa subsp. japonica GN=LOX1.1 PE=2 SV=2
+T3_Unigene_BMK.18918	sp|Q7DM58|AB4C_ARATH	0	538/763(70.51)	1069	ABC transporter C family member 4 OS=Arabidopsis thaliana GN=ABCC4 PE=1 SV=2
+T3_Unigene_BMK.19259	sp|P22737|IBB3_SETIT	2.70944e-13	26/63(41.27)	65	Bowman-Birk type trypsin inhibitor 3 OS=Setaria italica PE=1 SV=1
+T3_Unigene_BMK.1969	sp|Q43257|C71C4_MAIZE	6.40763e-117	178/342(52.05)	363	indole-2-monooxygenase OS=Zea mays GN=CYP71C4 PE=1 SV=1
+T3_Unigene_BMK.2096	sp|P31170|HS25P_ARATH	1.57411e-09	64/222(28.83)	60	25.3 kDa heat shock protein, chloroplastic OS=Arabidopsis thaliana GN=HSP25.3 PE=2 SV=1
+T3_Unigene_BMK.2114	sp|O04905|KCY_ARATH	4.75933e-105	154/187(82.35)	311	UMP-CMP kinase OS=Arabidopsis thaliana GN=PYR6 PE=1 SV=1
+T3_Unigene_BMK.2185	sp|P51091|LDOX_MALDO	1.35393e-67	132/343(38.48)	223	Leucoanthocyanidin dioxygenase OS=Malus domestica GN=ANS PE=2 SV=1
+T3_Unigene_BMK.2221	sp|Q9T0I5|PRP4_ARATH	4.54821e-17	75/217(34.56)	84	Proline-rich protein 4 OS=Arabidopsis thaliana GN=PRP4 PE=2 SV=1
+T3_Unigene_BMK.2223	sp|P24465|C71A1_PERAE	3.88475e-69	111/208(53.37)	222	Cytochrome P450 71A1 OS=Persea americana GN=CYP71A1 PE=1 SV=2
+T3_Unigene_BMK.2380	sp|Q99685|MGLL_HUMAN	1.14122e-07	32/88(36.36)	54	Monoglyceride lipase OS=Homo sapiens GN=MGLL PE=1 SV=2
+T3_Unigene_BMK.23946	sp|A3A2W2|CSPLO_ORYSJ	1.1751e-08	43/124(34.68)	54	CASP-like protein Os02g0134500 OS=Oryza sativa subsp. japonica GN=Os02g0134500 PE=2 SV=2
+T3_Unigene_BMK.240	sp|Q17RH7|TPRXL_HUMAN	1.95089e-11	70/254(27.56)	68	Putative protein TPRXL OS=Homo sapiens GN=TPRXL PE=5 SV=2
+T3_Unigene_BMK.244	sp|Q8L803|RK9_WHEAT	6.74674e-124	187/199(93.97)	356	50S ribosomal protein L9, chloroplastic OS=Triticum aestivum GN=RPL9 PE=2 SV=1
+T3_Unigene_BMK.2528	sp|O65351|SUBL_ARATH	3.11044e-128	296/789(37.52)	405	Subtilisin-like protease OS=Arabidopsis thaliana GN=ARA12 PE=1 SV=1
+T3_Unigene_BMK.2592	sp|Q945M9|NFYA9_ARATH	1.03072e-29	71/203(34.98)	98	Nuclear transcription factor Y subunit A-9 OS=Arabidopsis thaliana GN=NFYA9 PE=2 SV=1
+T3_Unigene_BMK.2634	sp|C5WUP3|CSPL4_SORBI	1.35954e-96	142/195(72.82)	288	CASP-like protein Sb01g044070 OS=Sorghum bicolor GN=Sb01g044070 PE=3 SV=1
+T3_Unigene_BMK.2700	sp|Q0JKM9|MAN1_ORYSJ	0	327/429(76.22)	661	Mannan endo-1,4-beta-mannosidase 1 OS=Oryza sativa subsp. japonica GN=MAN1 PE=2 SV=2
+T1_Unigene_BMK.19643	sp|Q7G794|LOX3_ORYSJ	5.30412e-92	134/176(76.14)	288	Putative linoleate 9S-lipoxygenase 3 OS=Oryza sativa subsp. japonica GN=Os03g0700400 PE=3 SV=1
+T3_Unigene_BMK.2855	sp|Q55750|MFD_SYNY3	1.73989e-36	84/204(41.18)	145	Transcription-repair-coupling factor OS=Synechocystis sp. (strain PCC 6803 / Kazusa) GN=mfd PE=3 SV=1
+T3_Unigene_BMK.2970	sp|Q8GT75|NIP1_ARATH	1.11854e-71	106/196(54.08)	228	NEP1-interacting protein 1 OS=Arabidopsis thaliana GN=NIP1 PE=1 SV=2
+T3_Unigene_BMK.305	sp|Q2QYL3|NLTP3_ORYSJ	3.89613e-51	76/114(66.67)	166	Non-specific lipid-transfer protein 3 OS=Oryza sativa subsp. japonica GN=LTP110-A PE=2 SV=1
+T1_Unigene_BMK.20150	sp|P42813|RNS1_ARATH	8.28248e-80	121/248(48.79)	246	Ribonuclease 1 OS=Arabidopsis thaliana GN=RNS1 PE=1 SV=1
+T3_Unigene_BMK.3074	sp|Q6Z2T6|CHLP_ORYSJ	0	423/463(91.36)	848	Geranylgeranyl diphosphate reductase, chloroplastic OS=Oryza sativa subsp. japonica GN=CHLP PE=2 SV=1
+T3_Unigene_BMK.3086	sp|Q0D3N0|PER2_ORYSJ	2.02866e-74	110/185(59.46)	234	Peroxidase 2 OS=Oryza sativa subsp. japonica GN=PRX112 PE=2 SV=1
+T3_Unigene_BMK.3099	sp|Q949R4|DIOXL_ARATH	2.60725e-115	165/264(62.50)	341	4,5-DOPA dioxygenase extradiol-like protein OS=Arabidopsis thaliana GN=At4g15093 PE=2 SV=1
+T3_Unigene_BMK.33472	sp|Q9SD62|Y3471_ARATH	1.15223e-23	59/135(43.70)	102	Putative receptor-like protein kinase At3g47110 OS=Arabidopsis thaliana GN=At3g47110 PE=3 SV=1
+T3_Unigene_BMK.33864	sp|Q9LVM5|TTHL_ARATH	4.54154e-38	75/146(51.37)	141	Uric acid degradation bifunctional protein TTL OS=Arabidopsis thaliana GN=TTL PE=1 SV=1
+T3_Unigene_BMK.3388	sp|P25776|ORYA_ORYSJ	0	385/463(83.15)	806	Oryzain alpha chain OS=Oryza sativa subsp. japonica GN=Os04g0650000 PE=1 SV=2
+T3_Unigene_BMK.3486	sp|Q5Z9N5|FON1_ORYSJ	0	447/554(80.69)	867	Leucine-rich repeat receptor-like kinase protein FLORAL ORGAN NUMBER1 OS=Oryza sativa subsp. japonica GN=FON1 PE=1 SV=1
+T3_Unigene_BMK.35749	sp|P60098|RT12_WHEAT	1.16029e-78	125/125(100.00)	258	Ribosomal protein S12, mitochondrial OS=Triticum aestivum GN=RPS12 PE=2 SV=1
+T3_Unigene_BMK.3627	sp|A8QW51|OMT2_SORBI	1.08554e-155	223/363(61.43)	451	Probable O-methyltransferase 2 OS=Sorghum bicolor GN=OMT2 PE=2 SV=1
+T3_Unigene_BMK.363	sp|Q8LJJ9|STAD1_ORYSJ	0	323/382(84.55)	646	Acyl-[acyl-carrier-protein] desaturase 1, chloroplastic OS=Oryza sativa subsp. japonica GN=Os01g0880800 PE=2 SV=1
+T3_Unigene_BMK.3700	sp|P46225|TPIC_SECCE	0	268/298(89.93)	522	Triosephosphate isomerase, chloroplastic OS=Secale cereale PE=1 SV=1
+T3_Unigene_BMK.37284	sp|D2YZP9|BISS_ZINOF	1.59277e-133	208/534(38.95)	405	(S)-beta-bisabolene synthase OS=Zingiber officinale GN=TPS1 PE=1 SV=1
+T3_Unigene_BMK.37378	sp|Q9LLL8|XSP1_ARATH	5.11092e-137	296/807(36.68)	430	Xylem serine proteinase 1 OS=Arabidopsis thaliana GN=XSP1 PE=2 SV=1
+T3_Unigene_BMK.37384	sp|P49572|TRPC_ARATH	2.39415e-134	198/326(60.74)	397	Indole-3-glycerol phosphate synthase, chloroplastic OS=Arabidopsis thaliana GN=At2g04400 PE=2 SV=2
+T3_Unigene_BMK.374	sp|Q02921|NO93_SOYBN	2.42716e-29	55/84(65.48)	114	Early nodulin-93 OS=Glycine max PE=2 SV=1
+T3_Unigene_BMK.37606	sp|A2YIW7|TRXH_ORYSI	4.11889e-60	90/118(76.27)	188	Thioredoxin H-type OS=Oryza sativa subsp. indica GN=TRXH PE=1 SV=1
+T3_Unigene_BMK.3782	sp|O82290|SKL2_ARATH	4.5843e-133	194/313(61.98)	392	Probable inactive shikimate kinase like 2, chloroplastic OS=Arabidopsis thaliana GN=SKL2 PE=2 SV=2
+T3_Unigene_BMK.3914	sp|P13728|SGS3_DROYA	4.81366e-10	47/166(28.31)	60	Salivary glue protein Sgs-3 OS=Drosophila yakuba GN=Sgs3 PE=2 SV=3
+T3_Unigene_BMK.4104	sp|Q84TC2|BX6_MAIZE	5.45818e-93	171/354(48.31)	289	DIBOA-glucoside dioxygenase BX6 OS=Zea mays GN=BX6 PE=1 SV=1
+T3_Unigene_BMK.4125	sp|Q7Y1Z0|CHI5_ORYSJ	1.29747e-139	190/289(65.74)	402	Chitinase 5 OS=Oryza sativa subsp. japonica GN=Cht5 PE=2 SV=1
+T3_Unigene_BMK.4233	sp|A3BMZ5|BGL26_ORYSJ	0	378/453(83.44)	816	Beta-glucosidase 26 OS=Oryza sativa subsp. japonica GN=BGLU26 PE=1 SV=1
+T3_Unigene_BMK.4235	sp|Q10MX1|P2C32_ORYSJ	5.60265e-109	187/314(59.55)	342	Probable protein phosphatase 2C 32 OS=Oryza sativa subsp. japonica GN=Os03g0292100 PE=2 SV=1
+T3_Unigene_BMK.44293	sp|Q9SN46|LRX5_ARATH	7.23081e-06	33/108(30.56)	40	Leucine-rich repeat extensin-like protein 5 OS=Arabidopsis thaliana GN=LRX5 PE=2 SV=2
+T3_Unigene_BMK.45320	sp|P12948|DHN3_HORVU	1.57236e-46	72/78(92.31)	149	Dehydrin DHN3 OS=Hordeum vulgare GN=DHN3 PE=2 SV=1
+T3_Unigene_BMK.4607	sp|Q94AA4|K6PF3_ARATH	0	304/414(73.43)	640	6-phosphofructokinase 3 OS=Arabidopsis thaliana GN=PFK3 PE=1 SV=1
+T3_Unigene_BMK.463	sp|P28284|ICP0_HHV2H	1.60545e-07	58/182(31.87)	56	E3 ubiquitin-protein ligase ICP0 OS=Human herpesvirus 2 (strain HG52) GN=RL2 PE=3 SV=1
+T3_Unigene_BMK.47413	sp|Q9NAX4|SP65_DICDI	6.65038e-08	45/135(33.33)	53	Spore coat protein SP65 OS=Dictyostelium discoideum GN=cotE PE=1 SV=1
+T3_Unigene_BMK.4814	sp|P13983|EXTN_TOBAC	3.00734e-11	113/459(24.62)	70	Extensin OS=Nicotiana tabacum GN=HRGPNT3 PE=2 SV=1
+T3_Unigene_BMK.48388	sp|Q9M069|E137_ARATH	1.03901e-21	43/98(43.88)	94	Glucan endo-1,3-beta-glucosidase 7 OS=Arabidopsis thaliana GN=At4g34480 PE=1 SV=2
+T1_Unigene_BMK.21826	sp|Q9LHE3|ASPG2_ARATH	3.65235e-10	63/223(28.25)	65	Protein ASPARTIC PROTEASE IN GUARD CELL 2 OS=Arabidopsis thaliana GN=ASPG2 PE=2 SV=1
+T3_Unigene_BMK.50080	sp|P31862|IBBWP_MAIZE	1.26763e-08	42/102(41.18)	55	Bowman-Birk type wound-induced proteinase inhibitor WIP1 OS=Zea mays GN=WIP1 PE=2 SV=1
+T3_Unigene_BMK.50471	sp|Q75K78|CKX9_ORYSJ	3.81695e-52	83/106(78.30)	176	Cytokinin dehydrogenase 9 OS=Oryza sativa subsp. japonica GN=CKX9 PE=2 SV=1
+T3_Unigene_BMK.5152	sp|P42761|GSTFA_ARATH	1.6345e-40	82/241(34.02)	147	Glutathione S-transferase F10 OS=Arabidopsis thaliana GN=GSTF10 PE=1 SV=3
+T3_Unigene_BMK.51873	sp|Q5Z6F5|P2C59_ORYSJ	1.29689e-162	227/247(91.90)	456	Probable protein phosphatase 2C 59 OS=Oryza sativa subsp. japonica GN=Os06g0698300 PE=2 SV=1
+T3_Unigene_BMK.5246	sp|Q5E9D6|HDHD3_BOVIN	6.14579e-30	72/212(33.96)	120	Haloacid dehalogenase-like hydrolase domain-containing protein 3 OS=Bos taurus GN=HDHD3 PE=2 SV=1
+T3_Unigene_BMK.5255	sp|Q9LS40|ASPG1_ARATH	1.23859e-18	46/125(36.80)	85	Protein ASPARTIC PROTEASE IN GUARD CELL 1 OS=Arabidopsis thaliana GN=ASPG1 PE=1 SV=1
+T3_Unigene_BMK.5256	sp|Q9LHE3|ASPG2_ARATH	1.39038e-58	108/285(37.89)	200	Protein ASPARTIC PROTEASE IN GUARD CELL 2 OS=Arabidopsis thaliana GN=ASPG2 PE=2 SV=1
+T3_Unigene_BMK.52676	sp|P31862|IBBWP_MAIZE	6.34512e-06	36/100(36.00)	46	Bowman-Birk type wound-induced proteinase inhibitor WIP1 OS=Zea mays GN=WIP1 PE=2 SV=1
+T3_Unigene_BMK.53102	sp|P31862|IBBWP_MAIZE	2.83528e-08	39/101(38.61)	53	Bowman-Birk type wound-induced proteinase inhibitor WIP1 OS=Zea mays GN=WIP1 PE=2 SV=1
+T1_Unigene_BMK.21998	sp|P08640|MUC1_YEAST	2.53142e-14	68/300(22.67)	60	Flocculation protein FLO11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=MUC1 PE=1 SV=2
+T1_Unigene_BMK.22053	sp|B6TYV8|CNR2_MAIZE	2.47117e-07	25/41(60.98)	50	Cell number regulator 2 OS=Zea mays GN=CNR2 PE=2 SV=1
+T3_Unigene_BMK.5335	sp|Q7XJ60|EB1A_ARATH	1.0475e-112	168/274(61.31)	334	Microtubule-associated protein RP/EB family member 1A OS=Arabidopsis thaliana GN=EB1A PE=1 SV=1
+T3_Unigene_BMK.53385	sp|Q9SZN7|HIP26_ARATH	2.91327e-24	43/98(43.88)	92	Heavy metal-associated isoprenylated plant protein 26 OS=Arabidopsis thaliana GN=HIPP26 PE=1 SV=1
+T3_Unigene_BMK.53572	sp|Q6K548|VDAC1_ORYSJ	1.92146e-14	74/278(26.62)	77	Mitochondrial outer membrane protein porin 1 OS=Oryza sativa subsp. japonica GN=VDAC1 PE=1 SV=3
+T3_Unigene_BMK.5382	sp|Q94AG2|SERK1_ARATH	0	413/481(85.86)	827	Somatic embryogenesis receptor kinase 1 OS=Arabidopsis thaliana GN=SERK1 PE=1 SV=2
+T3_Unigene_BMK.54195	sp|P24397|HY6H_HYONI	6.84124e-34	71/179(39.66)	125	Hyoscyamine 6-dioxygenase OS=Hyoscyamus niger GN=H6H PE=1 SV=1
+T3_Unigene_BMK.5500	sp|Q9SJL9|XTH32_ARATH	4.53045e-132	179/294(60.88)	387	Probable xyloglucan endotransglucosylase/hydrolase protein 32 OS=Arabidopsis thaliana GN=XTH32 PE=2 SV=1
+T3_Unigene_BMK.5609	sp|P41344|FENR1_ORYSJ	0	297/365(81.37)	583	Ferredoxin--NADP reductase, leaf isozyme, chloroplastic OS=Oryza sativa subsp. japonica GN=Os06g0107700 PE=2 SV=1
+T3_Unigene_BMK.56314	sp|P21997|SSGP_VOLCA	1.45095e-15	38/83(45.78)	76	Sulfated surface glycoprotein 185 OS=Volvox carteri PE=1 SV=1
+T3_Unigene_BMK.5670	sp|Q01IS7|INV2_ORYSI	0	478/598(79.93)	991	Beta-fructofuranosidase, insoluble isoenzyme 2 OS=Oryza sativa subsp. indica GN=CIN2 PE=2 SV=2
+T3_Unigene_BMK.5732	sp|P37707|B2_DAUCA	8.18974e-94	146/211(69.19)	287	B2 protein OS=Daucus carota PE=2 SV=1
+T3_Unigene_BMK.57346	sp|P81713|IBB3_WHEAT	3.7947e-30	47/69(68.12)	111	Bowman-Birk type trypsin inhibitor OS=Triticum aestivum PE=1 SV=1
+T3_Unigene_BMK.57349	sp|Q9LHA8|MD37C_ARATH	8.45216e-47	77/85(90.59)	160	Probable mediator of RNA polymerase II transcription subunit 37c OS=Arabidopsis thaliana GN=MED37C PE=1 SV=1
+T3_Unigene_BMK.57365	sp|Q8W453|DIR1_ARATH	6.23652e-06	30/101(29.70)	47	Putative lipid-transfer protein DIR1 OS=Arabidopsis thaliana GN=DIR1 PE=1 SV=1
+T3_Unigene_BMK.57402	sp|P28968|GP2_EHV1B	4.09325e-24	84/213(39.44)	102	Glycoprotein gp2 OS=Equine herpesvirus 1 (strain Ab4p) GN=EUs4 PE=4 SV=1
+T3_Unigene_BMK.5748	sp|Q2IIK1|LON_ANADE	4.51877e-07	65/247(26.32)	55	Lon protease OS=Anaeromyxobacter dehalogenans (strain 2CP-C) GN=lon PE=3 SV=1
+T3_Unigene_BMK.586	sp|P27525|CB4B_SOLLC	2.08628e-141	198/256(77.34)	405	Chlorophyll a-b binding protein CP24 10B, chloroplastic OS=Solanum lycopersicum GN=CAP10B PE=3 SV=1
+T3_Unigene_BMK.5865	sp|A3AZ88|MT2C_ORYSJ	4.34654e-26	45/69(65.22)	97	Metallothionein-like protein 2C OS=Oryza sativa subsp. japonica GN=MT2C PE=2 SV=1
+T3_Unigene_BMK.59023	sp|Q38857|XTH22_ARATH	1.21664e-37	59/115(51.30)	130	Xyloglucan endotransglucosylase/hydrolase protein 22 OS=Arabidopsis thaliana GN=XTH22 PE=1 SV=1
+T3_Unigene_BMK.5912	sp|P09315|G3PA_MAIZE	0	352/386(91.19)	696	Glyceraldehyde-3-phosphate dehydrogenase A, chloroplastic OS=Zea mays GN=GAPA PE=2 SV=1
+T3_Unigene_BMK.5913	sp|P09043|G3PA_TOBAC	6.19703e-10	24/24(100.00)	58	Glyceraldehyde-3-phosphate dehydrogenase A, chloroplastic (Fragment) OS=Nicotiana tabacum GN=GAPA PE=2 SV=1
+T3_Unigene_BMK.59711	sp|P42815|RNS3_ARATH	3.32431e-34	52/106(49.06)	121	Ribonuclease 3 OS=Arabidopsis thaliana GN=RNS3 PE=2 SV=1
+T3_Unigene_BMK.59761	sp|Q5UR45|YL572_MIMIV	1.93395e-07	27/56(48.21)	53	Putative AAA family ATPase L572 OS=Acanthamoeba polyphaga mimivirus GN=MIMI_L572 PE=3 SV=1
+T3_Unigene_BMK.60065	sp|Q84TB6|ADF3_ORYSJ	7.97168e-62	97/150(64.67)	194	Actin-depolymerizing factor 3 OS=Oryza sativa subsp. japonica GN=ADF3 PE=1 SV=1
+T3_Unigene_BMK.60092	sp|Q7DNA1|CHI2_ORYSJ	1.61991e-104	137/171(80.12)	308	Chitinase 2 OS=Oryza sativa subsp. japonica GN=Cht2 PE=1 SV=1
+T3_Unigene_BMK.6015	sp|Q940M2|AGT21_ARATH	0	346/436(79.36)	746	Alanine--glyoxylate aminotransferase 2 homolog 1, mitochondrial OS=Arabidopsis thaliana GN=AGT2 PE=1 SV=1
+T3_Unigene_BMK.60624	sp|Q0E4A8|HS189_ORYSJ	1.48399e-41	69/87(79.31)	141	18.9 kDa heat shock protein OS=Oryza sativa subsp. japonica GN=HSP18.9 PE=2 SV=1
+T3_Unigene_BMK.60722	sp|P98088|MUC5A_HUMAN	2.08016e-06	49/157(31.21)	52	Mucin-5AC (Fragments) OS=Homo sapiens GN=MUC5AC PE=1 SV=3
+T3_Unigene_BMK.60789	sp|Q8S9L6|CRK29_ARATH	5.79879e-10	35/97(36.08)	60	Cysteine-rich receptor-like protein kinase 29 OS=Arabidopsis thaliana GN=CRK29 PE=2 SV=1
+T3_Unigene_BMK.61085	sp|Q8BTI8|SRRM2_MOUSE	8.0494e-10	53/149(35.57)	62	Serine/arginine repetitive matrix protein 2 OS=Mus musculus GN=Srrm2 PE=1 SV=3
+T3_Unigene_BMK.61208	sp|Q69LA1|PROT2_ORYSJ	0	325/425(76.47)	684	Probable proline transporter 2 OS=Oryza sativa subsp. japonica GN=LOC_Os07g01090 PE=2 SV=1
+T3_Unigene_BMK.613	sp|Q84MC0|UGPI4_ARATH	2.39945e-57	89/162(54.94)	188	Uncharacterized GPI-anchored protein At3g06035 OS=Arabidopsis thaliana GN=At3g06035 PE=2 SV=1
+T3_Unigene_BMK.6152	sp|Q40024|BADH_HORVU	0	397/423(93.85)	783	Betaine aldehyde dehydrogenase OS=Hordeum vulgare PE=2 SV=1
+T3_Unigene_BMK.61712	sp|P26154|CR14_HORVU	1.41271e-20	47/78(60.26)	84	Cold-regulated protein BLT14 OS=Hordeum vulgare GN=BLT14 PE=2 SV=1
+T3_Unigene_BMK.61938	sp|A3C5A7|GRP2_ORYSJ	2.29281e-101	145/188(77.13)	293	Glycine-rich cell wall structural protein 2 OS=Oryza sativa subsp. japonica GN=GRP0.9 PE=2 SV=1
+T3_Unigene_BMK.61965	sp|Q9T0J1|CRK26_ARATH	2.9776e-42	112/318(35.22)	169	Cysteine-rich receptor-like protein kinase 26 OS=Arabidopsis thaliana GN=CRK26 PE=2 SV=1
+T3_Unigene_BMK.62005	sp|Q9ASX2|TRNH1_ARATH	7.17713e-90	139/261(53.26)	274	Tropinone reductase homolog At1g07440 OS=Arabidopsis thaliana GN=At1g07440 PE=1 SV=1
+T3_Unigene_BMK.6217	sp|Q9ZW95|C7352_ARATH	2.38314e-99	185/516(35.85)	315	Cytokinin hydroxylase OS=Arabidopsis thaliana GN=CYP735A2 PE=1 SV=1
+T3_Unigene_BMK.62252	sp|P29250|LOX2_ORYSJ	3.69146e-70	106/143(74.13)	229	Linoleate 9S-lipoxygenase 2 OS=Oryza sativa subsp. japonica GN=LOX1.1 PE=2 SV=2
+T3_Unigene_BMK.62344	sp|P20159|DEF2_WHEAT	9.40251e-30	44/47(93.62)	107	Defensin-like protein 2 OS=Triticum aestivum PE=1 SV=1
+T3_Unigene_BMK.62395	sp|Q9FIA1|GDL87_ARATH	2.72984e-48	125/373(33.51)	173	GDSL esterase/lipase At5g55050 OS=Arabidopsis thaliana GN=At5g55050 PE=2 SV=1
+T3_Unigene_BMK.62457	sp|Q9ZPX9|KIC_ARATH	8.88493e-37	68/106(64.15)	131	Calcium-binding protein KIC OS=Arabidopsis thaliana GN=KIC PE=1 SV=2
+T3_Unigene_BMK.62471	sp|P20143|PSAH_HORVU	1.913e-90	134/143(93.71)	268	Photosystem I reaction center subunit VI, chloroplastic OS=Hordeum vulgare GN=PSAH PE=1 SV=1
+T3_Unigene_BMK.62550	sp|P21260|YPRO_OWEFU	4.55242e-13	30/55(54.55)	67	Uncharacterized proline-rich protein (Fragment) OS=Owenia fusiformis PE=4 SV=1
+T3_Unigene_BMK.62708	sp|Q41001|BCP_PEA	5.76334e-33	66/135(48.89)	121	Blue copper protein OS=Pisum sativum PE=2 SV=1
+T3_Unigene_BMK.62824	sp|P60412|KR10B_HUMAN	2.6633e-09	45/152(29.61)	60	Keratin-associated protein 10-11 OS=Homo sapiens GN=KRTAP10-11 PE=1 SV=3
+T3_Unigene_BMK.6291	sp|Q2QYE1|APY3_ORYSJ	0	308/453(67.99)	637	Probable apyrase 3 OS=Oryza sativa subsp. japonica GN=APY3 PE=2 SV=2
+T3_Unigene_BMK.63107	sp|Q6ZQP7|YV021_HUMAN	1.49136e-11	66/185(35.68)	67	Uncharacterized protein LOC284861 OS=Homo sapiens PE=2 SV=1
+T3_Unigene_BMK.63391	sp|Q8GRT8|PIP24_ORYSJ	6.43573e-38	65/101(64.36)	132	Aquaporin PIP2-4 OS=Oryza sativa subsp. japonica GN=PIP2-4 PE=2 SV=1
+T3_Unigene_BMK.63439	sp|Q9LK03|PERK2_ARATH	4.07065e-06	63/217(29.03)	53	Proline-rich receptor-like protein kinase PERK2 OS=Arabidopsis thaliana GN=PERK2 PE=2 SV=3
+T3_Unigene_BMK.6365	sp|Q9FUM8|HMT3_MAIZE	0	290/326(88.96)	588	Homocysteine S-methyltransferase 3 OS=Zea mays GN=HMT-3 PE=2 SV=1
+T3_Unigene_BMK.63774	sp|P24465|C71A1_PERAE	1.72699e-36	73/154(47.40)	134	Cytochrome P450 71A1 OS=Persea americana GN=CYP71A1 PE=1 SV=2
+T3_Unigene_BMK.63870	sp|Q6ZQP7|YV021_HUMAN	1.21703e-11	51/150(34.00)	67	Uncharacterized protein LOC284861 OS=Homo sapiens PE=2 SV=1
+T3_Unigene_BMK.63961	sp|Q39705|ACCO2_DORSP	2.23997e-39	72/107(67.29)	140	1-aminocyclopropane-1-carboxylate oxidase 2 OS=Doritaenopsis sp. GN=ACO2 PE=2 SV=1
+T3_Unigene_BMK.64098	sp|Q41852|RS21_MAIZE	4.48405e-46	72/81(88.89)	149	40S ribosomal protein S21 OS=Zea mays GN=RPS21 PE=3 SV=1
+T3_Unigene_BMK.64459	sp|P0C230|PRT_PHOTU	2.43182e-12	45/91(49.45)	62	Protamine OS=Phorcus turbinatus PE=1 SV=1
+T3_Unigene_BMK.64736	sp|Q00742|DHR15_WHEAT	1.58864e-36	68/93(73.12)	124	Dehydrin Rab15 OS=Triticum aestivum GN=RAB15 PE=2 SV=1
+T3_Unigene_BMK.64803	sp|P12629|RK13_SPIOL	2.47488e-97	152/244(62.30)	294	50S ribosomal protein L13, chloroplastic OS=Spinacia oleracea GN=RPL13 PE=1 SV=1
+T3_Unigene_BMK.64832	sp|Q8L5C6|XIP1_WHEAT	0	299/304(98.36)	629	Xylanase inhibitor protein 1 OS=Triticum aestivum GN=XIPI PE=1 SV=2
+T3_Unigene_BMK.65175	sp|A8MUU9|YV023_HUMAN	1.18079e-19	136/446(30.49)	94	Putative uncharacterized protein ENSP00000383309 OS=Homo sapiens PE=5 SV=3
+T3_Unigene_BMK.65208	sp|P37219|ASR2_SOLLC	1.18437e-45	79/137(57.66)	153	Abscisic stress-ripening protein 2 OS=Solanum lycopersicum GN=ASR2 PE=4 SV=1
+T3_Unigene_BMK.65229	sp|Q07078|HSP83_ORYSJ	4.21243e-120	178/188(94.68)	358	Heat shock protein 81-3 OS=Oryza sativa subsp. japonica GN=HSP81-3 PE=2 SV=2
+T3_Unigene_BMK.65550	sp|Q9LXA5|LRK91_ARATH	6.23489e-28	61/135(45.19)	113	L-type lectin-domain containing receptor kinase IX.1 OS=Arabidopsis thaliana GN=LECRK91 PE=2 SV=1
+T3_Unigene_BMK.65566	sp|A3BNA1|FLP5_ORYSJ	5.52391e-42	71/106(66.98)	142	Flowering-promoting factor 1-like protein 5 OS=Oryza sativa subsp. japonica GN=Os07g0671000 PE=3 SV=1
+T3_Unigene_BMK.65781	sp|P82900|NLT2G_WHEAT	2.77785e-28	50/92(54.35)	105	Non-specific lipid-transfer protein 2G OS=Triticum aestivum PE=1 SV=2
+T3_Unigene_BMK.66073	sp|P27626|DIN1_RAPSA	2.43483e-34	65/117(55.56)	103	Senescence-associated protein DIN1 OS=Raphanus sativus GN=DIN1 PE=2 SV=1
+T3_Unigene_BMK.66082	sp|Q6L4H4|Y5498_ORYSJ	7.211e-21	56/108(51.85)	91	AP2/ERF and B3 domain-containing protein Os05g0549800 OS=Oryza sativa subsp. japonica GN=Os05g0549800 PE=2 SV=1
+T3_Unigene_BMK.66370	sp|C0ZYA5|IF2_RHOE4	3.31633e-19	74/233(31.76)	91	Translation initiation factor IF-2 OS=Rhodococcus erythropolis (strain PR4 / NBRC 100887) GN=infB PE=3 SV=1
+T3_Unigene_BMK.66750	sp|Q0D5P8|PSBQ_ORYSJ	3.11463e-102	162/218(74.31)	301	Oxygen-evolving enhancer protein 3, chloroplastic OS=Oryza sativa subsp. japonica GN=Os07g0544800 PE=2 SV=1
+T3_Unigene_BMK.66792	sp|Q10QA5|D14_ORYSJ	0	274/318(86.16)	531	Probable strigolactone esterase D14 OS=Oryza sativa subsp. japonica GN=D14 PE=1 SV=1
+T3_Unigene_BMK.66926	sp|Q8BTI8|SRRM2_MOUSE	7.87733e-08	93/326(28.53)	57	Serine/arginine repetitive matrix protein 2 OS=Mus musculus GN=Srrm2 PE=1 SV=3
+T3_Unigene_BMK.66930	sp|Q84UV8|NEC3_NICLS	1.50644e-77	124/253(49.01)	241	Bifunctional monodehydroascorbate reductase and carbonic anhydrase nectarin-3 OS=Nicotiana langsdorffii x Nicotiana sanderae GN=NEC3 PE=1 SV=1
+T3_Unigene_BMK.66998	sp|Q9FJ45|GDL83_ARATH	1.53322e-52	89/203(43.84)	178	GDSL esterase/lipase At5g45910 OS=Arabidopsis thaliana GN=At5g45910 PE=2 SV=1
+T3_Unigene_BMK.67000	sp|Q9FXJ2|GDL7_ARATH	6.72094e-38	65/142(45.77)	138	GDSL esterase/lipase At1g28580 OS=Arabidopsis thaliana GN=At1g28580 PE=2 SV=1
+T3_Unigene_BMK.67067	sp|Q9FPQ6|GP1_CHLRE	2.70339e-31	75/195(38.46)	125	Vegetative cell wall protein gp1 OS=Chlamydomonas reinhardtii GN=GP1 PE=2 SV=1
+T3_Unigene_BMK.67092	sp|P43400|MT1_WHEAT	1.93149e-53	75/75(100.00)	169	Metallothionein-like protein 1 OS=Triticum aestivum GN=ALI1 PE=2 SV=1
+T3_Unigene_BMK.67143	sp|Q9ZV36|UXS6_ARATH	0	302/341(88.56)	622	UDP-glucuronic acid decarboxylase 6 OS=Arabidopsis thaliana GN=UXS6 PE=2 SV=1
+T3_Unigene_BMK.67505	sp|P27322|HSP72_SOLLC	0	262/279(93.91)	521	Heat shock cognate 70 kDa protein 2 OS=Solanum lycopersicum GN=HSC-2 PE=1 SV=1
+T3_Unigene_BMK.67660	sp|Q17RH7|TPRXL_HUMAN	7.80091e-08	39/93(41.94)	55	Putative protein TPRXL OS=Homo sapiens GN=TPRXL PE=5 SV=2
+T3_Unigene_BMK.67693	sp|P42211|ASPRX_ORYSJ	2.37955e-138	193/223(86.55)	399	Aspartic proteinase OS=Oryza sativa subsp. japonica GN=RAP PE=2 SV=2
+T3_Unigene_BMK.67769	sp|Q0JGY1|RL51_ORYSJ	1.40673e-83	124/142(87.32)	253	60S ribosomal protein L5-1 OS=Oryza sativa subsp. japonica GN=RPL5A PE=2 SV=1
+T3_Unigene_BMK.67771	sp|Q0JGY1|RL51_ORYSJ	5.39759e-64	97/102(95.10)	200	60S ribosomal protein L5-1 OS=Oryza sativa subsp. japonica GN=RPL5A PE=2 SV=1
+T3_Unigene_BMK.67868	sp|Q9XF89|CB5_ARATH	1.70989e-25	48/56(85.71)	101	Chlorophyll a-b binding protein CP26, chloroplastic OS=Arabidopsis thaliana GN=LHCB5 PE=2 SV=1
+T3_Unigene_BMK.67917	sp|Q95661|HS21C_SOLLC	7.3113e-10	40/114(35.09)	61	Small heat shock protein, chloroplastic OS=Solanum lycopersicum GN=HSP21 PE=2 SV=1
+T3_Unigene_BMK.68338	sp|P14928|LEA1_HORVU	3.32738e-96	166/214(77.57)	285	ABA-inducible protein PHV A1 OS=Hordeum vulgare GN=HVA1 PE=2 SV=1
+T3_Unigene_BMK.68548	sp|Q9LHE3|ASPG2_ARATH	2.53988e-48	122/358(34.08)	178	Protein ASPARTIC PROTEASE IN GUARD CELL 2 OS=Arabidopsis thaliana GN=ASPG2 PE=2 SV=1
+T3_Unigene_BMK.68563	sp|Q07473|CB4A_ARATH	8.62978e-171	237/289(82.01)	483	Chlorophyll a-b binding protein CP29.1, chloroplastic OS=Arabidopsis thaliana GN=LHCB4.1 PE=1 SV=1
+T3_Unigene_BMK.68597	sp|Q8H8U5|IN21B_ORYSJ	1.02709e-146	204/241(84.65)	419	Protein IN2-1 homolog B OS=Oryza sativa subsp. japonica GN=GSTZ5 PE=2 SV=1
+T3_Unigene_BMK.68705	sp|A3C6G9|GCSH_ORYSJ	1.74098e-104	150/164(91.46)	305	Glycine cleavage system H protein, mitochondrial OS=Oryza sativa subsp. japonica GN=GDCSH PE=1 SV=1
+T3_Unigene_BMK.68731	sp|Q0DLA3|ADF7_ORYSJ	3.41036e-89	129/139(92.81)	265	Actin-depolymerizing factor 7 OS=Oryza sativa subsp. japonica GN=ADF7 PE=2 SV=2
+T3_Unigene_BMK.68834	sp|Q9FPQ6|GP1_CHLRE	4.13141e-11	44/115(38.26)	57	Vegetative cell wall protein gp1 OS=Chlamydomonas reinhardtii GN=GP1 PE=2 SV=1
+T3_Unigene_BMK.69200	sp|Q6ER94|BAS1_ORYSJ	8.24282e-151	216/260(83.08)	429	2-Cys peroxiredoxin BAS1, chloroplastic OS=Oryza sativa subsp. japonica GN=BAS1 PE=1 SV=1
+T3_Unigene_BMK.69472	sp|Q9FLQ7|FH20_ARATH	1.49433e-19	57/128(44.53)	93	Formin-like protein 20 OS=Arabidopsis thaliana GN=FH20 PE=2 SV=3
+T3_Unigene_BMK.6953	sp|Q84ZL0|FH5_ORYSJ	3.89361e-06	35/89(39.33)	53	Formin-like protein 5 OS=Oryza sativa subsp. japonica GN=FH5 PE=2 SV=2
+T3_Unigene_BMK.69537	sp|P30110|GSTF1_WHEAT	3.37031e-159	218/229(95.20)	450	Glutathione S-transferase 1 OS=Triticum aestivum GN=GSTA1 PE=2 SV=1
+T3_Unigene_BMK.69722	sp|Q43473|TBA1_HORVU	0	260/261(99.62)	521	Tubulin alpha-1 chain OS=Hordeum vulgare GN=TUBA1 PE=2 SV=1
+T3_Unigene_BMK.69759	sp|Q6YZF3|SWT11_ORYSJ	6.52933e-53	95/150(63.33)	178	Bidirectional sugar transporter SWEET11 OS=Oryza sativa subsp. japonica GN=SWEET11 PE=1 SV=1
+T3_Unigene_BMK.69862	sp|Q9M8T0|Y3288_ARATH	1.93029e-14	65/192(33.85)	76	Probable inactive receptor kinase At3g02880 OS=Arabidopsis thaliana GN=At3g02880 PE=1 SV=1
+T3_Unigene_BMK.70095	sp|O23044|PER3_ARATH	2.71463e-83	130/211(61.61)	256	Peroxidase 3 OS=Arabidopsis thaliana GN=PER3 PE=2 SV=1
+T3_Unigene_BMK.70128	sp|Q41001|BCP_PEA	3.52243e-34	67/167(40.12)	127	Blue copper protein OS=Pisum sativum PE=2 SV=1
+T3_Unigene_BMK.70314	sp|Q9XG83|G2OX_PHACN	1.03835e-100	169/315(53.65)	308	Gibberellin 2-beta-dioxygenase OS=Phaseolus coccineus GN=GA2OX1 PE=2 SV=1
+T3_Unigene_BMK.70333	sp|O23082|Y4960_ARATH	3.46243e-42	109/342(31.87)	160	Putative receptor-like protein kinase At4g00960 OS=Arabidopsis thaliana GN=At4g00960 PE=2 SV=2
+T3_Unigene_BMK.70391	sp|Q9UQ35|SRRM2_HUMAN	9.98334e-10	114/401(28.43)	65	Serine/arginine repetitive matrix protein 2 OS=Homo sapiens GN=SRRM2 PE=1 SV=2
+T3_Unigene_BMK.7083	sp|Q84TC2|BX6_MAIZE	6.03858e-170	246/369(66.67)	488	DIBOA-glucoside dioxygenase BX6 OS=Zea mays GN=BX6 PE=1 SV=1
+T3_Unigene_BMK.728	sp|Q9FJU9|E1313_ARATH	7.57973e-47	87/215(40.47)	165	Glucan endo-1,3-beta-glucosidase 13 OS=Arabidopsis thaliana GN=At5g56590 PE=1 SV=1
+T3_Unigene_BMK.7355	sp|P0C5C6|GOS9_ORYSJ	1.15745e-30	42/77(54.55)	81	Protein GOS9 OS=Oryza sativa subsp. japonica GN=GOS9 PE=2 SV=1
+T3_Unigene_BMK.7536	sp|P46248|AAT5_ARATH	0	348/417(83.45)	723	Aspartate aminotransferase, chloroplastic OS=Arabidopsis thaliana GN=ASP5 PE=2 SV=2
+T3_Unigene_BMK.7632	sp|Q7FAE1|MOMAS_ORYSJ	4.22216e-77	133/262(50.76)	244	Momilactone A synthase OS=Oryza sativa subsp. japonica GN=Os04g0179200 PE=2 SV=1
+T3_Unigene_BMK.7693	sp|O04153|CALR3_ARATH	0	305/412(74.03)	658	Calreticulin-3 OS=Arabidopsis thaliana GN=CRT3 PE=2 SV=2
+T3_Unigene_BMK.7930	sp|Q688R3|C3H33_ORYSJ	0	295/389(75.84)	560	Zinc finger CCCH domain-containing protein 33 OS=Oryza sativa subsp. japonica GN=Os05g0128200 PE=2 SV=1
+T3_Unigene_BMK.8478	sp|Q9C7T4|BH096_ARATH	2.64376e-76	144/265(54.34)	247	Transcription factor bHLH96 OS=Arabidopsis thaliana GN=BHLH96 PE=2 SV=1
+T3_Unigene_BMK.8641	sp|P92934|AAP6_ARATH	1.53914e-153	221/420(52.62)	449	Amino acid permease 6 OS=Arabidopsis thaliana GN=AAP6 PE=1 SV=1
+T3_Unigene_BMK.8707	sp|P08817|ACP2_HORVU	8.6096e-72	120/127(94.49)	220	Acyl carrier protein 2, chloroplastic OS=Hordeum vulgare GN=ACL1.2 PE=1 SV=2
+T3_Unigene_BMK.8708	sp|Q0J8G4|SCRK2_ORYSJ	0	308/337(91.39)	614	Fructokinase-2 OS=Oryza sativa subsp. japonica GN=FRK2 PE=1 SV=1
+T3_Unigene_BMK.8983	sp|Q54RA4|Y3291_DICDI	2.57034e-43	102/320(31.87)	162	Probable iron/ascorbate oxidoreductase DDB_G0283291 OS=Dictyostelium discoideum GN=DDB_G0283291 PE=3 SV=1
+T3_Unigene_BMK.9011	sp|P16577|UBC4_WHEAT	1.90179e-81	81/82(98.78)	177	Ubiquitin-conjugating enzyme E2-23 kDa OS=Triticum aestivum GN=UBC4 PE=1 SV=1
+T3_Unigene_BMK.9036	sp|P09444|LEA34_GOSHI	4.9241e-32	61/123(49.59)	120	Late embryogenesis abundant protein D-34 OS=Gossypium hirsutum PE=4 SV=1
+T3_Unigene_BMK.9102	sp|P37225|MAON_SOLTU	0	461/617(74.72)	917	NAD-dependent malic enzyme 59 kDa isoform, mitochondrial OS=Solanum tuberosum PE=1 SV=1
+T3_Unigene_BMK.9107	sp|Q05085|PTR7_ARATH	0	360/584(61.64)	689	Nitrate transporter 1.1 OS=Arabidopsis thaliana GN=NRT1.1 PE=1 SV=1
+T3_Unigene_BMK.9197	sp|Q39162|TGA4_ARATH	1.86214e-105	188/359(52.37)	325	Transcription factor TGA4 OS=Arabidopsis thaliana GN=TGA4 PE=1 SV=2
+T3_Unigene_BMK.9216	sp|P10978|POLX_TOBAC	5.04194e-13	94/417(22.54)	75	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
+T3_Unigene_BMK.9260	sp|Q8W3M4|Y4744_ARATH	3.47452e-89	143/277(51.62)	278	Uncharacterized protein At4g06744 OS=Arabidopsis thaliana GN=At4g06744 PE=2 SV=1
+T3_Unigene_BMK.9400	sp|O65685|BLH6_ARATH	6.73133e-74	140/286(48.95)	239	BEL1-like homeodomain protein 6 OS=Arabidopsis thaliana GN=BLH6 PE=2 SV=1
+T3_Unigene_BMK.9477	sp|O81027|HMGCL_ARATH	1.28984e-95	160/250(64.00)	306	Hydroxymethylglutaryl-CoA lyase, mitochondrial OS=Arabidopsis thaliana GN=HMGCL PE=1 SV=2
+T3_Unigene_BMK.9545	sp|Q6PZE0|MUC19_MOUSE	5.54642e-16	113/417(27.10)	86	Mucin-19 OS=Mus musculus GN=Muc19 PE=2 SV=2
+T3_Unigene_BMK.9570	sp|Q84MN7|HFA2A_ORYSJ	1.75945e-96	173/270(64.07)	297	Heat stress transcription factor A-2a OS=Oryza sativa subsp. japonica GN=HSFA2A PE=2 SV=1
+T3_Unigene_BMK.969	sp|P14009|14KD_DAUCA	8.33944e-35	58/84(69.05)	128	14 kDa proline-rich protein DC2.15 OS=Daucus carota PE=2 SV=1
+T3_Unigene_BMK.9697	sp|Q8RWC5|FLA16_ARATH	0	310/424(73.11)	613	Fasciclin-like arabinogalactan protein 16 OS=Arabidopsis thaliana GN=FLA16 PE=2 SV=1
+T3_Unigene_BMK.9894	sp|Q54Z26|GLYC1_DICDI	0	296/454(65.20)	594	Serine hydroxymethyltransferase 1 OS=Dictyostelium discoideum GN=shmt1 PE=1 SV=1
+T3_Unigene_BMK.993	sp|P46524|CO410_WHEAT	2.87731e-175	253/263(96.20)	493	Dehydrin COR410 OS=Triticum aestivum GN=COR410 PE=2 SV=1
+T3_Unigene_BMK.9981	sp|Q9SK87|ADHL2_ARATH	1.63151e-157	226/378(59.79)	459	Alcohol dehydrogenase-like 2 OS=Arabidopsis thaliana GN=At1g22440 PE=2 SV=1
+T4_Unigene_BMK.12405	sp|Q9FE20|PBS1_ARATH	1.3499e-34	54/63(85.71)	114	Serine/threonine-protein kinase PBS1 OS=Arabidopsis thaliana GN=PBS1 PE=1 SV=1
+T4_Unigene_BMK.14083	sp|Q9XI37|PV42A_ARATH	9.98625e-31	70/167(41.92)	117	SNF1-related protein kinase regulatory subunit gamma-like PV42a OS=Arabidopsis thaliana GN=PV42A PE=2 SV=1
+T4_Unigene_BMK.14691	sp|Q6YZF3|SWT11_ORYSJ	1.23513e-91	136/188(72.34)	273	Bidirectional sugar transporter SWEET11 OS=Oryza sativa subsp. japonica GN=SWEET11 PE=1 SV=1
+T4_Unigene_BMK.15417	sp|Q9LV10|PTR53_ARATH	0	298/554(53.79)	619	Probable peptide/nitrate transporter At5g62680 OS=Arabidopsis thaliana GN=At5g62680 PE=2 SV=1
+T4_Unigene_BMK.15582	sp|Q9SW11|PUB35_ARATH	6.05596e-156	256/555(46.13)	471	U-box domain-containing protein 35 OS=Arabidopsis thaliana GN=PUB35 PE=1 SV=2
+T4_Unigene_BMK.15844	sp|Q0VC03|MFSD5_BOVIN	2.13541e-10	43/152(28.29)	63	Major facilitator superfamily domain-containing protein 5 OS=Bos taurus GN=MFSD5 PE=2 SV=1
+T4_Unigene_BMK.15940	sp|O04616|Y4115_ARATH	6.64813e-47	81/130(62.31)	158	Uncharacterized protein At4g01150, chloroplastic OS=Arabidopsis thaliana GN=At4g01150 PE=1 SV=1
+T4_Unigene_BMK.15945	sp|P13917|7SB1_SOYBN	1.53565e-32	120/401(29.93)	131	Basic 7S globulin OS=Glycine max GN=BG PE=1 SV=2
+T4_Unigene_BMK.16030	sp|Q651Z5|HOX6_ORYSJ	2.28707e-72	133/202(65.84)	227	Homeobox-leucine zipper protein HOX6 OS=Oryza sativa subsp. japonica GN=HOX6 PE=2 SV=1
+T4_Unigene_BMK.16051	sp|Q6L545|GID1_ORYSJ	0	290/353(82.15)	605	Gibberellin receptor GID1 OS=Oryza sativa subsp. japonica GN=GID1 PE=1 SV=1
+T4_Unigene_BMK.16103	sp|Q8H8U5|IN21B_ORYSJ	2.63965e-138	192/242(79.34)	396	Protein IN2-1 homolog B OS=Oryza sativa subsp. japonica GN=GSTZ5 PE=2 SV=1
+T4_Unigene_BMK.16263	sp|Q52KI8|SRRM1_MOUSE	6.47027e-09	57/181(31.49)	60	Serine/arginine repetitive matrix protein 1 OS=Mus musculus GN=Srrm1 PE=1 SV=2
+T4_Unigene_BMK.16354	sp|Q688X9|DI191_ORYSJ	3.57734e-123	183/229(79.91)	364	Protein DEHYDRATION-INDUCED 19 OS=Oryza sativa subsp. japonica GN=DI19-1 PE=2 SV=1
+T4_Unigene_BMK.16446	sp|Q8BK67|RCC2_MOUSE	4.51029e-89	181/472(38.35)	290	Protein RCC2 OS=Mus musculus GN=Rcc2 PE=2 SV=1
+T4_Unigene_BMK.16519	sp|Q84Q77|HS17A_ORYSJ	9.73305e-97	142/161(88.20)	285	17.9 kDa class I heat shock protein OS=Oryza sativa subsp. japonica GN=HSP17.9A PE=2 SV=1
+T4_Unigene_BMK.16611	sp|O80360|RK3_TOBAC	3.90009e-119	174/225(77.33)	347	50S ribosomal protein L3, chloroplastic (Fragment) OS=Nicotiana tabacum GN=RPL3 PE=1 SV=1
+T4_Unigene_BMK.16619	sp|Q9SGU9|MGL_ARATH	0	291/444(65.54)	577	Methionine gamma-lyase OS=Arabidopsis thaliana GN=MGL PE=1 SV=1
+T4_Unigene_BMK.16626	sp|Q8IYB3|SRRM1_HUMAN	9.11193e-08	47/147(31.97)	55	Serine/arginine repetitive matrix protein 1 OS=Homo sapiens GN=SRRM1 PE=1 SV=2
+T4_Unigene_BMK.16683	sp|Q9LHE3|ASPG2_ARATH	1.28105e-59	126/347(36.31)	209	Protein ASPARTIC PROTEASE IN GUARD CELL 2 OS=Arabidopsis thaliana GN=ASPG2 PE=2 SV=1
+T4_Unigene_BMK.16747	sp|Q02921|NO93_SOYBN	6.00781e-15	34/44(77.27)	67	Early nodulin-93 OS=Glycine max PE=2 SV=1
+T4_Unigene_BMK.17467	sp|Q27GI3|NAT6_ARATH	0	339/457(74.18)	709	Nucleobase-ascorbate transporter 6 OS=Arabidopsis thaliana GN=NAT6 PE=2 SV=2
+T4_Unigene_BMK.17546	sp|Q9S740|AGP19_ARATH	5.91694e-08	32/70(45.71)	53	Lysine-rich arabinogalactan protein 19 OS=Arabidopsis thaliana GN=AGP19 PE=2 SV=2
+T4_Unigene_BMK.17749	sp|O82533|FTZ21_ARATH	0	320/424(75.47)	616	Cell division protein FtsZ homolog 2-1, chloroplastic OS=Arabidopsis thaliana GN=FTSZ2-1 PE=1 SV=2
+T4_Unigene_BMK.18202	sp|Q8LEE9|FLA12_ARATH	8.90528e-46	95/242(39.26)	159	Fasciclin-like arabinogalactan protein 12 OS=Arabidopsis thaliana GN=FLA12 PE=2 SV=2
+T4_Unigene_BMK.1840	sp|Q41350|OLP1_SOLLC	2.37934e-26	76/243(31.28)	107	Osmotin-like protein OS=Solanum lycopersicum PE=1 SV=1
+T4_Unigene_BMK.18838	sp|Q9FXT4|AGAL_ORYSJ	0	347/417(83.21)	716	Alpha-galactosidase OS=Oryza sativa subsp. japonica GN=Os10g0493600 PE=1 SV=1
+T4_Unigene_BMK.19084	sp|Q6F357|PLA7_ORYSJ	0	289/405(71.36)	590	Phospholipase A1-II 7 OS=Oryza sativa subsp. japonica GN=Os05g0574100 PE=2 SV=1
+T4_Unigene_BMK.19889	sp|Q96324|GSTFB_ARATH	2.28136e-42	82/233(35.19)	146	Glutathione S-transferase F11 OS=Arabidopsis thaliana GN=GSTF11 PE=2 SV=1
+T4_Unigene_BMK.20296	sp|Q652A8|UGE3_ORYSJ	0	287/369(77.78)	588	UDP-glucose 4-epimerase 3 OS=Oryza sativa subsp. japonica GN=UGE-3 PE=2 SV=1
+T4_Unigene_BMK.20316	sp|Q6K8Z4|FH7_ORYSJ	6.51768e-08	59/229(25.76)	51	Formin-like protein 7 OS=Oryza sativa subsp. japonica GN=FH7 PE=2 SV=2
+T4_Unigene_BMK.21718	sp|Q43681|NLTP_VIGUN	1.38183e-23	45/94(47.87)	92	Probable non-specific lipid-transfer protein AKCS9 OS=Vigna unguiculata PE=2 SV=1
+T4_Unigene_BMK.2559	sp|Q75V57|SAPK9_ORYSJ	1.85229e-38	69/85(81.18)	136	Serine/threonine-protein kinase SAPK9 OS=Oryza sativa subsp. japonica GN=SAPK9 PE=2 SV=1
+T4_Unigene_BMK.25803	sp|Q7XN54|YSL16_ORYSJ	2.7617e-65	100/115(86.96)	213	Probable metal-nicotianamine transporter YSL16 OS=Oryza sativa subsp. japonica GN=YSL16 PE=2 SV=2
+T4_Unigene_BMK.28280	sp|Q9FK81|Y5258_ARATH	6.10419e-26	46/99(46.46)	99	Uncharacterized protein At5g22580 OS=Arabidopsis thaliana GN=At5g22580 PE=1 SV=1
+T4_Unigene_BMK.28812	sp|Q8H063|P2C29_ORYSJ	1.03469e-116	166/222(74.77)	340	Probable protein phosphatase 2C 29 OS=Oryza sativa subsp. japonica GN=Os03g0207400 PE=2 SV=1
+T4_Unigene_BMK.29902	sp|P12257|GUB2_HORVU	0	288/312(92.31)	590	Lichenase-2 (Fragment) OS=Hordeum vulgare PE=1 SV=1
+T4_Unigene_BMK.32988	sp|Q94AP3|WAT1_ARATH	0	285/392(72.70)	549	Protein WALLS ARE THIN 1 OS=Arabidopsis thaliana GN=WAT1 PE=1 SV=1
+T4_Unigene_BMK.33119	sp|Q9LSL1|BH093_ARATH	1.44027e-73	120/189(63.49)	241	Transcription factor bHLH93 OS=Arabidopsis thaliana GN=BHLH93 PE=1 SV=1
+T4_Unigene_BMK.33317	sp|Q95JC9|PRP_PIG	2.91477e-17	74/232(31.90)	87	Basic proline-rich protein OS=Sus scrofa PE=1 SV=2
+T4_Unigene_BMK.33351	sp|Q94AA4|K6PF3_ARATH	0	337/461(73.10)	707	6-phosphofructokinase 3 OS=Arabidopsis thaliana GN=PFK3 PE=1 SV=1
+T4_Unigene_BMK.33384	sp|Q2J728|IF2_FRASC	1.68831e-24	136/413(32.93)	112	Translation initiation factor IF-2 OS=Frankia sp. (strain CcI3) GN=infB PE=3 SV=1
+T4_Unigene_BMK.33463	sp|Q08047|GLGB_MAIZE	0	627/831(75.45)	1304	1,4-alpha-glucan-branching enzyme 2, chloroplastic/amyloplastic OS=Zea mays GN=SBE1 PE=1 SV=1
+T4_Unigene_BMK.33562	sp|Q43208|H2A4_WHEAT	1.06518e-52	85/86(98.84)	167	Histone H2A.4 OS=Triticum aestivum GN=TH254 PE=2 SV=3
+T4_Unigene_BMK.33605	sp|Q9FZ45|Y1686_ARATH	0	313/485(64.54)	616	Uncharacterized membrane protein At1g16860 OS=Arabidopsis thaliana GN=At1g16860 PE=1 SV=1
+T4_Unigene_BMK.33737	sp|Q7Y1L9|SP1L1_ORYSJ	1.01582e-48	87/115(75.65)	159	Protein SPIRAL1-like 1 OS=Oryza sativa subsp. japonica GN=Os03g0417800 PE=2 SV=1
+T4_Unigene_BMK.33846	sp|Q9LUV2|POP3_ARATH	5.21908e-44	66/101(65.35)	149	Probable protein Pop3 OS=Arabidopsis thaliana GN=At3g17210 PE=1 SV=1
+T4_Unigene_BMK.33896	sp|Q8RU27|UPTG2_SOLTU	4.17863e-129	167/181(92.27)	369	Alpha-1,4-glucan-protein synthase [UDP-forming] 2 OS=Solanum tuberosum GN=UPTG2 PE=1 SV=1
+T4_Unigene_BMK.34116	sp|Q42202|RL40B_ARATH	3.47295e-39	64/98(65.31)	133	Ubiquitin-60S ribosomal protein L40-2 OS=Arabidopsis thaliana GN=RPL40B PE=1 SV=2
+T4_Unigene_BMK.34310	sp|Q9SLZ0|PCKA_MAIZE	0	576/678(84.96)	1154	Phosphoenolpyruvate carboxykinase [ATP] OS=Zea mays PE=2 SV=1
+T4_Unigene_BMK.34629	sp|Q9XF89|CB5_ARATH	5.5964e-147	211/274(77.01)	419	Chlorophyll a-b binding protein CP26, chloroplastic OS=Arabidopsis thaliana GN=LHCB5 PE=2 SV=1
+T4_Unigene_BMK.34986	sp|Q9LV58|MBF1C_ARATH	5.00489e-50	89/146(60.96)	164	Multiprotein-bridging factor 1c OS=Arabidopsis thaliana GN=MBF1C PE=1 SV=1
+T4_Unigene_BMK.35136	sp|Q02817|MUC2_HUMAN	1.58094e-18	87/283(30.74)	90	Mucin-2 OS=Homo sapiens GN=MUC2 PE=1 SV=2
+T4_Unigene_BMK.35356	sp|P17070|PCNA_ORYSJ	7.53742e-180	256/263(97.34)	503	Proliferating cell nuclear antigen OS=Oryza sativa subsp. japonica GN=Os02g0805200 PE=2 SV=2
+T4_Unigene_BMK.35494	sp|Q9UQ35|SRRM2_HUMAN	2.87455e-13	103/347(29.68)	75	Serine/arginine repetitive matrix protein 2 OS=Homo sapiens GN=SRRM2 PE=1 SV=2
+T4_Unigene_BMK.35711	sp|Q93VK5|LUT5_ARATH	0	381/511(74.56)	786	Protein LUTEIN DEFICIENT 5, chloroplastic OS=Arabidopsis thaliana GN=CYP97A3 PE=1 SV=1
+T4_Unigene_BMK.36479	sp|Q0IU52|ASP1_ORYSJ	3.69105e-81	152/388(39.18)	266	Aspartic proteinase Asp1 OS=Oryza sativa subsp. japonica GN=ASP1 PE=2 SV=1
+T4_Unigene_BMK.37348	sp|Q9C7T4|BH096_ARATH	2.2712e-53	104/193(53.89)	181	Transcription factor bHLH96 OS=Arabidopsis thaliana GN=BHLH96 PE=2 SV=1
+T4_Unigene_BMK.37396	sp|Q9LSA6|PUB29_ARATH	1.07549e-37	124/445(27.87)	147	U-box domain-containing protein 29 OS=Arabidopsis thaliana GN=PUB29 PE=1 SV=1
+T4_Unigene_BMK.37434	sp|O48604|HPPD_HORVU	0	415/436(95.18)	834	4-hydroxyphenylpyruvate dioxygenase OS=Hordeum vulgare PE=2 SV=1
+T4_Unigene_BMK.37462	sp|Q6ZQP7|YV021_HUMAN	1.95798e-12	67/205(32.68)	70	Uncharacterized protein LOC284861 OS=Homo sapiens PE=2 SV=1
+T4_Unigene_BMK.37650	sp|Q9FLG1|BXL4_ARATH	0	517/749(69.03)	1068	Beta-D-xylosidase 4 OS=Arabidopsis thaliana GN=BXL4 PE=1 SV=1
+T4_Unigene_BMK.37752	sp|Q9LT17|BBR_ARATH	4.08327e-13	39/100(39.00)	72	E3 ubiquitin ligase BIG BROTHER-related OS=Arabidopsis thaliana GN=BBR PE=2 SV=1
+T4_Unigene_BMK.38433	sp|Q9C5T4|WRK18_ARATH	2.91347e-31	76/176(43.18)	120	WRKY transcription factor 18 OS=Arabidopsis thaliana GN=WRKY18 PE=1 SV=2
+T4_Unigene_BMK.39033	sp|Q56ZZ7|PLST4_ARATH	0	409/542(75.46)	771	Plastidic glucose transporter 4 OS=Arabidopsis thaliana GN=At5g16150 PE=1 SV=2
+T4_Unigene_BMK.39157	sp|Q9FPQ6|GP1_CHLRE	7.05185e-13	54/162(33.33)	75	Vegetative cell wall protein gp1 OS=Chlamydomonas reinhardtii GN=GP1 PE=2 SV=1
+T4_Unigene_BMK.39354	sp|F4HVY0|CER1_ARATH	0	263/487(54.00)	551	Protein ECERIFERUM 1 OS=Arabidopsis thaliana GN=CER1 PE=1 SV=1
+T4_Unigene_BMK.39387	sp|P13240|DR206_PEA	2.73702e-13	47/148(31.76)	71	Disease resistance response protein 206 OS=Pisum sativum GN=PI206 PE=2 SV=2
+T4_Unigene_BMK.42005	sp|Q9T0K5|LRX3_ARATH	9.04547e-11	19/28(67.86)	44	Leucine-rich repeat extensin-like protein 3 OS=Arabidopsis thaliana GN=LRX3 PE=1 SV=1
+T4_Unigene_BMK.42053	sp|Q9ASX2|TRNH1_ARATH	5.49892e-84	128/259(49.42)	258	Tropinone reductase homolog At1g07440 OS=Arabidopsis thaliana GN=At1g07440 PE=1 SV=1
+T4_Unigene_BMK.44242	sp|Q9LMX4|PPA1_ARATH	0	360/494(72.87)	783	Probable inactive purple acid phosphatase 1 OS=Arabidopsis thaliana GN=PAP1 PE=2 SV=1
+T4_Unigene_BMK.44613	sp|O05413|2NPD_BACSU	5.73655e-29	98/352(27.84)	120	Probable nitronate monooxygenase OS=Bacillus subtilis (strain 168) GN=yrpB PE=3 SV=1
+T4_Unigene_BMK.4544	sp|Q95JC9|PRP_PIG	1.10458e-06	35/78(44.87)	51	Basic proline-rich protein OS=Sus scrofa PE=1 SV=2
+T4_Unigene_BMK.45708	sp|Q9LDD8|MCCB_ARATH	0	411/539(76.25)	860	Methylcrotonoyl-CoA carboxylase beta chain, mitochondrial OS=Arabidopsis thaliana GN=MCCB PE=2 SV=1
+T4_Unigene_BMK.46493	sp|A3AZW5|SPP3_ORYSJ	7.76952e-115	158/205(77.07)	338	Probable sucrose-phosphatase 3 OS=Oryza sativa subsp. japonica GN=SPP3 PE=3 SV=1
+T1_Unigene_BMK.25996	sp|Q01482|WIR1A_WHEAT	2.03423e-31	66/92(71.74)	113	Protein WIR1A OS=Triticum aestivum GN=WIR1A PE=4 SV=1
+T4_Unigene_BMK.49746	sp|Q7F2L3|NAC48_ORYSJ	1.3363e-66	125/183(68.31)	214	NAC domain-containing protein 48 OS=Oryza sativa subsp. japonica GN=NAC48 PE=2 SV=1
+T4_Unigene_BMK.50834	sp|Q6F2Y7|CLPB1_ORYSJ	0	739/795(92.96)	1421	Chaperone protein ClpB1 OS=Oryza sativa subsp. japonica GN=CLPB1 PE=2 SV=1
+T4_Unigene_BMK.50937	sp|Q9FPQ6|GP1_CHLRE	1.71868e-15	68/185(36.76)	80	Vegetative cell wall protein gp1 OS=Chlamydomonas reinhardtii GN=GP1 PE=2 SV=1
+T4_Unigene_BMK.51098	sp|P05167|ALEU_HORVU	0	348/362(96.13)	708	Thiol protease aleurain OS=Hordeum vulgare PE=2 SV=1
+T4_Unigene_BMK.51285	sp|P78621|SEPA_EMENI	9.10341e-13	34/51(66.67)	72	Cytokinesis protein sepA OS=Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139) GN=sepA PE=3 SV=2
+T4_Unigene_BMK.51730	sp|Q0J1C1|ACCO1_ORYSJ	2.59739e-163	234/330(70.91)	468	1-aminocyclopropane-1-carboxylate oxidase 1 OS=Oryza sativa subsp. japonica GN=ACO1 PE=2 SV=1
+T4_Unigene_BMK.51733	sp|P23586|STP1_ARATH	8.01362e-169	246/353(69.69)	483	Sugar transport protein 1 OS=Arabidopsis thaliana GN=STP1 PE=1 SV=2
+T4_Unigene_BMK.52057	sp|Q02921|NO93_SOYBN	1.82886e-32	60/85(70.59)	118	Early nodulin-93 OS=Glycine max PE=2 SV=1
+T4_Unigene_BMK.52217	sp|Q42806|KPYC_SOYBN	0	422/493(85.60)	838	Pyruvate kinase, cytosolic isozyme OS=Glycine max PE=1 SV=1
+T4_Unigene_BMK.52261	sp|Q4R5D9|YTHD2_MACFA	8.27125e-57	114/253(45.06)	209	YTH domain family protein 2 OS=Macaca fascicularis GN=YTHDF2 PE=2 SV=1
+T4_Unigene_BMK.52280	sp|Q42699|METE_CATRO	0	662/766(86.42)	1329	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase OS=Catharanthus roseus GN=METE PE=2 SV=1
+T4_Unigene_BMK.52293	sp|Q9FN37|PSKR2_ARATH	3.46116e-40	107/263(40.68)	161	Phytosulfokine receptor 2 OS=Arabidopsis thaliana GN=PSKR2 PE=2 SV=1
+T4_Unigene_BMK.52583	sp|Q2QZ86|ACLA2_ORYSJ	0	400/423(94.56)	816	ATP-citrate synthase alpha chain protein 2 OS=Oryza sativa subsp. japonica GN=ACLA-2 PE=2 SV=2
+T4_Unigene_BMK.52590	sp|Q6Z7V2|HS24M_ORYSJ	1.71284e-91	152/225(67.56)	276	24.1 kDa heat shock protein, mitochondrial OS=Oryza sativa subsp. japonica GN=HSP24.1 PE=2 SV=1
+T4_Unigene_BMK.52596	sp|Q9FKW8|STR18_ARATH	3.12264e-23	55/115(47.83)	92	Thiosulfate sulfurtransferase 18 OS=Arabidopsis thaliana GN=STR18 PE=1 SV=1
+T4_Unigene_BMK.52603	sp|Q9LPV8|ERF1Y_ARATH	7.50084e-24	38/67(56.72)	83	Eukaryotic peptide chain release factor subunit 1-2 OS=Arabidopsis thaliana GN=ERF1-2 PE=2 SV=1
+T4_Unigene_BMK.52663	sp|Q84MA8|AZG2_ARATH	0	319/515(61.94)	635	Adenine/guanine permease AZG2 OS=Arabidopsis thaliana GN=AZG2 PE=2 SV=1
+T4_Unigene_BMK.52781	sp|Q2IPZ7|IF2_ANADE	8.32559e-10	59/145(40.69)	65	Translation initiation factor IF-2 OS=Anaeromyxobacter dehalogenans (strain 2CP-C) GN=infB PE=3 SV=1
+T4_Unigene_BMK.53185	sp|Q9ZPB7|AL7A1_MALDO	0	408/506(80.63)	849	Aldehyde dehydrogenase family 7 member A1 OS=Malus domestica PE=1 SV=3
+T4_Unigene_BMK.54063	sp|P46637|ARGI1_ARATH	0	288/331(87.01)	580	Arginase OS=Arabidopsis thaliana GN=At4g08900 PE=2 SV=1
+T4_Unigene_BMK.54206	sp|Q9SG80|ASD1_ARATH	5.22024e-30	63/124(50.81)	119	Alpha-L-arabinofuranosidase 1 OS=Arabidopsis thaliana GN=ASD1 PE=1 SV=1
+T4_Unigene_BMK.54435	sp|P16577|UBC4_WHEAT	1.44146e-12	30/30(100.00)	65	Ubiquitin-conjugating enzyme E2-23 kDa OS=Triticum aestivum GN=UBC4 PE=1 SV=1
+T4_Unigene_BMK.54447	sp|Q8W3K3|DRL8_ARATH	3.39881e-37	185/695(26.62)	155	Putative disease resistance protein At1g58400 OS=Arabidopsis thaliana GN=At1g58400 PE=3 SV=1
+T4_Unigene_BMK.54988	sp|Q9LFE4|Y5673_ARATH	1.48456e-123	261/757(34.48)	399	WEB family protein At5g16730, chloroplastic OS=Arabidopsis thaliana GN=At5g16730 PE=1 SV=1
+T4_Unigene_BMK.55020	sp|O80582|FBK46_ARATH	9.73431e-68	142/392(36.22)	229	F-box/kelch-repeat protein At2g44130 OS=Arabidopsis thaliana GN=At2g44130 PE=2 SV=2
+T4_Unigene_BMK.55155	sp|Q9THX6|TL29_SOLLC	6.28487e-148	221/322(68.63)	431	Thylakoid lumenal 29 kDa protein, chloroplastic OS=Solanum lycopersicum GN=CLEB3J9 PE=3 SV=1
+T4_Unigene_BMK.55163	sp|Q67UL3|PIN1C_ORYSJ	0	548/596(91.95)	1060	Probable auxin efflux carrier component 1c OS=Oryza sativa subsp. japonica GN=PIN1C PE=2 SV=1
+T4_Unigene_BMK.55408	sp|Q7XIW5|CIPKT_ORYSJ	0	338/439(76.99)	659	CBL-interacting protein kinase 29 OS=Oryza sativa subsp. japonica GN=CIPK29 PE=2 SV=1
+T4_Unigene_BMK.55659	sp|Q9STY6|RS202_ARATH	9.71401e-10	27/37(72.97)	59	40S ribosomal protein S20-2 OS=Arabidopsis thaliana GN=RPS20B PE=2 SV=1
+T4_Unigene_BMK.55876	sp|Q8BTI8|SRRM2_MOUSE	3.37967e-23	138/433(31.87)	110	Serine/arginine repetitive matrix protein 2 OS=Mus musculus GN=Srrm2 PE=1 SV=3
+T4_Unigene_BMK.56017	sp|P49572|TRPC_ARATH	2.53358e-139	211/328(64.33)	407	Indole-3-glycerol phosphate synthase, chloroplastic OS=Arabidopsis thaliana GN=At2g04400 PE=2 SV=2
+T4_Unigene_BMK.56107	sp|B6DZD0|1FEH_TRIUA	0	507/587(86.37)	1039	Fructan 1-exohydrolase OS=Triticum urartu GN=1-FEH PE=3 SV=1
+T4_Unigene_BMK.56290	sp|P08823|RUBA_WHEAT	0	541/542(99.82)	1021	RuBisCO large subunit-binding protein subunit alpha, chloroplastic (Fragment) OS=Triticum aestivum PE=1 SV=1
+T4_Unigene_BMK.56951	sp|B5WWZ9|FAO2_LOTJA	0	404/749(53.94)	791	Long-chain-alcohol oxidase FAO2 OS=Lotus japonicus GN=FAO2 PE=2 SV=1
+T4_Unigene_BMK.57250	sp|Q94A68|Y1669_ARATH	1.09273e-177	246/333(73.87)	506	Uncharacterized oxidoreductase At1g06690, chloroplastic OS=Arabidopsis thaliana GN=At1g06690 PE=1 SV=1
+T4_Unigene_BMK.57269	sp|Q03200|LIRP1_ORYSJ	2.00362e-41	73/130(56.15)	141	Light-regulated protein OS=Oryza sativa subsp. japonica GN=LIR1 PE=2 SV=1
+T4_Unigene_BMK.57683	sp|Q13439|GOGA4_HUMAN	5.37369e-70	392/1823(21.50)	266	Golgin subfamily A member 4 OS=Homo sapiens GN=GOLGA4 PE=1 SV=1
+T4_Unigene_BMK.57710	sp|Q9ASS7|CAAT2_ARATH	0	424/625(67.84)	836	Cationic amino acid transporter 2, vacuolar OS=Arabidopsis thaliana GN=CAT2 PE=1 SV=1
+T4_Unigene_BMK.57859	sp|Q2QM84|ARFY_ORYSJ	0	707/895(78.99)	1398	Auxin response factor 25 OS=Oryza sativa subsp. japonica GN=ARF25 PE=2 SV=1
+T4_Unigene_BMK.57961	sp|Q9SG80|ASD1_ARATH	0	410/654(62.69)	847	Alpha-L-arabinofuranosidase 1 OS=Arabidopsis thaliana GN=ASD1 PE=1 SV=1
+T4_Unigene_BMK.58010	sp|Q9ZPR0|COQ4_ARATH	2.50687e-123	171/217(78.80)	366	Ubiquinone biosynthesis protein COQ4 homolog, mitochondrial OS=Arabidopsis thaliana GN=At2g03690 PE=2 SV=1
+T4_Unigene_BMK.58312	sp|P50160|TS2_MAIZE	1.62738e-79	139/287(48.43)	250	Sex determination protein tasselseed-2 OS=Zea mays GN=TS2 PE=2 SV=1
+T4_Unigene_BMK.58386	sp|Q09893|YAI5_SCHPO	1.24166e-21	79/249(31.73)	96	Uncharacterized protein C24B11.05 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=SPAC24B11.05 PE=3 SV=1
+T4_Unigene_BMK.58716	sp|Q6ZQP7|YV021_HUMAN	4.31764e-15	61/157(38.85)	76	Uncharacterized protein LOC284861 OS=Homo sapiens PE=2 SV=1
+T4_Unigene_BMK.58749	sp|Q84S18|CSLF8_ORYSJ	0	442/653(67.69)	907	Probable mixed-linked glucan synthase 8 OS=Oryza sativa subsp. japonica GN=CSFL8 PE=2 SV=1
+T4_Unigene_BMK.58859	sp|Q94AH8|TPS6_ARATH	0	599/878(68.22)	1228	Alpha,alpha-trehalose-phosphate synthase [UDP-forming] 6 OS=Arabidopsis thaliana GN=TPS6 PE=1 SV=2
+T4_Unigene_BMK.59262	sp|Q66GQ2|Y5162_ARATH	1.3241e-20	74/289(25.61)	100	Uncharacterized protein At5g41620 OS=Arabidopsis thaliana GN=At5g41620 PE=1 SV=2
+T4_Unigene_BMK.59440	sp|F4JGP4|ATK5_ARATH	0	440/805(54.66)	805	Kinesin-5 OS=Arabidopsis thaliana GN=ATK5 PE=2 SV=1
+T4_Unigene_BMK.59999	sp|Q939N5|GSPB_STRGN	8.45379e-40	173/635(27.24)	160	Platelet binding protein GspB OS=Streptococcus gordonii GN=gspB PE=1 SV=1
+T4_Unigene_BMK.60173	sp|Q9LZW3|PUB16_ARATH	1.77559e-138	206/401(51.37)	365	U-box domain-containing protein 16 OS=Arabidopsis thaliana GN=PUB16 PE=2 SV=1
+T4_Unigene_BMK.60446	sp|A2XQV4|ETFB_ORYSI	6.96479e-49	91/104(87.50)	172	Electron transfer flavoprotein subunit beta, mitochondrial OS=Oryza sativa subsp. indica GN=ETFB PE=2 SV=1
+T4_Unigene_BMK.60769	sp|Q6CQE5|TAR1_KLULA	2.04247e-20	47/88(53.41)	91	Protein TAR1 OS=Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) GN=TAR1-A PE=4 SV=2
+T4_Unigene_BMK.60834	sp|Q10QA5|D14_ORYSJ	0	276/318(86.79)	529	Probable strigolactone esterase D14 OS=Oryza sativa subsp. japonica GN=D14 PE=1 SV=1
+T4_Unigene_BMK.60843	sp|P27665|PSBO_WHEAT	0	313/328(95.43)	604	Oxygen-evolving enhancer protein 1, chloroplastic OS=Triticum aestivum GN=PSBO PE=1 SV=1
+T4_Unigene_BMK.60861	sp|O65091|NLTP4_ORYSJ	1.07708e-48	82/121(67.77)	160	Non-specific lipid-transfer protein 4 OS=Oryza sativa subsp. japonica GN=Os12g0114500 PE=2 SV=2
+T4_Unigene_BMK.60933	sp|P36886|PSAK_HORVU	5.39099e-81	124/131(94.66)	243	Photosystem I reaction center subunit psaK, chloroplastic OS=Hordeum vulgare GN=PSAK PE=1 SV=1
+T4_Unigene_BMK.61003	sp|P84968|DEF2_TRIKH	1.46182e-23	37/49(75.51)	92	Defensin Tk-AMP-D2 OS=Triticum kiharae PE=1 SV=1
+T4_Unigene_BMK.61369	sp|Q5MAU8|PPA27_ARATH	0	390/614(63.52)	833	Probable inactive purple acid phosphatase 27 OS=Arabidopsis thaliana GN=PAP27 PE=2 SV=1
+T4_Unigene_BMK.61526	sp|P01053|ICI2_HORVU	6.64798e-16	33/63(52.38)	72	Subtilisin-chymotrypsin inhibitor-2A OS=Hordeum vulgare PE=1 SV=2
+T4_Unigene_BMK.61758	sp|Q40024|BADH_HORVU	0	477/506(94.27)	953	Betaine aldehyde dehydrogenase OS=Hordeum vulgare PE=2 SV=1
+T4_Unigene_BMK.61817	sp|P13192|PSAF_HORVU	4.7705e-155	226/235(96.17)	440	Photosystem I reaction center subunit III, chloroplastic OS=Hordeum vulgare GN=PSAF PE=1 SV=2
+T4_Unigene_BMK.62089	sp|Q06378|GLNA3_HORVU	0	341/356(95.79)	716	Glutamine synthetase OS=Hordeum vulgare PE=2 SV=1
+T4_Unigene_BMK.62091	sp|Q9LHE3|ASPG2_ARATH	9.29828e-54	120/410(29.27)	194	Protein ASPARTIC PROTEASE IN GUARD CELL 2 OS=Arabidopsis thaliana GN=ASPG2 PE=2 SV=1
+T4_Unigene_BMK.62275	sp|Q9M0U7|FB221_ARATH	5.74726e-50	108/261(41.38)	177	Putative F-box protein At4g05475 OS=Arabidopsis thaliana GN=At4g05475 PE=4 SV=2
+T4_Unigene_BMK.62542	sp|Q9C7F7|UGPI5_ARATH	3.05986e-32	64/173(36.99)	122	Uncharacterized GPI-anchored protein At1g27950 OS=Arabidopsis thaliana GN=At1g27950 PE=1 SV=1
+T4_Unigene_BMK.62550	sp|Q9ST69|RR5_SPIOL	1.09224e-96	175/326(53.68)	296	30S ribosomal protein S5, chloroplastic OS=Spinacia oleracea GN=rps5 PE=1 SV=1
+T4_Unigene_BMK.62652	sp|O65282|CH10C_ARATH	1.51447e-109	157/214(73.36)	320	20 kDa chaperonin, chloroplastic OS=Arabidopsis thaliana GN=CPN21 PE=1 SV=2
+T4_Unigene_BMK.62697	sp|Q9M5X6|NLTP_PYRCO	4.54696e-19	40/90(44.44)	78	Non-specific lipid-transfer protein OS=Pyrus communis PE=1 SV=1
+T4_Unigene_BMK.62827	sp|Q9LKJ3|PHSH_WHEAT	0	822/832(98.80)	1670	Alpha-glucan phosphorylase, H isozyme OS=Triticum aestivum PE=2 SV=1
+T4_Unigene_BMK.62854	sp|B9DFI7|PMT2_ARATH	0	455/609(74.71)	976	Probable methyltransferase PMT2 OS=Arabidopsis thaliana GN=At1g26850 PE=1 SV=2
+T4_Unigene_BMK.62857	sp|Q8LPF3|PME68_ARATH	3.73642e-112	158/197(80.20)	346	Probable pectinesterase 68 OS=Arabidopsis thaliana GN=PME68 PE=2 SV=1
+T4_Unigene_BMK.63062	sp|Q69VR7|PPT1_ORYSJ	0	338/415(81.45)	623	Phosphoenolpyruvate/phosphate translocator 1, chloroplastic OS=Oryza sativa subsp. japonica GN=PPT1 PE=2 SV=1
+T4_Unigene_BMK.63316	sp|P13564|GLNA2_HORVU	0	405/414(97.83)	841	Glutamine synthetase leaf isozyme, chloroplastic OS=Hordeum vulgare PE=2 SV=2
+T4_Unigene_BMK.64715	sp|Q6S6W0|GP2_EHV1V	2.94904e-07	30/85(35.29)	49	Glycoprotein gp2 OS=Equine herpesvirus 1 (strain V592) GN=71 PE=3 SV=1
+T4_Unigene_BMK.64989	sp|P28968|GP2_EHV1B	6.81677e-24	100/346(28.90)	110	Glycoprotein gp2 OS=Equine herpesvirus 1 (strain Ab4p) GN=EUs4 PE=4 SV=1
+T4_Unigene_BMK.65296	sp|Q46036|BLC_CITFR	2.93077e-19	60/151(39.74)	87	Outer membrane lipoprotein blc OS=Citrobacter freundii PE=3 SV=1
+T4_Unigene_BMK.65303	sp|Q9FXJ2|GDL7_ARATH	2.05187e-83	151/363(41.60)	265	GDSL esterase/lipase At1g28580 OS=Arabidopsis thaliana GN=At1g28580 PE=2 SV=1
+T4_Unigene_BMK.76	sp|Q8T4N5|TSEP_GLOPP	1.08325e-73	90/129(69.77)	226	Protein TsetseEP OS=Glossina palpalis palpalis PE=4 SV=1
+T4_Unigene_BMK.8664	sp|Q9LS44|PCR4_ARATH	4.3307e-13	27/46(58.70)	66	Protein PLANT CADMIUM RESISTANCE 4 OS=Arabidopsis thaliana GN=PCR4 PE=3 SV=1
+T4_Unigene_BMK.918	sp|P14928|LEA1_HORVU	1.75356e-32	72/166(43.37)	121	ABA-inducible protein PHV A1 OS=Hordeum vulgare GN=HVA1 PE=2 SV=1
+T1_Unigene_BMK.29104	sp|P10978|POLX_TOBAC	1.40679e-18	76/273(27.84)	93	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
+T1_Unigene_BMK.31446	sp|Q9FRV1|CHIA_SECCE	0	238/320(74.38)	514	Basic endochitinase A OS=Secale cereale GN=rsca PE=1 SV=1
+T1_Unigene_BMK.315	sp|Q01482|WIR1A_WHEAT	3.26649e-58	88/88(100.00)	180	Protein WIR1A OS=Triticum aestivum GN=WIR1A PE=4 SV=1
+T1_Unigene_BMK.31871	sp|Q9LK03|PERK2_ARATH	6.24973e-15	60/150(40.00)	78	Proline-rich receptor-like protein kinase PERK2 OS=Arabidopsis thaliana GN=PERK2 PE=2 SV=3
